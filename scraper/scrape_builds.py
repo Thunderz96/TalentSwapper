@@ -81,10 +81,10 @@ ALL_SPECS = {
 RATE_LIMIT_DELAY = 1.5  # seconds between requests
 
 # Talent import string pattern -- WoW talent export strings
-# They start with 'C' followed by two alpha chars (e.g. CoQ, CkQ, CEk, CYQ)
-# and contain only base64 chars. They are NOT images (GIF/PNG/JPEG).
+# They start with 'C' followed by a short prefix then a long A-padding run
+# (e.g. C4PAA...AAA, CEkAA...AAA, CsbBAA...AAA). Length 60-300.
 TALENT_STRING_PATTERN = re.compile(
-    r'C[A-Za-z][A-Za-z][A-Za-z0-9+/]{50,200}={0,2}'
+    r'C[A-Za-z0-9+/]{1,5}A{8,}[A-Za-z0-9+/]{30,200}={0,2}'
 )
 
 # Known non-talent base64 prefixes to filter out
@@ -110,7 +110,7 @@ def is_talent_string(s: str) -> bool:
     for prefix in IMAGE_PREFIXES:
         if s.startswith(prefix):
             return False
-    if len(s) < 50 or len(s) > 200:
+    if len(s) < 60 or len(s) > 300:
         return False
     return True
 

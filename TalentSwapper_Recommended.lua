@@ -4,7 +4,7 @@
 -- ============================================================
 
 TalentSwapperRecommended = TalentSwapperRecommended or {}
-TalentSwapperRecommended.generatedAt = "2026-04-12 16:00:43"
+TalentSwapperRecommended.generatedAt = "2026-04-12 17:49:06"
 
 TalentSwapperRecommended.specs = {
     ["death-knight:blood"] = {
@@ -4628,17 +4628,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
                         popularity = 95.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzsYmZMjZwYaGAAAAAwMAAAMmZGgZ2AbwsA2MA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzsYmZMjZwYaGAAAAAwMAAAMmZGgZ2AbwsA2MA",
                         popularity = 31.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
                         popularity = 20.5,
                     },
                 },
@@ -4650,17 +4650,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAAYmxMAzsB2wMLgND",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAAYmxMAzsB2wMLgND",
                         popularity = 93.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAAMPwYAMzGALmFwmB",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwYaGAAAAAAAAAMPwYAMzGALmFwmB",
                         popularity = 22.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwQzAAAAAAAAAgZGDgZ2AYxsA2MA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZwQzAAAAAAAAAgZGDgZ2AYxsA2MA",
                         popularity = 18.2,
                     },
                 },
@@ -4672,17 +4672,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzsYmZMjZwYaGAAAAAwMAAAMmZGgZ2AbwsA2MA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzsYmZMjZwYaGAAAAAwMAAAMmZGgZ2AbwsA2MA",
                         popularity = 68.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
                         popularity = 18.3,
                     },
                 },
@@ -4694,17 +4694,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAAMDAAAzMzMAzsBYYWAbGA",
                         popularity = 93.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
                         popularity = 47.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYmZGmZGzYGWGaGAAAAAwMAAAMmZMgZ2AMMLgFD",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYmZGmZGzYGWGaGAAAAAwMAAAMmZMgZ2AMMLgFD",
                         popularity = 20.4,
                     },
                 },
@@ -4716,17 +4716,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmxMYmxMmBDNDAAAAAAAAAmZMzAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmxMYmxMmBDNDAAAAAAAAAmZMzAmZDshZWAbGA",
                         popularity = 76.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjxAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjxAmZDglZWAbGA",
                         popularity = 44.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmxM2mZGzYGMmmBAAAAAAAAAjxMDYmNADzCYzA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmxM2mZGzYGMmmBAAAAAAAAAjxMDYmNADzCYzA",
                         popularity = 31.8,
                     },
                 },
@@ -4738,7 +4738,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZYZMNDAAAAAAAAAYMGwMbAGmFwmB",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZYZMNDAAAAAAAAAYMGwMbAGmFwmB",
                         popularity = 100.0,
                     },
                 },
@@ -4750,7 +4750,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsBzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsBzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAgZAAAYMzMDYmNwGMLgND",
                         popularity = 100.0,
                     },
                 },
@@ -4762,17 +4762,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYmFzYMjZwYaGAAAAAAAAAMzYGgZ2AbwsA2MA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYmFzYMjZwYaGAAAAAAAAAMzYGgZ2AbwsA2MA",
                         popularity = 94.4,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYmltZmxMmBjpZAAAAAAAAAwMjBwMbAwsA2MA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYmltZmxMmBjpZAAAAAAAAAwMjBwMbAwsA2MA",
                         popularity = 27.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAAYmxMAzsB2wMLgND",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAAYmxMAzsB2wMLgND",
                         popularity = 17.8,
                     },
                 },
@@ -4797,17 +4797,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 51.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 36.2,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 27.5,
                     },
                 },
@@ -4818,17 +4818,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 50.4,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 37.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 29.4,
                     },
                 },
@@ -4839,17 +4839,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 51.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 36.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 26.5,
                     },
                 },
@@ -4860,17 +4860,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 50.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 37.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMsM0MAAAAAAAAAYmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 26.7,
                     },
                 },
@@ -4881,17 +4881,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 50.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 36.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 27.1,
                     },
                 },
@@ -4902,17 +4902,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 51.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 36.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 27.2,
                     },
                 },
@@ -4923,17 +4923,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZMjtZmxMmBDNDAAAAAYGAAAmHYMGmZACziZBsZA",
                         popularity = 50.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 36.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 28.0,
                     },
                 },
@@ -4944,17 +4944,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 52.8,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 34.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 27.2,
                     },
                 },
@@ -4965,17 +4965,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDglZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAmxYYmBIMMLgFD",
                         popularity = 52.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmBzMmxMYoZAAAAAAAAAwMjZAmZDshZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAAMDAAAMGDzMAhhZBsZA",
                         popularity = 35.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CsAzwQDbAAYGzyMzwMMzMzMmZYmZMDzMmZmxmZGzYGMmmBAAAAAAAAAmxYAzsBgZWAbGA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAAMDAAAzDMmZYmBIgZBsZA",
                         popularity = 27.5,
                     },
                 },
@@ -4993,17 +4993,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
                         popularity = 73.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
                         popularity = 14.0,
                     },
                 },
@@ -5015,17 +5015,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
                         popularity = 87.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAzMmBAzM2gZA2wA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAzMmBAzM2gZA2wA",
                         popularity = 14.7,
                     },
                 },
@@ -5037,17 +5037,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzMDAzM22gBYbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzMDAzM22gBYbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMYGAAAjxAwMjNGGgthB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMYGAAAjxAwMjNGGgthB",
                         popularity = 69.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAwMzYAYmxGDDw2wA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAwMzYAYmxGDDw2wA",
                         popularity = 30.1,
                     },
                 },
@@ -5059,17 +5059,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
                         popularity = 89.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
                         popularity = 12.8,
                     },
                 },
@@ -5081,17 +5081,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjxMbbbmZmhZGWmZWGjZZYmBAAMmZmBgZGbbwAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjxMbbbmZmhZGWmZWGjZZYmBAAMmZmBgZGbbwAshB",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 84.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZsZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAgZmxAwMjNGGgNM",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZsZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAgZmxAwMjNGGgNM",
                         popularity = 14.7,
                     },
                 },
@@ -5103,17 +5103,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
                         popularity = 91.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAmZGDAzM2YYA2wA",
                         popularity = 14.7,
                     },
                 },
@@ -5125,17 +5125,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDzYmZMDGTzYMzMbbbmZmhZGMzsMGzywMDAAYMzYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDzYmZMDGTzYMzMbbbmZmhZGMzsMGzywMDAAYMzYAYmxGDDwGG",
                         popularity = 92.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlBzywMDAAYMzMAYmx2mxMALYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlBzywMDAAYMzMAYmx2mxMALYA",
                         popularity = 6.9,
                     },
                 },
@@ -5147,17 +5147,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGmZAAAjZmZAYmx2GMAbYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZsZMzMmBjpZMmZmttNzMzwMDmZWGjZZYmBAAMzYGAMzYbDGgNM",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZsZMzMmBjpZMmZmttNzMzwMDmZWGjZZYmBAAMzYGAMzYbDGgNM",
                         popularity = 88.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGzMz22mZmZYmBzMLjxsMMzAAAYMGAmZsxwAshB",
                         popularity = 14.2,
                     },
                 },
@@ -5169,17 +5169,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzMDAzM22gBYZYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzMDAzM22gBYZYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzYAYmxGziBYZYA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAYMzYAYmxGziBYZYA",
                         popularity = 76.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAwMzYAYmxGDDwywA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDGzMjZwYaGjZmZbbzMzMMzgZmlxYWGMDAAwMzYAYmxGDDwywA",
                         popularity = 20.0,
                     },
                 },
@@ -5197,17 +5197,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 62.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
                         popularity = 63.2,
                     },
                 },
@@ -5218,17 +5218,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 61.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
                         popularity = 62.6,
                     },
                 },
@@ -5239,17 +5239,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 63.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
                         popularity = 63.2,
                     },
                 },
@@ -5260,17 +5260,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.4,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 64.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
                         popularity = 62.5,
                     },
                 },
@@ -5281,17 +5281,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 62.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
                         popularity = 63.2,
                     },
                 },
@@ -5302,17 +5302,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 62.2,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAgZMGAmZsBGgNM",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAgZMGAmZsBGgNM",
                         popularity = 63.4,
                     },
                 },
@@ -5323,17 +5323,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 64.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgZGDAzM2ADwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgZGDAzM2ADwGG",
                         popularity = 63.6,
                     },
                 },
@@ -5344,17 +5344,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjNjZmxMsMmmxYMz22mZmZYmhlZmlxYWGmZAAAmxYAYmxGYA2wA",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjNjZmxMsMmmxYMz22mZmZYmhlZmlxYWGmZAAAmxYAYmxGYA2wA",
                         popularity = 99.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 62.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 62.7,
                     },
                 },
@@ -5365,26 +5365,26 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGDDwGG",
                         popularity = 99.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmhlx0MGjZ222MzMDzMsMzsMGzywMDAAgxYAYmxGMDwGG",
                         popularity = 63.2,
                     },
                     {
                         rank = 3,
-                        talentString = "CMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMjtZMzMmBjpZMGzsttZmZGmZYZmZZMmlhZGAAAjxAwMjNGzAshB",
                         popularity = 64.0,
                     },
                 },
             },
         },
     },
-    ["mage:arcane"] = {
-        class = "Mage",
-        spec = "Arcane",
+    ["hunter:survival"] = {
+        class = "Hunter",
+        spec = "Survival",
         encounters = {
             ["All Bosses"] = {
                 category = "Raid",
@@ -5393,8 +5393,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzMDNzMDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmxMAADAAgZWAAzAghB",
-                        popularity = 100.0,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
+                        popularity = 97.4,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 51.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 11.7,
                     },
                 },
             },
@@ -5405,13 +5415,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzMDNzMDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmxMAADAAgZWAAzAghB",
-                        popularity = 100.0,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
+                        popularity = 98.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CmZoZGDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZm5BmBAYAAAMzCAYGAMM",
-                        popularity = 65.1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 71.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAAGAALLzMziZmZGGjBMzGghxYmZjB",
+                        popularity = 16.5,
                     },
                 },
             },
@@ -5422,8 +5437,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzMDNzMDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmxMAADAAgZWAAzAghB",
-                        popularity = 100.0,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmxMMjxMmBjpZAAAAADAYssMzMLmZmZGjZAmZDsZMjxM2YA",
+                        popularity = 96.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmZmhZMmxMYMNDAAAAYAAjllZmZxMzMjHYmxAmZDwwYMjNG",
+                        popularity = 40.8,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmZmBjxMmBjpZAAAAADAYssMzMLmZmZMzMGwMbAGGjZsxA",
+                        popularity = 13.6,
                     },
                 },
             },
@@ -5434,18 +5459,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CmZoZmZAAAYAAAgZmZWWmZiFAA2GmZGz2ilZmZMzYMmZmZswMzMmBAYAAAMzCAYGAMM",
-                        popularity = 100.0,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMYMNDAAAAYAAssMzMLmZmZGjZGwMbAGGjZmNG",
+                        popularity = 97.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CzMDNzMDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmxMAADAAgZWAAzAghB",
-                        popularity = 82.9,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 73.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CmZoZGDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmZmBAYAAAMzCAYGAMM",
-                        popularity = 47.1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
+                        popularity = 7.8,
                     },
                 },
             },
@@ -5454,6 +5479,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsM0MAAAAgBAwyyMzsYmZmZMmZAzsB2gxYmZjB",
+                        popularity = 97.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 85.4,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxMDYmNAYMmZ2YA",
+                        popularity = 11.4,
+                    },
                 },
             },
             ["Lightblinded Vanguard"] = {
@@ -5461,6 +5501,16 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsM0MAAAAgBAwyyMzsYmZmZMmZAzsB2gxYmZjB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawiZmZmZYZAAAAAAwMmxMMjxMmBjpZAAAAAAAssMzMLmZmZmZmBwMbAmFjxMzGD",
+                        popularity = 50.0,
+                    },
                 },
             },
             ["Crown of the Cosmos"] = {
@@ -5477,17 +5527,377 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzMDNzMDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmxMAADAAgZWAAzAghB",
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
+                        popularity = 97.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 66.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAAMAAWWmZmFzMzMjxYAzsBwixYmZjB",
+                        popularity = 7.4,
+                    },
+                },
+            },
+            ["Belo'ren, Child of Al'ar"] = {
+                category = "Raid",
+                raid = "March of the Queldalans",
+                difficulty = "Mythic",
+                builds = {
+                },
+            },
+            ["Midnight Falls"] = {
+                category = "Raid",
+                raid = "March of the Queldalans",
+                difficulty = "Mythic",
+                builds = {
+                },
+            },
+            ["All Dungeons"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMzMzMLmxYGzgx0MAAAAgBAwyyMzsYmZmhxYAzsBYYMmZ2YA",
+                        popularity = 87.8,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 52.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 23.0,
+                    },
+                },
+            },
+            ["Algeth'ar Academy"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMLmxYGzgx0MAAAAgBAwyyMzsYmZmZMmZAzsBgZMmZ2YA",
+                        popularity = 88.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 52.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 21.4,
+                    },
+                },
+            },
+            ["Magisters' Terrace"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMLmxYGzgx0MAAAAgBAwyyMzsYmZmZmxAYmNADjxMzGD",
+                        popularity = 87.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 54.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 23.6,
+                    },
+                },
+            },
+            ["Maisara Caverns"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMzMzMLmxYGzgx0MAAAAgBAwyyMzsYmZmhxYAzsBYYMmZ2YA",
+                        popularity = 87.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 52.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 23.0,
+                    },
+                },
+            },
+            ["Nexus-Point Xenas"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMLmxYGzgx0MAAAAgBAwyyMzsYmZmZMmBYmNwGmxYmZjB",
+                        popularity = 88.4,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 51.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 24.0,
+                    },
+                },
+            },
+            ["Pit of Saron"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGGzgx0MAAAAgBAwyyMzsYmZmZmxYAzsBAjxMzGD",
+                        popularity = 88.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 52.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 22.9,
+                    },
+                },
+            },
+            ["Seat of the Triumvirate"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMLmxYGzgx0MAAAAgBAwyyMzsYmZmZmxAYmNADjxMzGD",
+                        popularity = 88.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 51.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 24.1,
+                    },
+                },
+            },
+            ["Skyreach"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmZxMGzYGMmmBAAAAMAAWWmZmFzMzMMzYAzsBgZMmZ2YA",
+                        popularity = 88.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 52.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 21.4,
+                    },
+                },
+            },
+            ["Windrunner Spire"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMzMzMLmxYGzgx0MAAAAgBAwyyMzsYmZmhxYAzsBYYMmZ2YA",
+                        popularity = 86.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzswA",
+                        popularity = 53.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmBjpZAAAAADAgllZmZxMzMzMjZGwMbAwYMzsxA",
+                        popularity = 23.7,
+                    },
+                },
+            },
+        },
+    },
+    ["mage:arcane"] = {
+        class = "Mage",
+        spec = "Arcane",
+        encounters = {
+            ["All Bosses"] = {
+                category = "Raid",
+                raid = "All Raids",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CmZoZGDAAADAAAMzMz2yMTsAAw2wMzY2WsMzMjZGjxMzMjFmZmxMAADAAgZWAgZGAMM",
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 68.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 41.9,
+                    },
+                },
+            },
+            ["Imperator Averzian"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 65.1,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzMAAAGAAAYmZmllZmYBAADzMjZbxyMzMmZMGzMzMWYGzMzAAMAAAmZBAMDAGG",
+                        popularity = 41.1,
+                    },
+                },
+            },
+            ["Vorasius"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 71.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMGAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGLMzMzDMDAwAAAYmFAwMAYYA",
+                        popularity = 47.5,
+                    },
+                },
+            },
+            ["Fallen-King Salhadaar"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 82.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamZGAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGbMjZMDAwAAAYmFAwMAYYA",
+                        popularity = 47.1,
+                    },
+                },
+            },
+            ["Vaelgor & Ezzorak"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 77.8,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 57.1,
+                    },
+                },
+            },
+            ["Lightblinded Vanguard"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 100.0,
+                    },
+                },
+            },
+            ["Crown of the Cosmos"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                },
+            },
+            ["Chimaerus, the Undreamt God"] = {
+                category = "Raid",
+                raid = "Dreamrift",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamZGAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGLMzMjZAAGAAAzsAAmBADD",
                         popularity = 71.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CmZoZGDAAADAAAMzMzyyMTsAAw2MmZGzmZZmZGzMGDzMzYhZmZegZAAGAAAzsAAmBADD",
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGLjlZmZW4BmBNzMDAAADAAAMzMzyyMTsAAghZmxstYZmZGzMGjZmZGLMzMzMDAwAAAYmFAwMAYYA",
                         popularity = 33.3,
                     },
                 },
@@ -5510,54 +5920,189 @@ TalentSwapperRecommended.specs = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLmZmFMzQzMGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGzMzMWYmZmHYAAMAAAmZBAmZAwwA",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 54.4,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 17.2,
+                    },
                 },
             },
             ["Algeth'ar Academy"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzswMzQzMGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGzMzMWYmZGDAgBAAwMLAgBAGG",
+                        popularity = 99.8,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 49.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 17.9,
+                    },
                 },
             },
             ["Magisters' Terrace"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 55.8,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzswMzQzMGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGzMzMWYmZGDAgBAAwMLAgBAGG",
+                        popularity = 16.5,
+                    },
                 },
             },
             ["Maisara Caverns"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamZGAAAGAAAYmZmllZmYBAglZMzMmNzyMzMmZMGzMzM2YmZGDAgBAAwMLAgZAwwA",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 57.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 16.8,
+                    },
                 },
             },
             ["Nexus-Point Xenas"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 55.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 17.8,
+                    },
                 },
             },
             ["Pit of Saron"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 51.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 17.4,
+                    },
                 },
             },
             ["Seat of the Triumvirate"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzYmHYAAMAAAmZBAMDAGG",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 56.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 17.4,
+                    },
                 },
             },
             ["Skyreach"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzYmHYAAMAAAmZBAMDAGG",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 54.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzswMzQzMGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGzMzMWYmZGDAgBAAwMLAgBAGG",
+                        popularity = 16.8,
+                    },
                 },
             },
             ["Windrunner Spire"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLmZmFMzQzMGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGzMzMWYmZmHYAAMAAAmZBAmZAwwA",
+                        popularity = 99.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMz8ADAgBAAwMLAgZAwwA",
+                        popularity = 56.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxYmZmxCzMzYAAMAAAmZBAMDAGG",
+                        popularity = 16.7,
+                    },
                 },
             },
         },
@@ -5571,6 +6116,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 98.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
+                        popularity = 18.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZIzMGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 29.4,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -5578,6 +6138,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 97.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZIzMGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 13.8,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAwwYZmZmFmZIzMzMAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 31.0,
+                    },
                 },
             },
             ["Vorasius"] = {
@@ -5585,6 +6160,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 15.8,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZGZmZGAAAGAwMz0sssMDAwmZmx2YmZGLAAAAAwmZmZmBAAjZYMzMzMLDAzMgZMGMDD",
+                        popularity = 37.9,
+                    },
                 },
             },
             ["Fallen-King Salhadaar"] = {
@@ -5592,6 +6182,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
+                        popularity = 32.1,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlllZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZZAYmBYMGMDD",
+                        popularity = 23.5,
+                    },
                 },
             },
             ["Vaelgor & Ezzorak"] = {
@@ -5599,6 +6204,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlllZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZZAYmBYMGMDD",
+                        popularity = 41.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
+                        popularity = 40.0,
+                    },
                 },
             },
             ["Lightblinded Vanguard"] = {
@@ -5620,6 +6240,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Dreamrift",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
+                        popularity = 30.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlllZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZZAYmBYMGMDD",
+                        popularity = 19.2,
+                    },
                 },
             },
             ["Belo'ren, Child of Al'ar"] = {
@@ -5640,12 +6275,42 @@ TalentSwapperRecommended.specs = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
+                        popularity = 94.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 27.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 34.5,
+                    },
                 },
             },
             ["Algeth'ar Academy"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
+                        popularity = 95.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 29.8,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 36.0,
+                    },
                 },
             },
             ["Magisters' Terrace"] = {
@@ -5654,8 +6319,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CmZkZmZAAAYAAzMTzyy2MAAbmZGbjZmZsAAAAAALmZmZAAgxMMmZmZmlBgZGMMGDmhB",
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
                         popularity = 93.9,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 27.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 32.6,
                     },
                 },
             },
@@ -5663,6 +6338,21 @@ TalentSwapperRecommended.specs = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 94.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 26.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 36.1,
+                    },
                 },
             },
             ["Nexus-Point Xenas"] = {
@@ -5671,8 +6361,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CmZkZmZAAAYAAzMTzyy2MAAbmZGbjZmZsAAAAAALmZmZAAgxMMmZmZmlBgZGMMGDmhB",
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
                         popularity = 94.9,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 26.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 34.7,
                     },
                 },
             },
@@ -5680,12 +6380,42 @@ TalentSwapperRecommended.specs = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 94.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 28.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 32.2,
+                    },
                 },
             },
             ["Seat of the Triumvirate"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 95.1,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 29.1,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 34.8,
+                    },
                 },
             },
             ["Skyreach"] = {
@@ -5694,8 +6424,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CmZkZmZGAAADAYmZaWWWmBAYzMzYbMzMjFAAAAAYzMjZAAgxMMmZmZmtBgZGwMGDmhB",
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
                         popularity = 94.2,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 27.4,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 35.2,
                     },
                 },
             },
@@ -5703,6 +6443,21 @@ TalentSwapperRecommended.specs = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 95.1,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 26.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 35.0,
+                    },
                 },
             },
         },
@@ -6497,9 +7252,9 @@ TalentSwapperRecommended.specs = {
             },
         },
     },
-    ["monk:windwalker"] = {
+    ["monk:mistweaver"] = {
         class = "Monk",
-        spec = "Windwalker",
+        spec = "Mistweaver",
         encounters = {
             ["All Bosses"] = {
                 category = "Raid",
@@ -6508,18 +7263,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 99.8,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 93.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
-                        popularity = 55.4,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CzYbYgtZMMzMzwsgZYWmJAgNzsNzwYmZAAsBAzys0MzMLAYgZGAYZMgBM",
-                        popularity = 62.5,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMz0MmBMYAWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
                     },
                 },
             },
@@ -6530,18 +7285,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 100.0,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 94.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
-                        popularity = 75.3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CzYbYAzYYmZmhZbYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 62.5,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMz0MmBMYAWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
                     },
                 },
             },
@@ -6552,18 +7307,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 99.8,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 97.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
-                        popularity = 54.6,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDzGMYxEAAAAAAsYZmlZbmBAAGMGgZAjhxiMmBA",
+                        popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CzYbYgtZMMzMzwsgZYWmJAgNzsNzwYmZAAsBAzys0MzMLAYgZGAYZMgBM",
-                        popularity = 62.5,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
                     },
                 },
             },
@@ -6574,18 +7329,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 100.0,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 98.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
-                        popularity = 61.9,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDzGMYxEAAAAAAsYZmlZbmBAAGMGgZAjhxiMmBA",
+                        popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CzYbYgtZMMzMzwsgZYWmJAgNzsNzwYmZAAsBAzys0MzMLAYgZGAYZMgBM",
-                        popularity = 62.5,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMz0MmBMYAWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
                     },
                 },
             },
@@ -6594,6 +7349,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 98.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMz0MmBMYAWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Lightblinded Vanguard"] = {
@@ -6601,6 +7371,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxM2mB2sYGzMLDbYmZYmltlZGLMz0MmBMYAWmZmZY2gBLmAAAAAAgFLzsMbzMAAwgxAMDYMMWmMmBA",
+                        popularity = 55.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxM2mB2sYGzMLDbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxM2mB2sYGzMLDbYmZYmltlZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Crown of the Cosmos"] = {
@@ -6608,6 +7393,21 @@ TalentSwapperRecommended.specs = {
                 raid = "Voidspire",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 73.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMmmxMgBDYWmZmZY2GmhZxEAAAAAAsYZmlZbmBAAGwAMDYgxiMmBA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Chimaerus, the Undreamt God"] = {
@@ -6617,18 +7417,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 100.0,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
+                        popularity = 93.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
-                        popularity = 69.2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDGWmZmZY2GMYxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CzwwAmxMmZmZY2YmhZZmAA2Mz2MDjZmBAwGAMLzSzMzsAgBmZAYsMAGwA",
-                        popularity = 62.5,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmlttZGLMjmxMgBDwyMzMDz2ghZxEAAAAAAsYZmlZbmBAAGwAMDYMMWmMmBA",
+                        popularity = 37.5,
                     },
                 },
             },
@@ -6637,6 +7437,21 @@ TalentSwapperRecommended.specs = {
                 raid = "March of the Queldalans",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MLDbWMjZmlhNMmhZW22mZswYaGzAGMgZZmZmhZbYGmFTAAAAAAwilZWmtZGAAYADwMgBGLyYGA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MLDbWMjZmlhNMmhZWW2mZswQzYGwgZjhlZmZGmtBDziJAAAAAAYxyMLzyMDAAMgBYGwYYsIjZA",
+                        popularity = 25.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MLDbWMjZmlhNMmhZW2WmZswMaGzAGMYMLzMzMMbDGsYCAAAAAAWsMzysNzAAADYAmBMGGLyYGA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Midnight Falls"] = {
@@ -6650,54 +7465,589 @@ TalentSwapperRecommended.specs = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 92.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2GmhZZmAAAAAAgFbzsMbzMAAAAgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Algeth'ar Academy"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 93.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2GmhZZmAAAAAAgFbzsMbzMAAAAgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Magisters' Terrace"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwYMYMmZmZY2YmhZxEAAAAAAsYbmlZbmBAAGAgZADwiMmBA",
+                        popularity = 92.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Maisara Caverns"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 92.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDzGmhZZmAAAAAAgFbzsMbzMAAwgBgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Nexus-Point Xenas"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 92.8,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2GmhZZmAAAAAAgFbzsMbzMAAAAgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Pit of Saron"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwYMgxMzMDzGMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 92.9,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Seat of the Triumvirate"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmZaGzAGMALzMzMMbYGmlZCAAAAAAWsNzysNzAAAAAmBMGYRGzA",
+                        popularity = 92.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Skyreach"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjtllZMzmZ2WWmZswQzYGLYwAGzMzMMbzGDzyMBAAAAAAL2mZZ2mZAAgBAYGwYgFZMDA",
+                        popularity = 92.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Windrunner Spire"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 92.7,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGaGzAGMgxMzMDz2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZYWwMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        popularity = 37.5,
+                    },
+                },
+            },
+        },
+    },
+    ["monk:windwalker"] = {
+        class = "Monk",
+        spec = "Windwalker",
+        encounters = {
+            ["All Bosses"] = {
+                category = "Raid",
+                raid = "All Raids",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.8,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 55.4,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwM2GGwMGmZmZYWGmhZZmAA2Mz2YYMzMAA2AgZZWamZmFghBmZAglxAGwA",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Imperator Averzian"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 75.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwM2GGwMGmZmZYWGmhZZmAA2Mz2YYMzMAA2AgZZWamZmFghBmZAglxAGwA",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Vorasius"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbzMMmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
+                        popularity = 99.8,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzMbzAAAAAAAAAAAAsMMCzwwAmxwMzMDzywMMLzEAwmZ2mZYMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
+                        popularity = 54.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzMbzAAAAAAAAAAAAsMMCzYbYgtZMMzMzwsgZYWmJAgNzsNzwYmZAAsBAzys0MzMLAYgZGAYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Fallen-King Salhadaar"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwM2GGwMGmZmZYWGmhZZmAA2Mz2YYMzMAA2AgZZWamZmFghBmZAglxAGwA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 61.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Vaelgor & Ezzorak"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 58.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwM2GGwMGmZmZYWGmhZZmAA2Mz2YYMzMAA2AgZZWamZmFghBmZAglxAGwA",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Lightblinded Vanguard"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjmxMMMghZMzMzwshZYWMBAsZmtxwYmZAAsBAzys0MzMLAjZgZGAGLzAMgB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 78.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwshZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYMDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Crown of the Cosmos"] = {
+                category = "Raid",
+                raid = "Voidspire",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjmxMMMY2GmxMzMDzGmhZxEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAjlBwAG",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAGGmZmZY2YmhZZmAA2Mz2YYMzMAA2AgZbWamZmFghBmZAYsMAGwA",
+                        popularity = 33.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMMLzMz2MGAAAAAAAAAAAYZY0MmhhBMMMzMzwsgZYWmJAgtZmtxwYmZAAsBAzys0MzMLAjZgZGAGLDgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Chimaerus, the Undreamt God"] = {
+                category = "Raid",
+                raid = "Dreamrift",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 69.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsNMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Belo'ren, Child of Al'ar"] = {
+                category = "Raid",
+                raid = "March of the Queldalans",
+                difficulty = "Mythic",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzYbGAAAAAAAAAAAglhRYGGGYbGDzMzMMLDzglZCAYzMbjhZmZGAALmZZ2GTAAAjBwMAjlZAmZmFD",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzYbGAAAAAAAAAAAglhRzYGwAbDDzMzMMbDzwsMTAAbmZbMMzMzAAYxMLz2YCAAYMAmBYsMAmZmFD",
+                        popularity = 60.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wwsMzYbGAAAAAAAAAAAglhRYGbYgtZmhZmZGmlhZYWMBAsZmtxwMzMDAgFzsMbjJAAgxAYGgxyMAzMziB",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Midnight Falls"] = {
+                category = "Raid",
+                raid = "March of the Queldalans",
+                difficulty = "Mythic",
+                builds = {
+                },
+            },
+            ["All Dungeons"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 71.1,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Algeth'ar Academy"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjZMzMzwsNMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAALDgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 71.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Magisters' Terrace"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 71.3,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Maisara Caverns"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 72.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Nexus-Point Xenas"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjZMzMzwsNMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAALDgBM",
+                        popularity = 99.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 71.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Pit of Saron"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 69.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Seat of the Triumvirate"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 70.6,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Skyreach"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 68.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
+                },
+            },
+            ["Windrunner Spire"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgNzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
+                        popularity = 99.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwmZ2GDjZmBAwGAMLzSzMzsAMMwMDAswAGwA",
+                        popularity = 73.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMghZZmZ2mxAAAAAAAAAAAALDjwMMMgZMMzMzwsMMDzyMBAsZmtxwYmZAAsBAzys0MzMLADDMzAwYZMgBM",
+                        popularity = 62.5,
+                    },
                 },
             },
         },

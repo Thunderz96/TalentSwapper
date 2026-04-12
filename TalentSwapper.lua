@@ -340,7 +340,7 @@ function TalentSwapper.ApplyTalentString(talentString, profileName)
     end
 
     if specID ~= PlayerUtil.GetCurrentSpecID() then
-        print(CHAT_PREFIX .. "|cFFFF4444This talent string is for a different spec.|r")
+        print(CHAT_PREFIX .. "|cFFFF4444This talent string is for a different spec (string specID=" .. specID .. ", your specID=" .. PlayerUtil.GetCurrentSpecID() .. ").|r")
         return false
     end
 
