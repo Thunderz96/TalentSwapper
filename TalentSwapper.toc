@@ -1,0 +1,10 @@
+## Interface: 120001
+## Title: TalentSwapper
+## Notes: Save, load, and auto-swap talent builds per raid boss, dungeon, or scenario.
+## Author: Thunderz
+## Version: 1.0.0
+## SavedVariables: TalentSwapperDB
+
+TalentSwapper_Recommended.lua
+TalentSwapper.lua
+TalentSwapper_UI.lua
