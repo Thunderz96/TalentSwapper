@@ -32,8 +32,7 @@ local function InitSavedVars()
 
     -- builds[specID] = { { name, category, talentString, bossTag, dungeonTag }, ... }
     if db.builds       == nil then db.builds       = {} end
-    if db.minimapAngle == nil then db.minimapAngle  = 200 end
-    if db.minimapHidden== nil then db.minimapHidden = false end
+    if db.minimap      == nil then db.minimap       = { hide = false } end
     if db.autoDetect   == nil then db.autoDetect    = true end
     if db.reminderSound== nil then db.reminderSound = true end
 end
@@ -573,7 +572,9 @@ SlashCmdList["TALENTSWAPPER"] = function(msg)
         print("  |cFFFFFF00/ts load <#>|r     — Load build by number")
         print("  |cFFFFFF00/ts delete <#>|r   — Delete build by number")
         print("  |cFFFFFF00/ts auto|r         — Toggle auto-detection")
+        print("  |cFFFFFF00/ts minimap|r      — Toggle minimap button")
         print("  |cFFFFFF00/ts reset|r        — Reset window position")
+        print("  |cFFFFFF00/ts status|r       — Show recommended build coverage (dev)")
     elseif msg:sub(1, 5) == "save " then
         local name = msg:sub(6):trim()
         if name == "" then
@@ -612,6 +613,10 @@ SlashCmdList["TALENTSWAPPER"] = function(msg)
         else
             TalentSwapper.DeleteBuild(idx)
         end
+    elseif msg == "minimap" then
+        TalentSwapperDB.minimap.hide = not TalentSwapperDB.minimap.hide
+        if TalentSwapperDB.minimap.hide then icon:Hide("TalentSwapper") else icon:Show("TalentSwapper") end
+        print(CHAT_PREFIX .. "Minimap button: " .. (TalentSwapperDB.minimap.hide and "|cFFFF4444hidden|r" or "|cFF44FF44shown|r"))
     elseif msg == "auto" then
         TalentSwapperDB.autoDetect = not TalentSwapperDB.autoDetect
         local state = TalentSwapperDB.autoDetect and "|cFF00FF00ON|r" or "|cFFFF4444OFF|r"
@@ -620,83 +625,103 @@ SlashCmdList["TALENTSWAPPER"] = function(msg)
         TalentSwapperDB.posX = nil
         TalentSwapperDB.posY = nil
         print(CHAT_PREFIX .. "Window position reset.")
+    elseif msg == "status" then
+        -- Developer tool: show recommended build coverage for all specs
+        local ALL_SPECS = {
+            ["death-knight"] = {"blood", "frost", "unholy"},
+            ["demon-hunter"] = {"havoc", "vengeance"},
+            ["druid"]        = {"balance", "feral", "guardian", "restoration"},
+            ["evoker"]       = {"augmentation", "devastation", "preservation"},
+            ["hunter"]       = {"beast-mastery", "marksmanship", "survival"},
+            ["mage"]         = {"arcane", "fire", "frost"},
+            ["monk"]         = {"brewmaster", "mistweaver", "windwalker"},
+            ["paladin"]      = {"holy", "protection", "retribution"},
+            ["priest"]       = {"discipline", "holy", "shadow"},
+            ["rogue"]        = {"assassination", "outlaw", "subtlety"},
+            ["shaman"]       = {"elemental", "enhancement", "restoration"},
+            ["warlock"]      = {"affliction", "demonology", "destruction"},
+            ["warrior"]      = {"arms", "fury", "protection"},
+        }
+        local rec = TalentSwapperRecommended
+        local specs = rec and rec.specs or {}
+        local totalSpecs, withData, totalBuilds = 0, 0, 0
+        local missing = {}
+
+        print(CHAT_PREFIX .. "=== Recommended Build Coverage ===")
+        if rec and rec.generatedAt then
+            print(CHAT_PREFIX .. "Data generated: |cFFFFD700" .. rec.generatedAt .. "|r")
+        end
+
+        local classOrder = {"death-knight","demon-hunter","druid","evoker","hunter","mage","monk","paladin","priest","rogue","shaman","warlock","warrior"}
+        for _, cls in ipairs(classOrder) do
+            local specList = ALL_SPECS[cls]
+            local clsDisplay = cls:gsub("-", " "):gsub("(%a)([%w_']*)", function(a,b) return a:upper()..b end)
+            local parts = {}
+            for _, sp in ipairs(specList) do
+                totalSpecs = totalSpecs + 1
+                local key = cls .. ":" .. sp
+                local data = specs[key]
+                local spDisplay = sp:gsub("-", " "):gsub("(%a)([%w_']*)", function(a,b) return a:upper()..b end)
+                if data and data.encounters then
+                    local builds = 0
+                    local raid, mplus = 0, 0
+                    for _, enc in pairs(data.encounters) do
+                        local n = enc.builds and #enc.builds or 0
+                        builds = builds + n
+                        if enc.category == "Raid" and n > 0 then raid = raid + 1 end
+                        if enc.category == "Mythic+" and n > 0 then mplus = mplus + 1 end
+                    end
+                    totalBuilds = totalBuilds + builds
+                    if builds > 0 then
+                        withData = withData + 1
+                        table.insert(parts, string.format("|cFF00FF44%s|r(%d R:%d M:%d)", spDisplay, builds, raid, mplus))
+                    else
+                        table.insert(parts, "|cFFFF4444" .. spDisplay .. "|r(0)")
+                        table.insert(missing, clsDisplay .. " " .. spDisplay)
+                    end
+                else
+                    table.insert(parts, "|cFFFF4444" .. spDisplay .. "|r(--)")
+                    table.insert(missing, clsDisplay .. " " .. spDisplay)
+                end
+            end
+            print("  |cFFFFD700" .. clsDisplay .. ":|r  " .. table.concat(parts, "  "))
+        end
+
+        print(CHAT_PREFIX .. string.format("Coverage: |cFF00FF44%d|r/%d specs  |  |cFFFFD700%d|r total builds", withData, totalSpecs, totalBuilds))
+        if #missing > 0 then
+            print(CHAT_PREFIX .. "|cFFFF4444Missing:|r " .. table.concat(missing, ", "))
+        end
     else
         print(CHAT_PREFIX .. "Unknown command. Try |cFFFFFF00/ts help|r")
     end
 end
 
--- ── Minimap button ──────────────────────────────────────────
+-- ── Minimap button (LibDataBroker + LibDBIcon) ─────────────
 
-local function BuildMinimapButton()
-    local btn = CreateFrame("Button", "TalentSwapperMinimapButton", Minimap)
-    btn:SetSize(28, 28)
-    btn:SetFrameStrata("MEDIUM")
-    btn:SetFrameLevel(8)
-    btn:SetHighlightTexture("Interface\\Minimap\\UI-Minimap-ZoomButton-Highlight")
+local LDB  = LibStub("LibDataBroker-1.1")
+local icon = LibStub("LibDBIcon-1.0")
 
-    local icon = btn:CreateTexture(nil, "ARTWORK")
-    icon:SetSize(22, 22)
-    icon:SetPoint("CENTER")
-    icon:SetTexture("Interface\\Icons\\ability_marksmanship")
-
-    local bg = btn:CreateTexture(nil, "BACKGROUND")
-    bg:SetSize(28, 28)
-    bg:SetPoint("CENTER")
-    bg:SetTexture("Interface\\Minimap\\UI-Minimap-Background")
-
-    local border = btn:CreateTexture(nil, "OVERLAY")
-    border:SetSize(52, 52)
-    border:SetPoint("CENTER")
-    border:SetTexture("Interface\\Minimap\\MiniMap-TrackingBorder")
-
-    local function UpdatePos()
-        local angle  = math.rad(TalentSwapperDB.minimapAngle or 200)
-        local radius = 80
-        btn:SetPoint("CENTER", Minimap, "CENTER",
-            math.cos(angle) * radius,
-            math.sin(angle) * radius)
-    end
-    UpdatePos()
-
-    btn:RegisterForDrag("LeftButton")
-    btn:SetScript("OnDragStart", function(self)
-        self:SetScript("OnUpdate", function()
-            local mx, my = Minimap:GetCenter()
-            local px, py = GetCursorPosition()
-            local scale  = UIParent:GetEffectiveScale()
-            px, py = px / scale, py / scale
-            TalentSwapperDB.minimapAngle = math.deg(math.atan2(py - my, px - mx)) % 360
-            UpdatePos()
-        end)
-    end)
-    btn:SetScript("OnDragStop", function(self)
-        self:SetScript("OnUpdate", nil)
-    end)
-
-    btn:SetScript("OnClick", function(_, button)
+local TalentSwapperLDB = LDB:NewDataObject("TalentSwapper", {
+    type = "data source",
+    text = "TalentSwapper",
+    icon = "Interface\\Icons\\ability_marksmanship",
+    OnClick = function(_, button)
         if button == "LeftButton" then
             TalentSwapper.ToggleMainFrame()
         end
-    end)
-
-    btn:SetScript("OnEnter", function(self)
-        GameTooltip:SetOwner(self, "ANCHOR_LEFT")
-        GameTooltip:AddLine("|cFF00BFFFTalentSwapper|r")
-        GameTooltip:AddLine("|cFF888888Click to open/close|r")
+    end,
+    OnTooltipShow = function(tooltip)
+        tooltip:AddLine("|cFF00BFFFTalentSwapper|r")
+        tooltip:AddLine("Left-Click to open/close.", 1, 1, 1)
         local specID = GetPlayerSpecID()
         if specID then
             local builds = GetSpecBuilds(specID)
-            GameTooltip:AddLine("|cFFAAAAAA" .. #builds .. " builds saved|r")
+            tooltip:AddLine("|cFFAAAAAA" .. #builds .. " builds saved|r")
         end
         local autoState = TalentSwapperDB.autoDetect and "|cFF00FF00ON|r" or "|cFFFF4444OFF|r"
-        GameTooltip:AddLine("|cFFAAAAAAAAuto-detect: " .. autoState .. "|r")
-        GameTooltip:Show()
-    end)
-    btn:SetScript("OnLeave", function() GameTooltip:Hide() end)
-
-    TalentSwapper.minimapBtn = btn
-    if TalentSwapperDB.minimapHidden then btn:Hide() end
-end
+        tooltip:AddLine("|cFFAAAAAAAAuto-detect: " .. autoState .. "|r")
+    end,
+})
 
 -- ── Events ──────────────────────────────────────────────────
 
@@ -710,7 +735,7 @@ events:RegisterEvent("TRAIT_CONFIG_CREATED")
 events:SetScript("OnEvent", function(_, event, arg1)
     if event == "ADDON_LOADED" and arg1 == ADDON_NAME then
         InitSavedVars()
-        BuildMinimapButton()
+        icon:Register("TalentSwapper", TalentSwapperLDB, TalentSwapperDB.minimap)
         local specID = GetPlayerSpecID()
         local count = specID and #GetSpecBuilds(specID) or 0
         print(CHAT_PREFIX .. "Loaded - |cFFFFD700" .. count .. "|r builds saved. Type |cFFFFFF00/ts|r to open.")

@@ -81,10 +81,10 @@ ALL_SPECS = {
 RATE_LIMIT_DELAY = 1.5  # seconds between requests
 
 # Talent import string pattern -- WoW talent export strings
-# They start with 'C' followed by a specific pattern (e.g. CoQ, CkQ, CeQ)
+# They start with 'C' followed by two alpha chars (e.g. CoQ, CkQ, CEk, CYQ)
 # and contain only base64 chars. They are NOT images (GIF/PNG/JPEG).
 TALENT_STRING_PATTERN = re.compile(
-    r'C[a-z][A-Z][A-Za-z0-9+/]{50,200}={0,2}'
+    r'C[A-Za-z][A-Za-z][A-Za-z0-9+/]{50,200}={0,2}'
 )
 
 # Known non-talent base64 prefixes to filter out
@@ -94,6 +94,7 @@ IMAGE_PREFIXES = (
     "VBORw",    # PNG variant
     "/9j/",     # JPEG
     "BDAY",     # other media
+    "CCAIAA",   # SVG/PNG snippet on Archon pages
 )
 
 HEADERS = {
