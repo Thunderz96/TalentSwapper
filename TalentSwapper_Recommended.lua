@@ -4,7 +4,7 @@
 -- ============================================================
 
 TalentSwapperRecommended = TalentSwapperRecommended or {}
-TalentSwapperRecommended.generatedAt = "2026-05-12 09:12:41"
+TalentSwapperRecommended.generatedAt = "2026-05-13 09:19:39"
 
 TalentSwapperRecommended.specs = {
     ["death-knight:blood"] = {
@@ -19,7 +19,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
-                        popularity = 70.3,
+                        popularity = 70.4,
                     },
                     {
                         rank = 2,
@@ -63,7 +63,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
-                        popularity = 67.1,
+                        popularity = 67.2,
                     },
                     {
                         rank = 2,
@@ -85,7 +85,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
-                        popularity = 65.4,
+                        popularity = 65.7,
                     },
                     {
                         rank = 2,
@@ -107,7 +107,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
-                        popularity = 79.5,
+                        popularity = 79.4,
                     },
                     {
                         rank = 2,
@@ -129,7 +129,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMwwA",
-                        popularity = 97.2,
+                        popularity = 97.1,
                     },
                     {
                         rank = 2,
@@ -151,7 +151,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMYwA",
-                        popularity = 85.8,
+                        popularity = 84.5,
                     },
                     {
                         rank = 2,
@@ -173,7 +173,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwY2GzMmxMzMMbzMz0MLmZMmxAAAAAzMzMzMzMDzYMAYMzMzAAAYgBmxmGLbA2GwGgZYAAAzMwwA",
-                        popularity = 62.0,
+                        popularity = 62.3,
                     },
                     {
                         rank = 2,
@@ -195,16 +195,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzwMmZMMbzMz0MbmZMmxMAAAAwMzMzMzMDzYMAYmZmZGAAADMwMW0YZDw2A2AMDDAAYmBzwA",
-                        popularity = 81.3,
+                        popularity = 79.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMmBAAAAmZmZmZmZYGjBAzMzMzAAAYgBmxiGLbA2GwGgZYAAAzMwwA",
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMmBAAAAmZmZmZmZYGjBAzMzMzAAAYgBmxiGLbA2GwGgZYAAAzMYwA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMmBAAAAmZmZmZmZYGjBAzMzMzAAAYgBmxiGLbA2GwGgZYAAAzMYwA",
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZzMjxMmBAAAAmZmZmZmZYGjBAzMzMzAAAYgBmxiGLbA2GwGgZYAAAzMwwA",
                         popularity = 37.5,
                     },
                 },
@@ -217,7 +217,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyYmxMmZMMbzMz0MLmZMmxAAAAAmhZmZmZMzMDAwMzMzMAAADMwMW0YZDw2A2AMDAAAzMYGGA",
-                        popularity = 74.4,
+                        popularity = 73.8,
                     },
                     {
                         rank = 2,
@@ -238,7 +238,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZbmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 84.0,
+                        popularity = 84.1,
                     },
                     {
                         rank = 2,
@@ -247,7 +247,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmZMLzMz0MLmZMmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjxMmBAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
                         popularity = 37.5,
                     },
                 },
@@ -280,7 +280,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZzMjZmBAAAAwgZmZmZMzMjBAzMzMzAAAMmtBGwCYZYCMsAYGDAAmZAMMA",
-                        popularity = 83.8,
+                        popularity = 83.9,
                     },
                     {
                         rank = 2,
@@ -301,7 +301,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMzMzMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 85.7,
+                        popularity = 85.6,
                     },
                     {
                         rank = 2,
@@ -322,7 +322,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZbmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 82.5,
+                        popularity = 82.4,
                     },
                     {
                         rank = 2,
@@ -343,7 +343,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmZMbzMz0MLmZMzMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 83.0,
+                        popularity = 83.1,
                     },
                     {
                         rank = 2,
@@ -364,7 +364,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMjxMmBAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 84.2,
+                        popularity = 84.1,
                     },
                     {
                         rank = 2,
@@ -385,7 +385,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZmZmmZxMzMzMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 85.3,
+                        popularity = 85.5,
                     },
                     {
                         rank = 2,
@@ -406,7 +406,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyYmxMmZmZMbzMz0MLmZmxMAAAAAGMzMzMjZmZMAYmZmZGAAgxsNwAWALDTghFAzYAAwMDAMA",
-                        popularity = 83.7,
+                        popularity = 84.0,
                     },
                     {
                         rank = 2,
@@ -434,17 +434,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 99.6,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 57.7,
+                        popularity = 58.2,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMDjZGDz2MzMzMbmZkZMzYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 7.6,
+                        popularity = 8.0,
                     },
                 },
             },
@@ -460,13 +460,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 73.5,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
+                        popularity = 73.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 7.2,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
+                        popularity = 7.1,
                     },
                 },
             },
@@ -483,12 +483,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMmZYGGPgZGMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgZAMMzAMzgB",
-                        popularity = 71.1,
+                        popularity = 72.5,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgB",
-                        popularity = 7.0,
+                        popularity = 8.2,
                     },
                 },
             },
@@ -500,17 +500,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 99.7,
+                        popularity = 99.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 57.9,
+                        popularity = 58.4,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMMzMGDz2MzMzMbmZ0MzMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAYgB",
-                        popularity = 6.0,
+                        popularity = 6.5,
                     },
                 },
             },
@@ -527,12 +527,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 67.4,
+                        popularity = 65.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZmZGDz2MzMzMLzMjYMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAwgB",
-                        popularity = 8.1,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAMzgB",
+                        popularity = 9.8,
                     },
                 },
             },
@@ -544,17 +544,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAMzgB",
-                        popularity = 99.0,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMbmZkZMzYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 75.2,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
+                        popularity = 74.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 8.5,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDDz2MzMzMLzMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGAzgB",
+                        popularity = 7.5,
                     },
                 },
             },
@@ -571,12 +571,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMLzMjMjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGAzgB",
-                        popularity = 50.0,
+                        popularity = 49.2,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgB",
-                        popularity = 10.3,
+                        popularity = 9.4,
                     },
                 },
             },
@@ -588,17 +588,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 99.6,
+                        popularity = 99.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMzMDY2mZmZmZxMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 71.4,
+                        popularity = 71.7,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAMzgB",
-                        popularity = 10.0,
+                        popularity = 10.3,
                     },
                 },
             },
@@ -610,17 +610,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMjZGDz2MzMzMbmZ0MjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGAgB",
-                        popularity = 98.2,
+                        popularity = 98.5,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMDY2mZmZmZZmZkZMGDzwgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAMzgB",
-                        popularity = 64.9,
+                        popularity = 64.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDYmZMjxYY2mZmZmZzMjMjxYYGGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 16.2,
+                        popularity = 15.6,
                     },
                 },
             },
@@ -636,13 +636,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMLzMjMjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgB",
-                        popularity = 69.2,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMDjZGDz2MzMzMbmZkZMzMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgB",
+                        popularity = 76.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMGDz2MzMzMbmZ0MjxMDzw4BMzgZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMDghZGgZgB",
-                        popularity = 22.2,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMDwMjZMzYY2mZmZmZZmZkZMmZYGGPgZGMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgZAMMzAMgB",
+                        popularity = 15.4,
                     },
                 },
             },
@@ -658,7 +658,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 27.1,
+                        popularity = 26.6,
                     },
                     {
                         rank = 3,
@@ -674,17 +674,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 98.3,
+                        popularity = 98.4,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 27.4,
+                        popularity = 27.0,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMGDz2MzMzMbmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 48.7,
+                        popularity = 48.6,
                     },
                 },
             },
@@ -695,17 +695,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjZGDz2MzMzMbmZ0MjxMzMzAjZGmZmZMDAAAAAAAAAjZbgBsAWGmAjFMzwMDMDghZGADM",
-                        popularity = 97.8,
+                        popularity = 97.9,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 26.3,
+                        popularity = 25.8,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 47.0,
+                        popularity = 46.2,
                     },
                 },
             },
@@ -721,7 +721,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 28.7,
+                        popularity = 27.9,
                     },
                     {
                         rank = 3,
@@ -737,17 +737,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 97.9,
+                        popularity = 97.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 26.2,
+                        popularity = 25.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMbmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 49.3,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMGDz2MzMzMbmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
+                        popularity = 49.6,
                     },
                 },
             },
@@ -763,12 +763,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 27.7,
+                        popularity = 27.1,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 46.5,
+                        popularity = 46.4,
                     },
                 },
             },
@@ -779,17 +779,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 98.0,
+                        popularity = 97.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 25.9,
+                        popularity = 26.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMGDz2MzMzMbmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 44.4,
+                        popularity = 44.6,
                     },
                 },
             },
@@ -805,12 +805,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 27.3,
+                        popularity = 26.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 47.4,
+                        popularity = 47.9,
                     },
                 },
             },
@@ -826,12 +826,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAMDM",
-                        popularity = 26.8,
+                        popularity = 26.4,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMzYY2mZmZmZzMjmZMmZmZGYMzwMzMjZAAAAAAAAAYMbDMgFwywEYsgZGmZgZAMMzAAM",
-                        popularity = 47.9,
+                        popularity = 48.3,
                     },
                 },
             },
@@ -871,7 +871,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTzmZmZMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
-                        popularity = 98.8,
+                        popularity = 98.9,
                     },
                     {
                         rank = 2,
@@ -937,7 +937,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMMjZGDz2MzMTzmZGzMjBAAAAAAAgZGzYAwywMzmZmZmZMwAzYTjlFAbD2wAmBgxMzwgZGMjxA",
-                        popularity = 52.0,
+                        popularity = 51.8,
                     },
                     {
                         rank = 2,
@@ -986,12 +986,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYmZMAAAAAAAAMzwMDA2mxMz2MzYMDYzsYYgBmNGasAgZAYMzMmBYmZYMA",
-                        popularity = 33.1,
+                        popularity = 32.1,
                     },
                     {
                         rank = 3,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
-                        popularity = 10.8,
+                        popularity = 10.3,
                     },
                 },
             },
@@ -1012,7 +1012,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmBjxMDz2MzMTjZMmZGzAAAAAAAAYmhZGAsNjZmtZmxYGwmZxwADMbM0YBAzAwYmZMDwMzMGD",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzMjZAAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
                         popularity = 37.5,
                     },
                 },
@@ -1030,12 +1030,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZa2MzYMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
-                        popularity = 60.2,
+                        popularity = 57.3,
                     },
                     {
                         rank = 3,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMGDz2MzMTzmZGzMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
-                        popularity = 12.2,
+                        popularity = 11.2,
                     },
                 },
             },
@@ -1046,18 +1046,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMGDz2MzMTjZmxYGDAAAAAAAAzMMzAgtZMzsNzMGzA2MLGGYgZjhGLAYGAGzMjZAmZmZGD",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMGDz2MzMTzmZGzMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMGDz2MzMTzmZGzMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMzYMA",
-                        popularity = 54.0,
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMGDz2MzMTjZmxYGDAAAAAAAAzMMzAgtZMzsNzMGzA2MLGGYgZjhGLAYGAGzMjZAmZmZGD",
+                        popularity = 50.9,
                     },
                     {
                         rank = 3,
                         talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDY2mZmZa2mZGjZMAAAAAAAAMzwMDA2mxMz2MzYMDYzsYYgBmNGasAgZAYMzMmBYmZmZMA",
-                        popularity = 13.6,
+                        popularity = 13.5,
                     },
                 },
             },
@@ -1067,12 +1067,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMPgxYY2GzMTz2MzYmZMAAAAAAAAMzYYAwyMmZ2MzYmZALmFDDMwsxQjFMgZAYMzMmBYmZMjB",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
                         popularity = 99.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMPgxYY2GzMTz2MzYmZMAAAAAAAAMzYYAwyMmZ2MzYmZALmFDDMwsxQjFMgZAYMzMmBYmZMjB",
                         popularity = 12.5,
                     },
                     {
@@ -1088,7 +1088,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTzmZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYxsYYgBmNGasgBMDAjZmxMAzMzYMA",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
                         popularity = 99.8,
                     },
                     {
@@ -1098,7 +1098,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTzmZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYxsYYgBmNGasgBMDAjZmxMAzMzYMA",
                         popularity = 37.5,
                     },
                 },
@@ -1109,12 +1109,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMPgxYY2GzMTz2MzYmZMAAAAAAAAMzYYAwyMmZ2MzYmZALmFDDMwsxQjFMgZAYMzMmBYmZMjB",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
                         popularity = 99.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMPgxYY2GzMTz2MzYmZMAAAAAAAAMzYYAwyMmZ2MzYmZALmFDDMwsxQjFMgZAYMzMmBYmZMjB",
                         popularity = 12.5,
                     },
                     {
@@ -1140,7 +1140,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMGDz2MzMTzmZGzMjBAAAAAAAgZGDDAWmxMzmZGzMDYxsYYgBmNGasgBMDAjZmxMAzMzYMA",
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmhZMmZY2mZmZaYmxMzYAAAAAAAAYmxwAglZMzsZmxMzAWMLGGYgZjhGLYAzAwYmZMDwMzMGD",
                         popularity = 37.5,
                     },
                 },
@@ -1264,12 +1264,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 99.8,
+                        popularity = 99.9,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 34.1,
+                        popularity = 33.6,
                     },
                     {
                         rank = 3,
@@ -1286,17 +1286,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 99.9,
+                        popularity = 100.0,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 37.9,
+                        popularity = 37.4,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzyMmZmZGzkxMDAAAAAAY2MGzwMzsNzM2mt5BmhxwYZgtZxMGmNmGzMjZsBAAAAAAAwMDGAAAAG",
-                        popularity = 54.2,
+                        popularity = 54.9,
                     },
                 },
             },
@@ -1308,17 +1308,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 99.8,
+                        popularity = 99.9,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 40.3,
+                        popularity = 39.9,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzyMmZmZGzkxMDAAAAAAY2MGzwMzsNzM2mt5BmhxwYZgtZxMGmNmGzMjZsBAAAAAAAwMDGAAAAG",
-                        popularity = 56.4,
+                        popularity = 56.0,
                     },
                 },
             },
@@ -1330,17 +1330,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 99.7,
+                        popularity = 99.9,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 36.7,
+                        popularity = 36.2,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzyMmZmZGzkxMDAAAAAAY2MGzwMzsNzM2mt5BmhxwYZgtZxMGmNmGzMjZsBAAAAAAAwMDGAAAAG",
-                        popularity = 47.9,
+                        popularity = 48.6,
                     },
                 },
             },
@@ -1352,17 +1352,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZmZmwMDAAAAAAYWMmtZYmBmx2sNzMz2YglB2mNzYY2YaMzMG2AAAAGAAAAzMYAAAAYA",
-                        popularity = 99.2,
+                        popularity = 99.3,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmBmx2sNzMz2YglB2mNzYY2YaMzMG2AAAAGAAAAzMYAAAAYA",
-                        popularity = 15.2,
+                        popularity = 16.0,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxMzkxMDAAAAAAYWMmtZYmBmx2sNzMz2YglB2mNzYY2YaMzMG2AAAAGAAAAzMYAAAAYA",
-                        popularity = 44.1,
+                        popularity = 46.3,
                     },
                 },
             },
@@ -1379,12 +1379,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZYMzMjxMZMzAAAAAAAmtHYMLzMmZmtxM2mtxMMGGLDsNbmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
-                        popularity = 48.2,
+                        popularity = 49.6,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZYMzMjxMZMzAAAAAAAmtHYMbzMmZmtxM2mtxMMGGLDsNbmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
-                        popularity = 33.8,
+                        popularity = 33.3,
                     },
                 },
             },
@@ -1401,12 +1401,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMDjZmZMzMZMzAAAAAAAmNjZbmxMzsNzM2mt5BmhxwYZgtZxMGmNmGzMjhNAAAAAAAAmZwAAAAwA",
-                        popularity = 32.0,
+                        popularity = 31.2,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 35.5,
+                        popularity = 35.3,
                     },
                 },
             },
@@ -1418,17 +1418,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 99.8,
+                        popularity = 99.9,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzmxMzMmZmMmZAAAAAAAz2DMmtZYmZ2mZGbz28AzwYYsMw2sYGDzGTjZmxwGAAAAAAAAzMYAAAAYA",
-                        popularity = 37.0,
+                        popularity = 36.5,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMzyMmZmZGzkxMDAAAAAAY2MGzwMzsNzM2mt5BmhxwYZgtZxMGmNmGzMjZsBAAAAAAAwMDGAAAAG",
-                        popularity = 51.6,
+                        popularity = 51.2,
                     },
                 },
             },
@@ -1445,7 +1445,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYGMzMjZMzMzMMZMzAAAAAAAmNjZbmxMzsNzM2mt5BmhxwYZgtZxMGmNmGzMjhNAAAAAAAAmZwAAAAwA",
-                        popularity = 23.1,
+                        popularity = 20.0,
                     },
                     {
                         rank = 3,
@@ -1461,85 +1461,22 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZGzkxMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZmZmwMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZmZmwMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
-                        popularity = 50.0,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmZGzkxMDAAAAAAY2MmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
+                        popularity = 52.4,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzmxMzMmZmMmZAAAAAAAzyDMmtZYmBzM2mt5BmZMGDLDsNLmxwsx0YmZMsBAAAAAAAwMDGAAAAG",
-                        popularity = 33.3,
+                        popularity = 36.4,
                     },
                 },
             },
             ["All Dungeons"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.9,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 45.0,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
-                        popularity = 65.6,
-                    },
-                },
-            },
-            ["Algeth'ar Academy"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.9,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 46.5,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzmxsNYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 64.9,
-                    },
-                },
-            },
-            ["Magisters' Terrace"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.9,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 45.5,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
-                        popularity = 66.8,
-                    },
-                },
-            },
-            ["Maisara Caverns"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
@@ -1551,7 +1488,70 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 45.3,
+                        popularity = 45.2,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
+                        popularity = 65.2,
+                    },
+                },
+            },
+            ["Algeth'ar Academy"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+                        popularity = 99.1,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+                        popularity = 46.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
+                        popularity = 64.4,
+                    },
+                },
+            },
+            ["Magisters' Terrace"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+                        popularity = 99.1,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+                        popularity = 45.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
+                        popularity = 66.5,
+                    },
+                },
+            },
+            ["Maisara Caverns"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+                        popularity = 99.2,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
+                        popularity = 45.5,
                     },
                     {
                         rank = 3,
@@ -1567,17 +1567,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.8,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 43.5,
+                        popularity = 43.8,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
-                        popularity = 67.8,
+                        popularity = 67.3,
                     },
                 },
             },
@@ -1588,7 +1588,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.9,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
@@ -1598,7 +1598,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzmxsNYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 64.8,
+                        popularity = 64.3,
                     },
                 },
             },
@@ -1609,17 +1609,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.7,
+                        popularity = 98.9,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 44.1,
+                        popularity = 43.9,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
-                        popularity = 66.5,
+                        popularity = 65.9,
                     },
                 },
             },
@@ -1651,17 +1651,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAY2MmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 98.8,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMGzkxMDAAAAAAYWMmtZYmBmx2sNzMjxALDsNbmxwsw0YmZMjNAAAgBAAAwMDGAAAAG",
-                        popularity = 45.9,
+                        popularity = 46.2,
                     },
                     {
                         rank = 3,
                         talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZmZmZ2mxMzMmZmMmZAAAAAAAzixsNDzMwM2mtZmZMGYZgtZzMGmFmGzMjhNAAAgBAAAwMDGAAAAG",
-                        popularity = 65.0,
+                        popularity = 64.7,
                     },
                 },
             },
@@ -1706,7 +1706,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAA2mxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjhBAAAAAAAgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
-                        popularity = 7.4,
+                        popularity = 7.5,
                     },
                     {
                         rank = 3,
@@ -1728,7 +1728,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzMzYYGmx2YGjBAAAAAAAAMzM2AAAAwgxMzMzSbzMzAgZAAAAMA",
-                        popularity = 7.4,
+                        popularity = 7.6,
                     },
                     {
                         rank = 3,
@@ -1750,7 +1750,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmZYWMzMjhZMzYGzMzYYGmx2DMzsNGAAAAAAAAwMzYDAAAADGzMzMLtNzMDAMAAAAG",
-                        popularity = 7.1,
+                        popularity = 6.7,
                     },
                     {
                         rank = 3,
@@ -1772,7 +1772,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMzkZmhZYGmZYGzMm5BmZmxgZbmxmZmtxYGAAAAAAAAmZGbAAAAYgZmZmZptZmZAAAAAAG",
-                        popularity = 5.6,
+                        popularity = 5.5,
                     },
                     {
                         rank = 3,
@@ -1794,7 +1794,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMzMkZmBziZMDmZMzYGzMzYYmlZGbmZ2GDAAAAAAAAYmZsBAAAgBzMzMzs12MzMAwAAAAYA",
-                        popularity = 24.5,
+                        popularity = 24.0,
                     },
                     {
                         rank = 3,
@@ -1811,12 +1811,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMzMkZmBziZMDmZMzYGzMzYYmlZGbmZ2GDAAAAAAAAYmZsBAAAgBzMzMzs12MzMAwAAAAYA",
-                        popularity = 97.1,
+                        popularity = 97.4,
                     },
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmBziZMDmZMzYGzMzYYmlZGbzMjxAAAAAAAAAmZGbAAAAYwYmZmZrtZmZAgBAAAwA",
-                        popularity = 24.3,
+                        popularity = 21.8,
                     },
                     {
                         rank = 3,
@@ -1854,13 +1854,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmBziZMDmZMzYGzMzYYmlZGbzMjxAAAAAAAAAmZGbAAAAYwYmZmZrtZmZAgBAAAwA",
+                        talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMzMkZmBziZMDmZMzYGzMzYYmlZGbmZ2GDAAAAAAAAYmZsBAAAgBzMzMzs12MzMAwAAAAYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMzMkZmBziZMDmZMzYGzMzYYmlZGbmZ2GDAAAAAAAAYmZsBAAAgBzMzMzs12MzMAwAAAAYA",
-                        popularity = 21.4,
+                        talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjZmZkZmBziZMDmZMzYGzMzYYmlZGbzMjxAAAAAAAAAmZGbAAAAYwYmZmZrtZmZAgBAAAwA",
+                        popularity = 23.5,
                     },
                     {
                         rank = 3,
@@ -1888,7 +1888,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
-                        popularity = 23.2,
+                        popularity = 23.0,
                     },
                     {
                         rank = 3,
@@ -1904,12 +1904,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
-                        popularity = 98.9,
+                        popularity = 98.8,
                     },
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
-                        popularity = 22.7,
+                        popularity = 22.5,
                     },
                     {
                         rank = 3,
@@ -1930,7 +1930,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
-                        popularity = 23.1,
+                        popularity = 23.0,
                     },
                     {
                         rank = 3,
@@ -1946,16 +1946,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
-                        popularity = 98.9,
+                        popularity = 98.8,
                     },
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
-                        popularity = 23.0,
+                        popularity = 22.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWmxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjhBAAAAAAAgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
+                        talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbmZ2GDDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
                         popularity = 62.5,
                     },
                 },
@@ -1993,7 +1993,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAWmxMzMGmRmZGMLmxMYmxMjZegZmZMY2mZs9AzMbjhBAAAAAAAgZmxGAAAAGYmZmZ2abmZGAAAAAgB",
-                        popularity = 22.6,
+                        popularity = 22.5,
                     },
                     {
                         rank = 3,
@@ -2009,12 +2009,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbPwMz2YYAAAAAAAAYmZsBAAAgBmZmZmt2mZmBAAAAAYA",
-                        popularity = 99.1,
+                        popularity = 99.2,
                     },
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZmhZkZmBziZMDmZMzYmHYmZGDmtZGbzMz2YYAAAAAAAAYmhNAAAAMwMzMzs12MzMAAAAAAD",
-                        popularity = 24.8,
+                        popularity = 24.5,
                     },
                     {
                         rank = 3,
@@ -2035,7 +2035,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
-                        popularity = 24.1,
+                        popularity = 23.9,
                     },
                     {
                         rank = 3,
@@ -2056,7 +2056,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAMjZmZMMjMzMYWMjZwMjZGz8AzMzYwsNzYzMz2YMDAAAAAAAAzMjNAAAAMwMzMzs12MzMAwAAAAYA",
-                        popularity = 23.5,
+                        popularity = 23.3,
                     },
                     {
                         rank = 3,
@@ -2088,7 +2088,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDMmFzMzMAzYWmZZsNjZsxyMLjZGmFMMADwy2YDTzMLDAAAA2YmZmBbGDjZAMzAADA",
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFzMzMAzYWmZZsNjZsxyMLjZGmFMMADwy2YDTzMLDAAAA2MzMzMYzwYMDgZGAYA",
                         popularity = 37.5,
                     },
                 },
@@ -2101,7 +2101,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYGzyMLjtZMjNWmZZMzwsghBYAW2GbYamZZAAAAwGzMzMYzwYMDgZGAYA",
-                        popularity = 97.8,
+                        popularity = 97.7,
                     },
                     {
                         rank = 2,
@@ -2145,7 +2145,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDzYWmZZsMjZsxyMLjZGmFMMADwy2YDTzMLDAAAA2MzMzMYzwYMDgZGAYA",
-                        popularity = 98.6,
+                        popularity = 98.7,
                     },
                     {
                         rank = 2,
@@ -2255,7 +2255,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFzMzMgZYMz2wMmZ2YZmlZGjZ2wwAMALbjNMNzsMAAAAYjZmZGsZYMmBwMDAMA",
-                        popularity = 79.2,
+                        popularity = 78.7,
                     },
                     {
                         rank = 2,
@@ -2281,7 +2281,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMaGjZGYMLzMzMDDGGzsM2mxM2YZmlxMzYWwwAMALbjNMNzsMAAAAYjZmZGsZMMmBwMDAMA",
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbZMmZgxsMzMzMMYGjZWGbzYGbsMzyYmZMLYYAGgltxGmmZWGAAAAsxMzMD2MwYGAzMAwA",
                         popularity = 12.5,
                     },
                     {
@@ -2319,7 +2319,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
-                        popularity = 93.4,
+                        popularity = 93.2,
                     },
                     {
                         rank = 2,
@@ -2340,7 +2340,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
-                        popularity = 92.7,
+                        popularity = 92.4,
                     },
                     {
                         rank = 2,
@@ -2360,12 +2360,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
-                        popularity = 92.5,
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+                        popularity = 92.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhBjZZmlZWMzM2YZmlxMjxCGGgx22MDGz2AYCAAAwiZmZmBbGGjBAgZGYA",
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
                         popularity = 12.5,
                     },
                     {
@@ -2382,7 +2382,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
-                        popularity = 92.4,
+                        popularity = 92.3,
                     },
                     {
                         rank = 2,
@@ -2403,7 +2403,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
-                        popularity = 92.8,
+                        popularity = 92.7,
                     },
                     {
                         rank = 2,
@@ -2445,7 +2445,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmZhhZMLzsMziZmxGLzsMmZMWwwAM22mZwY2GATAAAAWYmZmBbGGjBAgZGYA",
-                        popularity = 93.0,
+                        popularity = 92.9,
                     },
                     {
                         rank = 2,
@@ -2498,12 +2498,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2MMmZUzYWGzMzYMzDMAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2MMmZUzYWGzMzYMzDMAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
                         popularity = 37.5,
                     },
                 },
@@ -2559,12 +2559,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
-                        popularity = 98.8,
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJYYYMzomxsMmZmxYmZAAAAAAAMAAAAAAz2MLNbzssBmZAWMDGAAzMAYA",
+                        popularity = 98.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJYYYMzomxsMmZmxYmZAAAAAAAMAAAAAAz2MLNbzssBmZAWMDGAAzMAYA",
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
                         popularity = 12.5,
                     },
                     {
@@ -2582,7 +2582,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMzmZmZmxY2M2GbzMzMmZAAAAYLYYYMzomxsMmZmxYmHYGAAAAAAgBAAAAAY2mZpZZmlNwMDwiZwAAYmBAD",
-                        popularity = 87.5,
+                        popularity = 87.3,
                     },
                     {
                         rank = 2,
@@ -2604,7 +2604,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMDGzMjxsZegtZ2mZmZegZGAAAAWCmNYMzomxswMzMGzYAAAAAAYgBAAAAAY2mZpZZmtNYmZAWMzwAAYmBAD",
-                        popularity = 72.1,
+                        popularity = 72.9,
                     },
                     {
                         rank = 2,
@@ -2625,8 +2625,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzmhxMjaGzyYmZGjZMAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
-                        popularity = 90.3,
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBDDjZG1MmlxMzMGzYGAAAAAADMAAAAAAz2MLNbzssBmZAWMDGAAzMAYA",
+                        popularity = 89.2,
                     },
                     {
                         rank = 2,
@@ -2635,7 +2635,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBDDjZG1MmlxMzMGzYGAAAAAADMAAAAAAz2MLNbzssBmZAWMDGAAzMAYA",
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYGzMDAAAALBzmhxMjaGzyYmZGjZMAAAAAAMwAAAAAAMbzs0sNzyGYmBYxMYAAMzAgB",
                         popularity = 37.5,
                     },
                 },
@@ -2657,7 +2657,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWGzMzYMjBAAAAAgBGAAAAAgZbmlmtZW2AzMALmBDAgZGAMA",
+                        talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYJY2MMmZUzYWmZmZGjZMAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
                         popularity = 37.5,
                     },
                 },
@@ -2670,7 +2670,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZwMzMzMmtl5BWGbzYm5BmZAAAAYLY2MMmZUzYWmZmZGjZMAAAAAAMwAAAAAAMbzs0sNzyGYmHAYxMYAAMzAgB",
-                        popularity = 94.1,
+                        popularity = 94.4,
                     },
                     {
                         rank = 2,
@@ -2713,7 +2713,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 93.0,
+                        popularity = 93.1,
                     },
                     {
                         rank = 2,
@@ -2734,7 +2734,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 93.5,
+                        popularity = 93.6,
                     },
                     {
                         rank = 2,
@@ -2797,7 +2797,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 92.9,
+                        popularity = 93.1,
                     },
                     {
                         rank = 2,
@@ -2818,7 +2818,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 93.4,
+                        popularity = 93.7,
                     },
                     {
                         rank = 2,
@@ -2839,7 +2839,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 92.8,
+                        popularity = 92.9,
                     },
                     {
                         rank = 2,
@@ -2860,7 +2860,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 93.0,
+                        popularity = 93.2,
                     },
                     {
                         rank = 2,
@@ -2881,7 +2881,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmZYmZmZMzsZsNz2MzMzDMzAAAAwSwsZMMzomxsYmZmZZMzAAAAAAgBAAAAoZWmtZmZAALgZGgFGMAAAmZDD",
-                        popularity = 92.8,
+                        popularity = 92.7,
                     },
                     {
                         rank = 2,
@@ -2909,12 +2909,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 72.6,
+                        popularity = 69.2,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 12.1,
+                        popularity = 11.2,
                     },
                     {
                         rank = 3,
@@ -2931,12 +2931,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 72.5,
+                        popularity = 68.8,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 13.1,
+                        popularity = 12.1,
                     },
                     {
                         rank = 3,
@@ -2953,12 +2953,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 82.4,
+                        popularity = 79.8,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 18.1,
+                        popularity = 17.1,
                     },
                     {
                         rank = 3,
@@ -2975,12 +2975,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 78.2,
+                        popularity = 75.5,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 15.1,
+                        popularity = 14.6,
                     },
                     {
                         rank = 3,
@@ -2996,17 +2996,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 69.1,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjtZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
+                        popularity = 65.8,
                     },
                     {
                         rank = 2,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 9.2,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxMzwAAAAAAmx2MAAAAoZWmlZmZAAsgZeAgFzgBsYZbAwMbwA",
+                        popularity = 8.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGzAAAAAAmxyMAAAAoZWmlZmZAAsgZeAgFzgBsYZbAwMbwA",
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDM2GY2MMaimZmlZmZmxMzwAAAAAAmx2MAAAAoZWmlZmZAAsgZeAgFzgBsYZbAwMbwA",
                         popularity = 12.5,
                     },
                 },
@@ -3019,16 +3019,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjtZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 70.9,
+                        popularity = 66.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxMzwAAAAAAmx2MAAAAoZWmlZmZAAsgZeAgFzgBsYZbAwMbwA",
-                        popularity = 7.4,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2gRT0MzsMzMzMGzYGAAAAAwM2mBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
+                        popularity = 7.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2gRT0MzsMzMzMGzYGAAAAAwM2mBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxMzwAAAAAAmx2MAAAAoZWmlZmZAAsgZeAgFzgBsYZbAwMbwA",
                         popularity = 12.5,
                     },
                 },
@@ -3040,17 +3040,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2gRT0MzsMzMzMGzYGAAAAAwM2mBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 72.1,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGYYGjmoZmZZmZmZMmhBAAAAAMjlZALbzMYMbDgJAAAgNMzAsYGMgFLbDwMDgB",
+                        popularity = 67.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGzAAAAAAmx2MAAAAoZWmlZmZAAsgZeAgFzgBsYZbAwMbwA",
-                        popularity = 5.0,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGYYGjmoZmZZmZmZMmhBAAAAAMzsMDYZbmBjZbAMBAAAshZMgFzgBsYZbAmZAM",
+                        popularity = 4.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLmZmZWGzwAAAAAAmZ2mBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMPwYMzmZZGMWGY2YMaimZmlZmZmxYGGAAAAAwMWmBssNzgxsNAmAAAA2wMDwiZwAWssNAzMAG",
                         popularity = 12.5,
                     },
                 },
@@ -3063,12 +3063,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGY2MMaimZmlZmZmxYGGAAAAAwMWmBAAAANzysMzMDAgFMzAsYGMgFLbDAmZDG",
-                        popularity = 64.0,
+                        popularity = 60.2,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDMWGYYY0ENzMLzMzMjxMmBAAAAAMjlZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 9.8,
+                        popularity = 9.0,
                     },
                     {
                         rank = 3,
@@ -3085,7 +3085,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMjZ2MLDM2GYYY0ENzMLzMzMjxMmBAAAAAMjtZAAAAQzsMLzMzAAYBzMALmBDYxy2AgZ2gB",
-                        popularity = 91.7,
+                        popularity = 88.3,
                     },
                     {
                         rank = 2,
@@ -3106,13 +3106,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxswMjZ2mZZMPgZZbgZDGNRzMzyMzMzYmZMDAAAAAYGbzAAAAgmZZWmZmBAwCm5BAWMDGwiFDAmZDG",
-                        popularity = 81.4,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxswMjZ2mZZMPgZZZgZDGNRzMzyMzMzYMjZAAAAAAzYbGAAAA0MLzyMzMAAWwMDwiZwAWsYAwMbwA",
+                        popularity = 80.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxswMjZ2mZZMPgZZZgZDGNRzMzyMzMzYMjZAAAAAAzYbGAAAA0MLzyMzMAAWwMDwiZwAWsYAwMbwA",
-                        popularity = 22.2,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxswMjZ2mZZMPgZZbgZDGNRzMzyMzMzYmZMDAAAAAYGbzAAAAgmZZWmZmBAwCm5BAWMDGwiFDAmZDG",
+                        popularity = 26.9,
                     },
                     {
                         rank = 3,
@@ -3127,13 +3127,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZbmxoJyMziZmZmlxMDAAAAAGgNzALbzMYMLDgJAAAgNMDgFDMYmFLbAmZAA",
-                        popularity = 82.2,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAmNzALbzMYMLDgJAAAgNMzAsYgBzsYZDwMDA",
+                        popularity = 85.1,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.3,
+                        popularity = 11.2,
                     },
                     {
                         rank = 3,
@@ -3149,12 +3149,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlZmZAAAAAAwsZGYZbmBjZZAMBAAAshZeAgFDMYmFLbAmZAA",
-                        popularity = 81.3,
+                        popularity = 84.0,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.1,
+                        popularity = 11.0,
                     },
                     {
                         rank = 3,
@@ -3169,13 +3169,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyMzMzsMzMMAAAAAAsZGYZbmBjZZAMBAAAsZMzDAsYgBzsYZDwMDA",
-                        popularity = 82.2,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAmNzALbzMYMLDgJAAAgNMzAsYgBzsYZDwMDA",
+                        popularity = 85.2,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.2,
+                        popularity = 11.2,
                     },
                     {
                         rank = 3,
@@ -3191,12 +3191,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 82.9,
+                        popularity = 85.8,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMziZmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.1,
+                        popularity = 10.9,
                     },
                     {
                         rank = 3,
@@ -3212,12 +3212,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZbmxoJyMziZmZmlxMDAAAAAGgNzALbzMYMLDgJAAAgNMDgFDMYmFLbAmZAA",
-                        popularity = 81.5,
+                        popularity = 84.1,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.0,
+                        popularity = 11.0,
                     },
                     {
                         rank = 3,
@@ -3233,12 +3233,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZbmxoJyMziZmZmlxMDAAAAAGgNzALbzMYMLDgJAAAgNMDgFDMYmFLbAmZAA",
-                        popularity = 82.2,
+                        popularity = 85.1,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.2,
+                        popularity = 11.2,
                     },
                     {
                         rank = 3,
@@ -3254,12 +3254,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyMzMzYmZMDAAAAAAbmBW2mZwYWGATAAAAbGz8AALGYwMLW2AMzAA",
-                        popularity = 83.7,
+                        popularity = 86.5,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.7,
+                        popularity = 11.6,
                     },
                     {
                         rank = 3,
@@ -3275,12 +3275,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 83.1,
+                        popularity = 85.9,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMziZmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.6,
+                        popularity = 11.6,
                     },
                     {
                         rank = 3,
@@ -3296,12 +3296,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyMzMzsMzMmBAAAAAgNzALbzMYMLDgJAAAgNMzDAsYgBzsYZDwMDA",
-                        popularity = 81.7,
+                        popularity = 84.5,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZx4BmZZZgZzwoJyMzyYmZmlxMDAAAAAAsZGYZbmBjZZAMBAAAsZMzAsYgBzsYZDwMDA",
-                        popularity = 10.3,
+                        popularity = 11.2,
                     },
                     {
                         rank = 3,
@@ -3324,7 +3324,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhhZAAAAAAAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
-                        popularity = 96.1,
+                        popularity = 96.3,
                     },
                     {
                         rank = 2,
@@ -3346,7 +3346,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhhZAAAAAAAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
-                        popularity = 94.8,
+                        popularity = 95.0,
                     },
                     {
                         rank = 2,
@@ -3368,7 +3368,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhhZAAAAAAAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
-                        popularity = 95.8,
+                        popularity = 96.0,
                     },
                     {
                         rank = 2,
@@ -3390,7 +3390,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhhZAAAAAAAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
-                        popularity = 97.6,
+                        popularity = 97.7,
                     },
                     {
                         rank = 2,
@@ -3478,7 +3478,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMbz2MmZGz2wDwMzmxCzAAAAAAAAAAgtBNbMmmZM8AmlZmZmhhZAAAAAAAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
-                        popularity = 95.3,
+                        popularity = 95.4,
                     },
                     {
                         rank = 2,
@@ -3499,17 +3499,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgFDNbmx0MDwsMzMzMMMDAAAAADAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
-                        popularity = 99.0,
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgFDNMjpZG4BMLMzMDDzAAAAAwAAAAAAAAmtZWa2mZzGzMzMMzshRzAAMzAwA",
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgFDNMjpZG4BMLMzMDDzAAAAAwAAAAAAAAmtZWa2mZzGzMzMMzshRzAAMzAwA",
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgNDNbmx0MDwsMzMzMMMDAAAAADAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgNDNbmx0MDwsMzMzMMMDAAAAADAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLz2MmZGz2wDwMzmxCzAAAAAAAAAAgFDNbmx0MDwsMzMzMMMDAAAAADAAAAAAAY2mZpZbmNbMmZGmZgRzAAMzAwA",
                         popularity = 37.5,
                     },
                 },
@@ -3543,7 +3543,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbGmmZMMmFzMzghxAAAAAYAAmBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 79.7,
+                        popularity = 80.0,
                     },
                     {
                         rank = 2,
@@ -3564,7 +3564,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbGmmZMMmFzMzghxAAAAAYAAmBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 78.7,
+                        popularity = 79.2,
                     },
                     {
                         rank = 2,
@@ -3585,7 +3585,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjxMmFzMzMmhxAAAAAAAgBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 80.6,
+                        popularity = 81.0,
                     },
                     {
                         rank = 2,
@@ -3606,7 +3606,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjxMmFzMzMmhxAAAAAAAgBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 80.1,
+                        popularity = 80.5,
                     },
                     {
                         rank = 2,
@@ -3627,7 +3627,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjhxsYmZmxMMGAAAAAAAMAAAAAY2mZrZZmFbMzMPAmZWANDAwMDAD",
-                        popularity = 79.4,
+                        popularity = 79.7,
                     },
                     {
                         rank = 2,
@@ -3648,7 +3648,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZbGmmZMMmFzMzghxAAAAAYAAmBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 78.9,
+                        popularity = 79.1,
                     },
                     {
                         rank = 2,
@@ -3669,7 +3669,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjxMmFzMzMmhxAAAAAAAgBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 80.5,
+                        popularity = 80.8,
                     },
                     {
                         rank = 2,
@@ -3690,7 +3690,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjxMmFzMzMmhxAAAAAAAgBAAAAAz2MbNLzsYjZmBmZWANDAwMDAD",
-                        popularity = 79.7,
+                        popularity = 79.8,
                     },
                     {
                         rank = 2,
@@ -3711,7 +3711,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsN8AMzswsYbGAAAAAAAAAAsMoZzw0MjxMmFzMzMLzwDYAAAAAAAwAAAAAgZbmtmlZWsxMzAzMLgmBAYmBgB",
-                        popularity = 79.9,
+                        popularity = 80.2,
                     },
                     {
                         rank = 2,
@@ -3739,17 +3739,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZGYmBwA",
-                        popularity = 58.7,
+                        popularity = 58.5,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMgBjpmZmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZmBzMwwA",
-                        popularity = 25.4,
+                        popularity = 25.2,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMz2YmBmZzYwCsMGGbDgZQshZGYmBwA",
-                        popularity = 25.1,
+                        popularity = 25.0,
                     },
                 },
             },
@@ -3761,17 +3761,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZGYmBwA",
-                        popularity = 52.4,
+                        popularity = 52.7,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMz2YmBmZzYwCsMGGbDgZQshZGYmBwA",
-                        popularity = 21.9,
+                        popularity = 21.6,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMgBjpmZmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZmBzMwwA",
-                        popularity = 30.5,
+                        popularity = 30.3,
                     },
                 },
             },
@@ -3783,17 +3783,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
-                        popularity = 68.6,
+                        popularity = 68.7,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmhxMYM1YmZGAAAAYMjxMzyYmBmZxAjZswCMwMM0ALYmxMDghB",
-                        popularity = 22.9,
+                        popularity = 23.1,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmZwMYM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
-                        popularity = 18.0,
+                        popularity = 17.6,
                     },
                 },
             },
@@ -3805,17 +3805,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
-                        popularity = 67.9,
+                        popularity = 68.0,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMjHwMYM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
-                        popularity = 24.2,
+                        popularity = 24.3,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAYmhxMYM1YmZGAAAAYMjxMzyYmBmZxAjZswCMwMM0ALYmxMDghB",
-                        popularity = 15.3,
+                        popularity = 15.2,
                     },
                 },
             },
@@ -3832,12 +3832,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMwMYM1YmZGAAAAMzMzMmZWGzMwMbGDWglxwYbAMDiNMzAzMwwA",
-                        popularity = 37.0,
+                        popularity = 36.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMgBjpmZmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZmBzMwwA",
-                        popularity = 19.0,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMDMYM1MzMzAAAAgZMzMmZWGzMwMbGDWglxwYbAMDiNMzAzMYwA",
+                        popularity = 18.6,
                     },
                 },
             },
@@ -3854,12 +3854,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAAAAmxYGMmaMzMDAAAAmxMzYmZZMzAzsZMYBWGDjtBwMI2wMDMzAYA",
-                        popularity = 29.7,
+                        popularity = 29.3,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAAAAzwYGMmaMzMDAAAAmxMzYmZZMzAzsZMYBWGDjtBwMI2wMDMzAYA",
-                        popularity = 18.2,
+                        popularity = 18.5,
                     },
                 },
             },
@@ -3876,12 +3876,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAAAAzwYGMmaMzMDAAAAmxMzYmZZMzAzsZMYBWGDjtBwMI2wMDMzAYA",
-                        popularity = 18.5,
+                        popularity = 18.0,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmxMbzMzMWGYmlZMGmZDAAAAAAAgZmBGMmamZmZAAAAwMmZGzMLjZGYmNjBLwyYYsNAmBxGmZgZGAD",
-                        popularity = 18.9,
+                        popularity = 17.8,
                     },
                 },
             },
@@ -3893,17 +3893,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZGYmBwA",
-                        popularity = 88.6,
+                        popularity = 88.4,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAAAAwMgBjpmZmZGAAAAMjZmxMzyYmBmZzYwCsMGGbDgZQshZmBzMwwA",
-                        popularity = 47.2,
+                        popularity = 47.1,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZmxyAzsMjxwMAAAAAgBAAzMDMYM1YmZGAAAAMjZmxMz2YmBmZzYwCsMGGbDgZQshZGYmBwA",
-                        popularity = 23.0,
+                        popularity = 23.1,
                     },
                 },
             },
@@ -3915,17 +3915,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAgBAAzMDMYM1YmZGAAAAMjZmxMzyYmBmZxAjZswCMwMM0ALYmxMDAM",
-                        popularity = 98.8,
+                        popularity = 98.5,
                     },
                     {
                         rank = 2,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAYmhxMYM1YmZGAAAAMjZMmZWGzMwMLGYMjFWgBmhhGYBzMmZAgB",
-                        popularity = 71.2,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAwMMmBjpGzMzAAAAgZMzMmZWGzMwMLGYMjFWgBmhhGYBzMmZAgB",
+                        popularity = 71.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAwMMmBjpGzMzAAAAgZMzMmZWGzMwMLGYMjFWgBmhhGYBzMmZAgB",
-                        popularity = 11.4,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAYmhxMYM1YmZGAAAAMjZMmZWGzMwMLGYMjFWgBmhhGYBzMmZAgB",
+                        popularity = 10.9,
                     },
                 },
             },
@@ -3937,17 +3937,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAwMjxMYM1YmZGAAAAMjZMmZWGzMwMLGYMjFWgBmhhGYBzMmZAgB",
-                        popularity = 98.9,
+                        popularity = 99.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAYmhxMYM1YmZGAAAAMjZMmZWGzMwMLGYMjFWgBmhhGYBzMmZAgB",
-                        popularity = 78.3,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAwMjxMYM1YmZGAAAAMjZMmZ2GzMwMLGYMjFWgBmhhGYBzMmZAgB",
+                        popularity = 76.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAwMjxMYM1YmZGAAAAMjZMmZ2GzMwMLGYMjFWgBmhhGYBzMmZAgB",
-                        popularity = 9.0,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMmZmZbmZGMYmZZGjhZ2AAAAAAAAYmZghZM1YmZGAAAAMjZmxMz2YmBmZxAjZswCMwMM0ALYmxMDAM",
+                        popularity = 8.6,
                     },
                 },
             },
@@ -3958,17 +3958,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhx8AYM1YmZGAAAAYmZmxMzyYmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 99.2,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 25.6,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhZGYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
+                        popularity = 25.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhZGYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 4.9,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
+                        popularity = 5.2,
                     },
                 },
             },
@@ -3979,17 +3979,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmBzwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBDG",
-                        popularity = 99.2,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhx8AYM1YmZGAAAAYmZmxMzyYmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 25.5,
+                        popularity = 25.7,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhZGYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 4.7,
+                        popularity = 5.0,
                     },
                 },
             },
@@ -4005,12 +4005,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhx8AYM1YmZGAAAAYmZmxMzyYmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 28.1,
+                        popularity = 28.2,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 4.6,
+                        popularity = 4.8,
                     },
                 },
             },
@@ -4026,12 +4026,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhHYGzYM1wMzAAAAAzMzMmZ2GzMwMbzYwCsMGGLDgZQshZmBzMAG",
-                        popularity = 23.6,
+                        popularity = 23.9,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhHYGGjpGzMzAAAAAzMzMmZ2GzMwMbzYwCsMGGLDgZQshZmBzMAG",
-                        popularity = 5.7,
+                        popularity = 6.1,
                     },
                 },
             },
@@ -4047,12 +4047,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 24.9,
+                        popularity = 25.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhHYGGjpGzMzAAAAAzMzMmZ2GzMwMbzYwCsMGGLDgZQshZmBzMAG",
-                        popularity = 5.6,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhZGYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
+                        popularity = 5.7,
                     },
                 },
             },
@@ -4068,12 +4068,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 24.5,
+                        popularity = 24.8,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxMYM1YmZGAAAAYMzMmZ2GzMwMbzYwCsMGGLDgZQshZmBzMAG",
-                        popularity = 5.4,
+                        popularity = 5.7,
                     },
                 },
             },
@@ -4084,17 +4084,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxMYM1YmZGAAAAYMzMmZ2GzMwMbzYwCsMGGLDgZQshZmBzMAG",
-                        popularity = 99.2,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhx8AYM1YmZGAAAAYmZmxMzyYmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 25.0,
+                        popularity = 25.2,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxwYM1YmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 4.8,
+                        popularity = 5.1,
                     },
                 },
             },
@@ -4110,12 +4110,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhx8AYM1YmZGAAAAYmZmxMzyYmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 30.4,
+                        popularity = 30.6,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxYGjpGmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 4.2,
+                        popularity = 4.5,
                     },
                 },
             },
@@ -4131,12 +4131,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhx8AYM1YmZGAAAAYmZmxMzyYmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 24.5,
+                        popularity = 24.8,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAwMzMbzMzgBzMLzYMMzGAAAAAAAAmhxYGjpGmZGAAAAYmZmxMz2YmBmZbGDWglxwYZAMDiNMzMYmBwA",
-                        popularity = 4.5,
+                        popularity = 4.9,
                     },
                 },
             },
@@ -4159,12 +4159,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 75.5,
+                        popularity = 75.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 9.9,
+                        popularity = 10.0,
                     },
                 },
             },
@@ -4186,7 +4186,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 14.6,
+                        popularity = 14.7,
                     },
                 },
             },
@@ -4198,17 +4198,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 80.5,
+                        popularity = 80.2,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 60.6,
+                        popularity = 60.2,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 15.0,
+                        popularity = 15.3,
                     },
                 },
             },
@@ -4225,12 +4225,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 80.9,
+                        popularity = 80.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZM2mxMzMz8AzMzAmxMGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 8.5,
+                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzgZgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+                        popularity = 8.7,
                     },
                 },
             },
@@ -4246,13 +4246,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 85.0,
+                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
+                        popularity = 85.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 12.4,
+                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTjZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
+                        popularity = 12.1,
                     },
                 },
             },
@@ -4264,12 +4264,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 98.7,
+                        popularity = 98.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzgZgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 74.1,
+                        popularity = 71.4,
                     },
                     {
                         rank = 3,
@@ -4286,17 +4286,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 76.6,
+                        popularity = 78.1,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZgZYGmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 46.7,
+                        popularity = 46.9,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 21.4,
+                        popularity = 26.7,
                     },
                 },
             },
@@ -4308,17 +4308,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzYmBMYMTzMzMNjx2MmZmZmHYmZGwMmxYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 98.0,
+                        popularity = 97.9,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZamZmpZM2mxMzMz8AzMzAmxMzYmZZmZgBGDWglxox2AYGA2wAzMYYA",
-                        popularity = 77.7,
+                        popularity = 77.4,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDMDzwMgBjZaMzMNjx2MmZmZmHYmZGwMmZGzMLzMDMwYwCsMGN2GAzAwGGYmBzYA",
-                        popularity = 10.4,
+                        popularity = 10.5,
                     },
                 },
             },
@@ -4363,17 +4363,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 74.7,
+                        popularity = 74.6,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 27.1,
+                        popularity = 27.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBmBjZaMzMNDz2MmZmZmZmZGwMzMYmZZmZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 40.1,
+                        popularity = 39.6,
                     },
                 },
             },
@@ -4384,17 +4384,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBmZGjZaGzMNDz2MmZmZmZmZGAzMGzMLjZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 71.0,
+                        popularity = 70.5,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 25.4,
+                        popularity = 25.7,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 38.3,
+                        popularity = 38.1,
                     },
                 },
             },
@@ -4410,12 +4410,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 28.1,
+                        popularity = 28.5,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBmBjZaMzMNDz2MmZmZmZmZGwMzMYmZZmZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 40.0,
+                        popularity = 39.9,
                     },
                 },
             },
@@ -4426,7 +4426,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmhHwAjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 76.9,
+                        popularity = 76.6,
                     },
                     {
                         rank = 2,
@@ -4436,7 +4436,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 39.2,
+                        popularity = 38.2,
                     },
                 },
             },
@@ -4447,7 +4447,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 74.5,
+                        popularity = 74.7,
                     },
                     {
                         rank = 2,
@@ -4457,7 +4457,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBmBjZaMzMNDz2MmZmZmZmZGwMzMYmZZmZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 41.4,
+                        popularity = 40.2,
                     },
                 },
             },
@@ -4468,17 +4468,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmhHwMYMTmZmpZY2mxMzMzMzMzAYmZGzMLjZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 73.6,
+                        popularity = 73.5,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 25.6,
+                        popularity = 25.7,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 39.7,
+                        popularity = 39.3,
                     },
                 },
             },
@@ -4489,7 +4489,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 77.1,
+                        popularity = 76.7,
                     },
                     {
                         rank = 2,
@@ -4499,7 +4499,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBmBjZaMzMNDz2MmZmZmZmZGwMzMYmZZmZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 41.2,
+                        popularity = 40.0,
                     },
                 },
             },
@@ -4510,17 +4510,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGMwMYMTjZmpZY2mxMzMzMzMzAmZmZGzMmZGYgxgFYZMasNAmBgNMDmZwwA",
-                        popularity = 77.1,
+                        popularity = 77.0,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 28.7,
+                        popularity = 29.0,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBz8AGjZaMzMNDz2MmZmZmZmZGwMzMGzMmZGYgxgFYZMasNAmBgNMwMDGG",
-                        popularity = 41.1,
+                        popularity = 41.8,
                     },
                 },
             },
@@ -4531,17 +4531,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGMwMYMTjZmpZY2mxMzMzMzMzAmZmZGzMmZGYgxgFYZMasNAmBgNMDmZwwA",
-                        popularity = 74.2,
+                        popularity = 74.0,
                     },
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBGGjZaMzMNDz2MmZmZmZmZGwMzMGzMLzMDMwYwCsMGN2GAzAwGmBzMYYA",
-                        popularity = 27.4,
+                        popularity = 27.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAzMDgZGmBmBjZaMzMNDz2MmZmZmZmZGwMzMYmZZmZgBGDWglxox2AYGA2wMYmBDD",
-                        popularity = 40.0,
+                        popularity = 39.3,
                     },
                 },
             },
@@ -4559,17 +4559,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMzMz8AzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 94.6,
+                        popularity = 94.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 18.1,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
+                        popularity = 18.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 7.0,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYjFYgZYohhFYMzAMGA",
+                        popularity = 7.2,
                     },
                 },
             },
@@ -4581,16 +4581,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 95.3,
+                        popularity = 95.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjYmZmZWmZGAMwYGbsADMDDNMsAjZGgxA",
-                        popularity = 17.0,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
+                        popularity = 17.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjYmZmZWmZGAMwYGbsADMDDNMsAjZGgxA",
                         popularity = 5.7,
                     },
                 },
@@ -4603,17 +4603,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMzMz8AzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 95.5,
+                        popularity = 95.3,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 20.3,
+                        popularity = 20.7,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 5.5,
+                        popularity = 5.9,
                     },
                 },
             },
@@ -4625,17 +4625,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMzMz8AzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 94.7,
+                        popularity = 94.5,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 19.8,
+                        popularity = 20.5,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 7.0,
+                        popularity = 7.2,
                     },
                 },
             },
@@ -4647,7 +4647,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMzMz8AzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 92.3,
+                        popularity = 91.8,
                     },
                     {
                         rank = 2,
@@ -4657,7 +4657,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 11.7,
+                        popularity = 12.4,
                     },
                 },
             },
@@ -4669,17 +4669,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsNDAAYmxMmxYMjwMAAAAzMjYMzMz2MzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 93.6,
+                        popularity = 93.5,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsNDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 13.9,
+                        popularity = 14.5,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsNDAAYmxMmxYMjwMAAAAzMjYMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 11.2,
+                        popularity = 10.5,
                     },
                 },
             },
@@ -4696,12 +4696,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMDAAwMmxMGjZEmBAAAYmZkZMzMzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 22.7,
+                        popularity = 22.8,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMjZmZWmZGAMwYGbsADMDDNMsAjZGgxA",
-                        popularity = 25.8,
+                        popularity = 25.0,
                     },
                 },
             },
@@ -4712,18 +4712,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjYmZmZWmZGAMwYGbsADMDDNMsAjZGgxA",
-                        popularity = 95.2,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMzMz8AzyMzAgBGzYjFYgZYohhFYMzAMGA",
+                        popularity = 94.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjMzMz8AzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 18.3,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGGzMjwMAAAAzMjYmZmZWmZGAMwYGbsADMDDNMsAjZGgxA",
+                        popularity = 18.8,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2MPAGmZMbGzMzsMjBAAmxMGMjZkZmBAAAYmZmMjZGzyMzAgBGzYjFYgZYohhFYMzAMGA",
-                        popularity = 5.2,
+                        popularity = 5.1,
                     },
                 },
             },
@@ -4735,17 +4735,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYYmxsNjZMzyMGAAYGzYwMmRmZGAAAw2MzMZGzMmlZmBADMmxGLwAzwQDYBGzMAjB",
-                        popularity = 97.8,
+                        popularity = 96.8,
                     },
                     {
                         rank = 2,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYYmxsNjZMzyMGAAYGzYwMmRmZGAAAw2MzMZGzMmtZmBADMmxGLwAzwQDYBGzMAjB",
-                        popularity = 10.9,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYYmxsNjZMzyMAAgZGzYwMmRmZGAAAw2MzMZGzMmtZmBADMmxGLwAzwQDYBGzMAjB",
+                        popularity = 10.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYYmxsNjZMzyMAAgZGzYwMmRmZGAAAw2MzMZGzMmlZmBADMmxGLwAzwQDYBGzMAjB",
-                        popularity = 20.0,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WGYYmxsNjZMzyMGAAYGzYwMmRmZGAAAw2MzMZGzMmtZmBADMmxGLwAzwQDYBGzMAjB",
+                        popularity = 18.8,
                     },
                 },
             },
@@ -4756,18 +4756,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNzMjZWmxAAAzYGDMmRmZGAAAgZmZyMzMjZZmZAwAjZsxCMwMM0AWgxMDwYA",
-                        popularity = 92.8,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmBAAMzYGDmxMyMzAAAAMzMTmxMjZbmZAwAjZsxCMwMM0AWgxMDwYA",
+                        popularity = 87.8,
                     },
                     {
                         rank = 2,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNzMjZWmBAAMzYGDzMzMTYmBAAAMzMixMjZZmZAwAjZsxCMwMM0AWgxMDwYA",
-                        popularity = 7.1,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmBAAMzYGDmxMCzAAAAMzMTMzMzMLzMDAGYMjNWgBmhhGwCMmZAGD",
+                        popularity = 9.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2Wm5BYYmxwwMzsMDAAwMmx8AYMjMzMAAAAzMjMjZmZ2mZGAMwYGbsADMDDNgFYMzAMGA",
-                        popularity = 50.0,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAYmZ2WmHADzMmNjZmZWmBAAMzYGDmZmRMzAAAAMzMTMmZegZbmZAwAjZsxCMwMM0AWgxMDwYA",
+                        popularity = 33.3,
                     },
                 },
             },
@@ -4783,12 +4783,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 14.4,
+                        popularity = 14.1,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 27.2,
+                        popularity = 26.7,
                     },
                 },
             },
@@ -4799,17 +4799,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzYmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 92.8,
+                        popularity = 92.9,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 14.7,
+                        popularity = 14.3,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 27.2,
+                        popularity = 26.0,
                     },
                 },
             },
@@ -4825,12 +4825,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 13.3,
+                        popularity = 13.0,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 28.8,
+                        popularity = 28.1,
                     },
                 },
             },
@@ -4841,7 +4841,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGjhZiZmBAAA2mZmJjZmxsMmBAgxM2YBGYGGaYYBmZmBgB",
-                        popularity = 91.9,
+                        popularity = 92.0,
                     },
                     {
                         rank = 2,
@@ -4851,7 +4851,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 30.3,
+                        popularity = 28.6,
                     },
                 },
             },
@@ -4862,17 +4862,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZmZMMTMzMAAAw2MzMZMzMGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 92.8,
+                        popularity = 92.9,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 14.7,
+                        popularity = 14.4,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 29.6,
+                        popularity = 27.8,
                     },
                 },
             },
@@ -4883,17 +4883,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 92.0,
+                        popularity = 91.7,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 14.5,
+                        popularity = 14.2,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZmZMMTMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 24.6,
+                        popularity = 25.1,
                     },
                 },
             },
@@ -4904,17 +4904,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 92.6,
+                        popularity = 92.4,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 14.0,
+                        popularity = 13.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzwMMTmxMAAAw2MzMNjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 26.3,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZmZMMTMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
+                        popularity = 26.7,
                     },
                 },
             },
@@ -4925,12 +4925,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGjhZiZmBAAA2mZmJjZmxsMmBAgxM2YBGYGGaYYBmZmBgB",
-                        popularity = 92.2,
+                        popularity = 92.3,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 14.0,
+                        popularity = 13.5,
                     },
                     {
                         rank = 3,
@@ -4946,17 +4946,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAgZGzYGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 93.3,
+                        popularity = 93.2,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYmZGmhZyMmBAAA2mZmJjZmZGjZAAYMjNWgBmhhGGWgZmZAYA",
-                        popularity = 14.9,
+                        popularity = 14.8,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMz2yADzMmFzYM2mxAAAzYGzMjhZyMmBAAA2mZmpZMzMPwYMDAAjZsxCMwMM0wwCMzMDAD",
-                        popularity = 25.5,
+                        popularity = 25.4,
                     },
                 },
             },
@@ -4974,17 +4974,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZYZMNDAAAAAAAAgxYAzsBYYWAbDA",
-                        popularity = 98.1,
+                        popularity = 98.2,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAgZGzAMzGALzsA2GA",
-                        popularity = 33.8,
+                        popularity = 33.9,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYzMjZMDGaGAAAAAAAAwMjZGwMbAwsA2GA",
-                        popularity = 9.3,
+                        popularity = 9.0,
                     },
                 },
             },
@@ -5001,12 +5001,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAgZGzAMzGYDzsA2GA",
-                        popularity = 46.9,
+                        popularity = 47.1,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAgZGzAMzGALzsA2GA",
-                        popularity = 17.6,
+                        popularity = 17.1,
                     },
                 },
             },
@@ -5023,12 +5023,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYmZGmZGzYGMmmBAAAAwMAAAMGzAMzGYDzsA2GA",
-                        popularity = 73.7,
+                        popularity = 74.0,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzYbmZMjZYZoZAAAAAMDAAAjZGDYmNADzCYbAA",
-                        popularity = 17.7,
+                        popularity = 17.9,
                     },
                 },
             },
@@ -5040,17 +5040,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBsNA",
-                        popularity = 98.8,
+                        popularity = 98.9,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzYbmZMjZYZoZAAAAAMDAAAjZGDYmNADzCYbAA",
-                        popularity = 41.1,
+                        popularity = 40.8,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2GA",
-                        popularity = 17.2,
+                        popularity = 17.4,
                     },
                 },
             },
@@ -5067,12 +5067,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZYZMNDAAAAAAAAgxYAzsBYYWAbDA",
-                        popularity = 60.7,
+                        popularity = 61.5,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAgZGzMgZ2AwMLgtBA",
-                        popularity = 10.0,
+                        popularity = 9.9,
                     },
                 },
             },
@@ -5084,17 +5084,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZYMDGTzAAAAAAAAAmZMAmZDAzsA2GA",
-                        popularity = 96.8,
+                        popularity = 97.3,
                     },
                     {
                         rank = 2,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYzMjZMDGaGAAAAAAAAwMjZAmZDAzsA2GA",
-                        popularity = 69.6,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzYGbzMjZMDGaGAAAAAAAAwMjZAmZDwwsA2GA",
+                        popularity = 71.3,
                     },
                     {
                         rank = 3,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZmZmZGbzMjZMDLDNDAAAAAAAAgZGDYmNAYWAbDA",
-                        popularity = 13.5,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYzMjZMDGaGAAAAAAAAwMjZAmZDAzsA2GA",
+                        popularity = 13.2,
                     },
                 },
             },
@@ -5111,12 +5111,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzgx0MAAAAAmBAAgxMzMgZ2AbwsA2GA",
-                        popularity = 79.8,
+                        popularity = 80.7,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBsNA",
-                        popularity = 10.0,
+                        popularity = 9.4,
                     },
                 },
             },
@@ -5128,17 +5128,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzgZGzYGM0MAAAAAAAAgZGzAMzGALzsA2GA",
-                        popularity = 96.9,
+                        popularity = 97.0,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYzMjZMDGaGAAAAAAAAwMjZGwMbAwsA2GA",
-                        popularity = 50.5,
+                        popularity = 50.3,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGPwyMzsYGmZmZGzMMzMmhZGzMzYbmZMjZYZMNDAAAAAAAAgxYAzsBYYWAbDA",
-                        popularity = 8.5,
+                        popularity = 8.3,
                     },
                 },
             },
@@ -5149,18 +5149,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBsNA",
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMGzYGMmmBAAAAwMAAAMzMzAMzGALmFwyAA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMGzYGMmmBAAAAwMAAAMzMzAMzGALmFwyAA",
-                        popularity = 90.7,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBsNA",
+                        popularity = 85.3,
                     },
                     {
                         rank = 3,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMGzYGMmmBAAAAwMAAAMzMzAMzGALmFw2AA",
-                        popularity = 10.3,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzYbmZMjZYZoZAAAAAMDAAAjZGDYmNADzCYbAA",
+                        popularity = 8.1,
                     },
                 },
             },
@@ -5172,17 +5172,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMzAMzGghZBsNA",
-                        popularity = 99.3,
+                        popularity = 99.4,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMzYGzghmBAAAAwMAAAMzMDgZ2AMLmFw2AA",
-                        popularity = 75.8,
+                        popularity = 78.5,
                     },
                     {
                         rank = 3,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYmZGmxYGzghmBAAAAwMAAAMzMDgZ2AMLmFw2AA",
-                        popularity = 18.5,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYG2GzsNzwMmZYYmxYmxMzYGzwMGzYGM0MAAAAAmBAAgZmZGgZ2AMLmFw2AA",
+                        popularity = 18.0,
                     },
                 },
             },
@@ -5193,12 +5193,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZMjtZmxMmhlhmBAAAAwMAAAYGjhZGgwwsA2GA",
-                        popularity = 54.8,
+                        popularity = 55.2,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 39.0,
+                        popularity = 38.6,
                     },
                     {
                         rank = 3,
@@ -5214,12 +5214,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZYmZMjZYZoZAAAAAMDAAAmxYYmBIMMLgtBA",
-                        popularity = 55.5,
+                        popularity = 55.9,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 38.8,
+                        popularity = 38.4,
                     },
                     {
                         rank = 3,
@@ -5235,12 +5235,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZYmZMjZYZoZAAAAAMDAAAmxYYmBIMMLgtBA",
-                        popularity = 54.9,
+                        popularity = 55.2,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 38.8,
+                        popularity = 38.4,
                     },
                     {
                         rank = 3,
@@ -5256,17 +5256,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZYmZMjZYZoZAAAAAMDAAAmxYYmBIMMLgtBA",
-                        popularity = 52.4,
+                        popularity = 52.9,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 41.3,
+                        popularity = 40.8,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
-                        popularity = 22.7,
+                        popularity = 22.8,
                     },
                 },
             },
@@ -5277,17 +5277,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZMjtZmxMmhlhmBAAAAwMAAAYGjhZGgwwsA2GA",
-                        popularity = 53.7,
+                        popularity = 54.1,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 40.1,
+                        popularity = 39.7,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
-                        popularity = 21.5,
+                        popularity = 21.3,
                     },
                 },
             },
@@ -5298,17 +5298,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZMjtZmxMmBjpZAAAAAMDAAAjxMDzMAZDmFw2AA",
-                        popularity = 55.3,
+                        popularity = 55.8,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 38.5,
+                        popularity = 38.0,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
-                        popularity = 20.3,
+                        popularity = 20.5,
                     },
                 },
             },
@@ -5319,17 +5319,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZMjtZmxMmhlhmBAAAAwMAAAYGjhZGgwwsA2GA",
-                        popularity = 53.9,
+                        popularity = 54.5,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 39.3,
+                        popularity = 38.7,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
-                        popularity = 21.8,
+                        popularity = 21.7,
                     },
                 },
             },
@@ -5339,18 +5339,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
-                        popularity = 56.2,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZwMjZMDLDNDAAAAgZAAAwMzYYmBIwMLgtBA",
+                        popularity = 56.5,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 37.7,
+                        popularity = 37.4,
                     },
                     {
                         rank = 3,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAA4BGjhZGgAmFw2AA",
-                        popularity = 20.3,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
+                        popularity = 20.1,
                     },
                 },
             },
@@ -5361,17 +5361,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZYmZMjZwQzAAAAAYGAAAMzMGmZACDzCYbAA",
-                        popularity = 55.5,
+                        popularity = 56.0,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMMmhlhmBAAAAwMAAAMPwYmhZGgAmFw2AA",
-                        popularity = 38.4,
+                        popularity = 38.0,
                     },
                     {
                         rank = 3,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAYzsNwAGwMsBMWAAwMjlZmhZYmZGMjZmZYGzMjZmZsNzMmxMsMmmBAAAAwMAAAwYMMzAEGmFw2AA",
-                        popularity = 20.6,
+                        popularity = 20.5,
                     },
                 },
             },
@@ -5389,7 +5389,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMmZmFMLDzMAAgZmZGAMzYbzwAsxMzM",
-                        popularity = 58.6,
+                        popularity = 59.6,
                     },
                     {
                         rank = 2,
@@ -5399,7 +5399,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMmZmFmZZYmBAAMzMzAgZGbbwAsxMzM",
-                        popularity = 21.7,
+                        popularity = 21.0,
                     },
                 },
             },
@@ -5411,17 +5411,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMY22YmZWmZmZmZWYmlhZGAAwYmZmZmZADbwAsxMA",
-                        popularity = 66.3,
+                        popularity = 65.3,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmBjZmxMYMNjBz2GzMzyMzMzMzCmlhZGAAwMzMmZmZADMLGgNmB",
-                        popularity = 21.5,
+                        popularity = 21.1,
                     },
                     {
                         rank = 3,
-                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmxmxMzYGMmmxgZbjZmZZmZmZmZhZWGmZAAAzMzMmZmBMAGgNmB",
-                        popularity = 38.1,
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmZxMmZGzgx0MGMbbMzMLzMzMzMLYWGmZAAAjxMzMzMghNWMAbMDA",
+                        popularity = 36.3,
                     },
                 },
             },
@@ -5433,7 +5433,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMzM22YMzyMzMzMzyYmlBDAAwYmZmZmZAYDGgNmB",
-                        popularity = 88.2,
+                        popularity = 87.5,
                     },
                     {
                         rank = 2,
@@ -5443,7 +5443,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMmZxMmZGzgx0MmZGbbMmZZmZmZmZZMzygBAAYMmxMzMAsxiBYjZA",
-                        popularity = 56.6,
+                        popularity = 56.7,
                     },
                 },
             },
@@ -5455,12 +5455,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMY22YmZWmZmZmZWYmlhZGAAwYmZmZmZADbwAsxMA",
-                        popularity = 64.9,
+                        popularity = 63.3,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmBjZmxMYMNjBz2GzMzyMzMzMzCmlhZGAAwMzMmZmZADMLGgNmB",
-                        popularity = 23.3,
+                        popularity = 22.5,
                     },
                     {
                         rank = 3,
@@ -5477,17 +5477,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMmZmFMLDzMAAgZmZGAMzYbzwAsxMzM",
-                        popularity = 99.6,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmttNzMjZmxMzsgZZYmBAAMzMDAMzYjZxAsxMzM",
-                        popularity = 62.2,
+                        popularity = 61.6,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZsZMzMmBjpZMY222MzMmZGzMzCzsMMzAAAmZmBAmZsxwAsxMzM",
-                        popularity = 27.2,
+                        popularity = 26.7,
                     },
                 },
             },
@@ -5504,7 +5504,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmttNzMjZmxMzsgZZYmBAAMzMDAMzYjZxAsxMzM",
-                        popularity = 60.0,
+                        popularity = 58.7,
                     },
                     {
                         rank = 3,
@@ -5521,17 +5521,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZWmZmZmZWwsMMzAAAmZmZMAmZstxiBYjZA",
-                        popularity = 97.3,
+                        popularity = 97.2,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMzMDzYmZMDGTzYwsttZmZWmZmZmZWwsMMzAAAmHYmxMAmZshFDwGzA",
-                        popularity = 61.6,
+                        popularity = 60.8,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmttNzMzyMzMzMzCmlhZGAAw8AzMjBwMjtNWMAbMDA",
-                        popularity = 15.9,
+                        popularity = 15.6,
                     },
                 },
             },
@@ -5543,17 +5543,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmhZMzMmBjpZMY22YmZWmZmZmZWYmlhZGAAwYmZmZmZADbwAsxMA",
-                        popularity = 67.0,
+                        popularity = 65.7,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmBjZmxM4BMNjBz2GzMzyMzMzMzCzsMMzAAAmZmZmZmZADYxAsxMA",
-                        popularity = 23.1,
+                        popularity = 22.2,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYxsMwAGwMsFYWAAAAAAAAAmxMmBjZmxMYMNjBz2GzMzyMzMzMzCmlhZGAAwMzMmZmZADMLGgNmB",
-                        popularity = 36.1,
+                        popularity = 35.7,
                     },
                 },
             },
@@ -5565,17 +5565,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMzMzsgZZYmBAAMzMzYGgZGbbsYAWYGA",
-                        popularity = 99.1,
+                        popularity = 99.2,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZwYmZMDGTzYwsttZmZMzMzMzsgZZYmBAAMzMzYGgZGbbsYA2YGA",
-                        popularity = 59.9,
+                        popularity = 58.4,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDmttNzMjZmZmZmFMLDzMAAgZmZYGgZGbMLGgFmB",
-                        popularity = 34.8,
+                        popularity = 32.7,
                     },
                 },
             },
@@ -5592,12 +5592,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDzsttZmZMzMzMzswMLDzMAAgxMzMDgZGbbwAswMA",
-                        popularity = 47.4,
+                        popularity = 47.1,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAgZMjZYGzMjZwYaGDzsttZmZMzMzMzswMLDzMAAgxMDDgZGbMLzAsxMA",
-                        popularity = 22.2,
+                        popularity = 25.0,
                     },
                 },
             },
@@ -5613,12 +5613,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 35.7,
+                        popularity = 35.9,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAGjZmZGwADDwGzA",
-                        popularity = 61.3,
+                        popularity = 59.3,
                     },
                 },
             },
@@ -5634,12 +5634,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 36.3,
+                        popularity = 36.2,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 62.6,
+                        popularity = 60.4,
                     },
                 },
             },
@@ -5650,17 +5650,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzgx0MGMLbMzMLzMzMzMLMzywMDAAYmxYmZmBMAGgNmB",
-                        popularity = 82.2,
+                        popularity = 82.3,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 35.1,
+                        popularity = 35.4,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 62.7,
+                        popularity = 61.5,
                     },
                 },
             },
@@ -5671,17 +5671,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzgx0MGMLbMzMLzMzMzMLMzywMDAAYmxYmZmBMAGgNmB",
-                        popularity = 80.9,
+                        popularity = 80.4,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 36.1,
+                        popularity = 36.0,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 60.8,
+                        popularity = 58.7,
                     },
                 },
             },
@@ -5697,12 +5697,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 35.7,
+                        popularity = 35.6,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAGjZmZGwADDwGzA",
-                        popularity = 60.4,
+                        popularity = 57.9,
                     },
                 },
             },
@@ -5713,17 +5713,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 81.8,
+                        popularity = 82.0,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 35.5,
+                        popularity = 35.8,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAGjZmZGwADDwGzA",
-                        popularity = 59.8,
+                        popularity = 58.0,
                     },
                 },
             },
@@ -5733,18 +5733,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 83.0,
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
+                        popularity = 83.2,
                     },
                     {
                         rank = 2,
-                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 35.0,
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
+                        popularity = 35.2,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAGjZmZGwADDwGzA",
-                        popularity = 57.7,
+                        popularity = 55.9,
                     },
                 },
             },
@@ -5755,17 +5755,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 82.3,
+                        popularity = 82.2,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 36.4,
+                        popularity = 37.1,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAGjZmZGwADDwGzA",
-                        popularity = 63.1,
+                        popularity = 61.1,
                     },
                 },
             },
@@ -5776,17 +5776,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2MmZGzwyYaGDmlNmZmlZmZmZmFmZZYmBAAYGjZmZGwAYA2YGA",
-                        popularity = 81.1,
+                        popularity = 81.2,
                     },
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAmZMzMzAGADwGzA",
-                        popularity = 34.9,
+                        popularity = 35.6,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAYzsMwAGwMsFYWAAAAAAAAAmxMzM2mxMzYGWGTzYwssxMzsMzMzMzswMLDzMAAAGjZmZGwADDwGzA",
-                        popularity = 62.4,
+                        popularity = 60.1,
                     },
                 },
             },
@@ -5809,12 +5809,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMYMNDAAAADAMWWmZmFzMzYMzYAzsBwixYmZzAA",
-                        popularity = 45.8,
+                        popularity = 45.9,
                     },
                     {
                         rank = 3,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
-                        popularity = 6.7,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMmZMgZ2AgxYmZzAA",
+                        popularity = 6.6,
                     },
                 },
             },
@@ -5836,7 +5836,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
-                        popularity = 9.4,
+                        popularity = 9.2,
                     },
                 },
             },
@@ -5853,12 +5853,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmZmBjxMmBjpZAAAAYAgxyyMzsYmZmxMzYAzsBYYMmxmBA",
-                        popularity = 38.9,
+                        popularity = 39.0,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawixMzMzYZAAAAAAwMmZmhZMmxMYoZAAAAAAMWWmZmFzMzMzMzAYmNAzixYGbGA",
-                        popularity = 25.4,
+                        popularity = 24.8,
                     },
                 },
             },
@@ -5875,12 +5875,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMmZMgZ2AgxYmZzAA",
-                        popularity = 54.7,
+                        popularity = 54.9,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
-                        popularity = 8.6,
+                        popularity = 8.3,
                     },
                 },
             },
@@ -5897,12 +5897,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzM8AjxAmZDAGjZmNDA",
-                        popularity = 68.6,
+                        popularity = 68.4,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMMjxMmBjpZAAAAAAMWWmZmFzMzYmZmBYmNwGMGzMbGA",
-                        popularity = 6.7,
+                        popularity = 6.9,
                     },
                 },
             },
@@ -5919,12 +5919,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGWGTzAAAAwAAjllZmZxMzMYMGwMbAGGjZmNDA",
-                        popularity = 79.1,
+                        popularity = 78.0,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 8.5,
+                        popularity = 8.7,
                     },
                 },
             },
@@ -5941,12 +5941,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMGjBMzGALGjZmNDA",
-                        popularity = 72.8,
+                        popularity = 71.8,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMYMNDAAAAAgxyyMzsYmZGzMzAYmNAWMGzMbGA",
-                        popularity = 17.3,
+                        popularity = 16.5,
                     },
                 },
             },
@@ -5963,7 +5963,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 57.1,
+                        popularity = 57.4,
                     },
                     {
                         rank = 3,
@@ -5984,13 +5984,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAgBAGLLzMziZmZwMjBMzGghxYmZxAA",
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawiZmZmZYZAAAAAAwMmZmBjxMmBjpZAAAAAAMWWmZmFzMzYmZGDYmNAWMGzMLGA",
                         popularity = 41.0,
                     },
                     {
                         rank = 3,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawiZmZmZYZAAAAAAwMmZmBjxMmBjpZAAAAAAMWWmZmFzMzYmZGDYmNAWMGzMLGA",
-                        popularity = 14.0,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMGWgFYGGawiZmZmZYZAAAAAAwMmZmhZMmxMsMmmBAAAgBAGLLzMziZmZwMjBMzGghxYmZxAA",
+                        popularity = 11.9,
                     },
                 },
             },
@@ -6028,12 +6028,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 45.4,
+                        popularity = 46.2,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 15.2,
+                        popularity = 15.1,
                     },
                 },
             },
@@ -6049,7 +6049,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 45.8,
+                        popularity = 46.4,
                     },
                     {
                         rank = 3,
@@ -6070,12 +6070,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 44.8,
+                        popularity = 45.9,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 14.1,
+                        popularity = 14.0,
                     },
                 },
             },
@@ -6085,18 +6085,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 98.3,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmhZMMmhlx0MAAAAMAwYZZmZWMzMDzYMgZ2AMMGzMbGA",
+                        popularity = 98.4,
                     },
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 45.9,
+                        popularity = 46.5,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
-                        popularity = 15.0,
+                        popularity = 15.2,
                     },
                 },
             },
@@ -6107,17 +6107,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 97.9,
+                        popularity = 98.0,
                     },
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 45.6,
+                        popularity = 46.2,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
-                        popularity = 15.1,
+                        popularity = 15.2,
                     },
                 },
             },
@@ -6128,17 +6128,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 98.1,
+                        popularity = 98.2,
                     },
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 44.9,
+                        popularity = 45.9,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 15.7,
+                        popularity = 15.3,
                     },
                 },
             },
@@ -6154,12 +6154,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 45.3,
+                        popularity = 45.9,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 15.5,
+                        popularity = 15.4,
                     },
                 },
             },
@@ -6170,17 +6170,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
-                        popularity = 98.0,
+                        popularity = 98.1,
                     },
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 45.0,
+                        popularity = 45.8,
                     },
                     {
                         rank = 3,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZYGjBMzGAMGzMbGA",
-                        popularity = 14.7,
+                        popularity = 14.6,
                     },
                 },
             },
@@ -6190,17 +6190,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxMMjxMmhlx0MAAAAMAwYZZmZWMzMDzYMgZ2AMMGzMbGA",
                         popularity = 98.2,
                     },
                     {
                         rank = 2,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmxyMGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
-                        popularity = 46.0,
+                        popularity = 46.7,
                     },
                     {
                         rank = 3,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmZmx2MGzYGMmmBAAAgBAGLLzMziZmZMGzMgZ2AgxYmZzAA",
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMgxMG2gFYGGawiZmZmZYZAAAAAAwMmxM2mxwYGWGTzAAAAwAAjllZmZxMzMMjxAmZDwwYMzsZA",
                         popularity = 15.5,
                     },
                 },
@@ -6219,7 +6219,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 99.8,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
@@ -6229,7 +6229,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZoZmZAAAYAAAgZmZWWmZiFAA2GmZGz2ilZmZMzYMmZmZswMzMmBAYAAAMzCAYGAMM",
-                        popularity = 31.4,
+                        popularity = 31.8,
                     },
                 },
             },
@@ -6246,12 +6246,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 61.0,
+                        popularity = 61.7,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamZGAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGLMjZegZAAGAAAzsAAmBADD",
-                        popularity = 28.5,
+                        popularity = 29.6,
                     },
                 },
             },
@@ -6268,12 +6268,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 62.2,
+                        popularity = 61.7,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamZGAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGLMjZegZAAGAAAzsAAmBADD",
-                        popularity = 32.8,
+                        popularity = 32.6,
                     },
                 },
             },
@@ -6290,12 +6290,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 66.1,
+                        popularity = 65.6,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZoZmZAAAYAAAgZmZWWmZiFAA2GmZGz2ilZmZMzYMmZmZswMzMmBAYAAAMzCAYGAMM",
-                        popularity = 30.7,
+                        popularity = 30.5,
                     },
                 },
             },
@@ -6312,12 +6312,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 67.8,
+                        popularity = 65.2,
                     },
                     {
                         rank = 3,
-                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZoZmZAAAYAAAgZmZWWmZiFAA2GmZGz2ilZmZMzYMmZmZswMzMmBAYAAAMzCAYGAMM",
-                        popularity = 41.0,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGLjlZmZWwMDNzMzAAAYAAAgZmZWWmZiFAA2GmZGz2ilZmZMzYMmZmZswMzMmBAYAAAMzCAYGAMM",
+                        popularity = 39.7,
                     },
                 },
             },
@@ -6334,12 +6334,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMPwswMzQzMzMAAAGAAAYmZmllZmYBAgthZmxstYZmZGzMGjZmZGLMzMjZAAGAAAzsAAmBADD",
-                        popularity = 76.2,
+                        popularity = 78.3,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZoZmZAAAYAAAgZmZWWmZiFAA2GmZGz2ilZmZMzYMmZmZswMzMmBAYAAAMzCAYGAMM",
-                        popularity = 31.3,
+                        popularity = 38.9,
                     },
                 },
             },
@@ -6356,12 +6356,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 84.6,
+                        popularity = 88.1,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDamZGAAAGAAAYmZmllZmYBAADzMjZbxyMzMmZMGzMzMWYmZmZGAgBAAwMLAgZAwwA",
-                        popularity = 42.4,
+                        popularity = 40.5,
                     },
                 },
             },
@@ -6373,17 +6373,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYhZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 99.8,
+                        popularity = 99.6,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzQzMzAAAwAAAAzMzssMzELAAsNMzMmtFLzMzYmxYMzMzYjZmZMDAwAAAYmFAwMAYYA",
-                        popularity = 61.7,
+                        popularity = 61.4,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsgZQzMzMAAAGAAAYmZmllZmYBAglhZmxstYZmZGzMGjZmZGLMzMzMDAwAAAYmFAwMAYYA",
-                        popularity = 32.9,
+                        popularity = 33.1,
                     },
                 },
             },
@@ -6423,12 +6423,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 51.9,
+                        popularity = 52.3,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 13.2,
+                        popularity = 13.1,
                     },
                 },
             },
@@ -6439,17 +6439,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFegZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 99.2,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 55.0,
+                        popularity = 55.2,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
-                        popularity = 11.5,
+                        popularity = 11.3,
                     },
                 },
             },
@@ -6460,17 +6460,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzM2YmZGzAAMAAAmZBAmZAwwA",
-                        popularity = 99.1,
+                        popularity = 99.0,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 51.2,
+                        popularity = 51.9,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
-                        popularity = 11.5,
+                        popularity = 11.0,
                     },
                 },
             },
@@ -6481,17 +6481,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 99.2,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
-                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 52.7,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
+                        popularity = 52.9,
                     },
                     {
                         rank = 3,
-                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
-                        popularity = 13.3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+                        popularity = 12.8,
                     },
                 },
             },
@@ -6507,12 +6507,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 50.8,
+                        popularity = 51.0,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 13.5,
+                        popularity = 13.3,
                     },
                 },
             },
@@ -6522,18 +6522,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
-                        popularity = 99.2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzMAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 53.0,
+                        popularity = 53.2,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 14.1,
+                        popularity = 13.8,
                     },
                 },
             },
@@ -6544,17 +6544,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
-                        popularity = 99.4,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 50.3,
+                        popularity = 51.2,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 10.5,
+                        popularity = 10.6,
                     },
                 },
             },
@@ -6570,12 +6570,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 51.6,
+                        popularity = 51.9,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 16.6,
+                        popularity = 16.8,
                     },
                 },
             },
@@ -6586,17 +6586,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZmHYGAgBAAwMLAgZAwwA",
-                        popularity = 99.5,
+                        popularity = 99.4,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZGamxAAAwAAAAzMzssMzELAAsNjZmxsZWmZmxMjxwMzMWYmZGzAAMAAAmZBAMDAGG",
-                        popularity = 50.5,
+                        popularity = 50.9,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGamZGAAAGAAAYmZmllZmYBAgtZMzMmNzyMzMmZMGmZmxCzMzYGAgBAAwMLAgZAwwA",
-                        popularity = 14.7,
+                        popularity = 14.9,
                     },
                 },
             },
@@ -6619,12 +6619,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 14.8,
+                        popularity = 14.9,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZMjZmZmZZAYmBYMGYYA",
-                        popularity = 13.3,
+                        popularity = 13.7,
                     },
                 },
             },
@@ -6641,12 +6641,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 16.4,
+                        popularity = 16.6,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZMjZmZmZZAYmBYMGYYA",
-                        popularity = 22.0,
+                        popularity = 22.4,
                     },
                 },
             },
@@ -6658,17 +6658,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 98.0,
+                        popularity = 98.1,
                     },
                     {
                         rank = 2,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZMjZmZmZZAYmBYMGYYA",
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzYGzMzMzyAwMDMGjBGG",
                         popularity = 20.7,
                     },
                     {
                         rank = 3,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 17.6,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZMjZmZmZZAYmBYMGYYA",
+                        popularity = 16.5,
                     },
                 },
             },
@@ -6680,17 +6680,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 98.6,
+                        popularity = 98.7,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzAAAwAAmZmmlllZAA2MzM2GzMzYBAAAAA2MzMzMAAYMjZMzMzMLDAzMAjxADD",
-                        popularity = 20.3,
+                        popularity = 20.5,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 10.2,
+                        popularity = 9.4,
                     },
                 },
             },
@@ -6702,16 +6702,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
-                        popularity = 98.7,
+                        popularity = 98.6,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
-                        popularity = 33.8,
+                        popularity = 35.1,
                     },
                     {
                         rank = 3,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMGGLzMzswDMzIzMzAAAwAAmZmmlllZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZZAYmBYMGMDD",
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlllZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZZAYmBYMGMDD",
                         popularity = 15.1,
                     },
                 },
@@ -6729,7 +6729,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzYGzMzMzyAwMDMGjBGG",
-                        popularity = 36.6,
+                        popularity = 38.5,
                     },
                     {
                         rank = 3,
@@ -6746,12 +6746,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
-                        popularity = 92.8,
+                        popularity = 93.3,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
-                        popularity = 28.6,
+                        popularity = 26.7,
                     },
                     {
                         rank = 3,
@@ -6768,17 +6768,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgFzMzMDAAGzwYmZmZWGAmZgxYMYGG",
-                        popularity = 99.2,
+                        popularity = 99.3,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAwiZmZmBAAjZYMzMzMLDAzMAjxgZYA",
-                        popularity = 21.0,
+                        popularity = 20.8,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDZmZGAAAGAwMz0sssMDAwmZmx2YmZGAAAAAgNzMzMDAAGzwYmZmZWGAmZgxYMYGG",
-                        popularity = 15.3,
+                        popularity = 15.0,
                     },
                 },
             },
@@ -6828,17 +6828,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 96.0,
+                        popularity = 95.9,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
-                        popularity = 24.7,
+                        popularity = 24.3,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 32.6,
+                        popularity = 33.3,
                     },
                 },
             },
@@ -6849,17 +6849,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
-                        popularity = 96.8,
+                        popularity = 96.5,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 25.3,
+                        popularity = 24.4,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 29.4,
+                        popularity = 30.5,
                     },
                 },
             },
@@ -6870,21 +6870,84 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 95.5,
+                        popularity = 95.4,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
-                        popularity = 25.1,
+                        popularity = 24.0,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 33.8,
+                        popularity = 33.7,
                     },
                 },
             },
             ["Maisara Caverns"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
+                        popularity = 95.9,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 21.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 35.1,
+                    },
+                },
+            },
+            ["Nexus-Point Xenas"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
+                        popularity = 96.2,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 24.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 35.3,
+                    },
+                },
+            },
+            ["Pit of Saron"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 96.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
+                        popularity = 25.4,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
+                        popularity = 31.6,
+                    },
+                },
+            },
+            ["Seat of the Triumvirate"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
@@ -6896,70 +6959,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 21.7,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 35.7,
-                    },
-                },
-            },
-            ["Nexus-Point Xenas"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZkZmZGAAADAYmZaWW2mBAYzMzYbMzMjNAAAAAYzMzMDAAMmhxMzMzsNAMzAMGDmhB",
-                        popularity = 96.0,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 23.8,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 34.4,
-                    },
-                },
-            },
-            ["Pit of Saron"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 96.2,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
-                        popularity = 26.3,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 30.0,
-                    },
-                },
-            },
-            ["Seat of the Triumvirate"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
-                        popularity = 95.5,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 22.7,
+                        popularity = 22.2,
                     },
                     {
                         rank = 3,
@@ -6975,17 +6975,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMzAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 95.7,
+                        popularity = 95.8,
                     },
                     {
                         rank = 2,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 24.1,
+                        popularity = 24.2,
                     },
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmZGAAAGAwMz0sssNDAwmZmx2YmZGbAAAAAwiZmZGAAYMDjZmZmZbAYmBMjxgZYA",
-                        popularity = 31.6,
+                        popularity = 32.7,
                     },
                 },
             },
@@ -6996,7 +6996,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYDAAAAAWMzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 96.1,
+                        popularity = 95.6,
                     },
                     {
                         rank = 2,
@@ -7006,7 +7006,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZGZmxAAAwAAmZmmlltZAA2MzM2GzMzYBAAAAA2MzMzMAAYMDjZmZmZbAYmBYMGMDD",
-                        popularity = 32.2,
+                        popularity = 32.7,
                     },
                 },
             },
@@ -7029,7 +7029,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 71.3,
+                        popularity = 71.4,
                     },
                     {
                         rank = 3,
@@ -7051,12 +7051,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 69.8,
+                        popularity = 70.0,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzMMbDjZYBAAgZ2AmBGwMYA",
-                        popularity = 10.1,
+                        popularity = 10.0,
                     },
                 },
             },
@@ -7073,12 +7073,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 74.2,
+                        popularity = 74.5,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzMMbDjZYBAAgZ2AmBGwMYA",
-                        popularity = 10.3,
+                        popularity = 10.2,
                     },
                 },
             },
@@ -7095,7 +7095,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 79.8,
+                        popularity = 80.0,
                     },
                     {
                         rank = 3,
@@ -7144,7 +7144,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgFA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 13.4,
+                        popularity = 13.3,
                     },
                 },
             },
@@ -7161,12 +7161,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 86.8,
+                        popularity = 86.4,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzMMbDjZYBAAgZ2AmBGwMYA",
-                        popularity = 17.5,
+                        popularity = 17.4,
                     },
                 },
             },
@@ -7183,12 +7183,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
-                        popularity = 69.4,
+                        popularity = 69.7,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzMMbDjZYBAAgZ2AmBGwMYA",
-                        popularity = 10.2,
+                        popularity = 10.3,
                     },
                 },
             },
@@ -7204,13 +7204,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAwwYZmZmlxMzEzMzMzMzMziZmZMjZAAAgZmZWWmZaDAAAAAAsBw2yYmZGMbDjZYBAAgZ2AmhxAmBD",
-                        popularity = 89.8,
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAwwYZmZmlxMzEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAwGAAAwGAbLjZmZwsNMmhFAAAmZDYGGDYGMA",
+                        popularity = 90.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAwwYZmZmlxMzEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAwGAAAwGAbLjZmZwsNMmhFAAAmZDYGGDYGMA",
-                        popularity = 8.3,
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAwwYZmZmlxMzEzMzMzMzMziZmZMjZAAAgZmZWWmZaDAAAAAAsBw2yYmZGMbDjZYBAAgZ2AmhxAmBD",
+                        popularity = 9.1,
                     },
                 },
             },
@@ -7227,11 +7227,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZGzMzMziZmZMjZAAAgZmZWWmZaDAA2AAAA2AYbZMzMDmthxMsAAAwMbAzADYGMA",
-                        popularity = 60.3,
+                        popularity = 58.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZmYmZmZmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzgZbYMDLAAAMzGwMwAmBD",
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAYGGLzMzsMmZEzMzYmZmZWMzMjZMDAAAMzMzyyMTbAAAAAAgNA2WGzMzMMbDjZYBAAgZ2AmBGwMYA",
                         popularity = 19.2,
                     },
                 },
@@ -7248,7 +7248,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 37.0,
+                        popularity = 36.9,
                     },
                     {
                         rank = 3,
@@ -7269,12 +7269,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 37.3,
+                        popularity = 37.1,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 23.7,
+                        popularity = 23.6,
                     },
                 },
             },
@@ -7290,12 +7290,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 37.2,
+                        popularity = 37.0,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 24.0,
+                        popularity = 24.2,
                     },
                 },
             },
@@ -7316,7 +7316,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 23.2,
+                        popularity = 23.1,
                     },
                 },
             },
@@ -7337,7 +7337,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 23.3,
+                        popularity = 23.4,
                     },
                 },
             },
@@ -7353,12 +7353,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 36.5,
+                        popularity = 36.4,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 23.8,
+                        popularity = 23.6,
                     },
                 },
             },
@@ -7374,12 +7374,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 36.9,
+                        popularity = 36.8,
                     },
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 24.8,
+                        popularity = 24.6,
                     },
                 },
             },
@@ -7395,7 +7395,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 37.9,
+                        popularity = 37.8,
                     },
                     {
                         rank = 3,
@@ -7410,7 +7410,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzsgZmYmZGzMzMziZmhZMDAAAMzMzyyMTbAAwGAAAwCAbLjZmZwsNMmZsBAAwMbAzwYAzgB",
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmlhZmYmxMzMzMziZmhZMDAAAMzMzyyMTbAAwGAAAwCAbbjZmZwsNMmZsBAAwMbAzwYAzgB",
                         popularity = 99.2,
                     },
                     {
@@ -7421,7 +7421,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAAWAYbbMzMDmthxMjNAAAmZDYGGDYGMA",
-                        popularity = 25.6,
+                        popularity = 25.9,
                     },
                 },
             },
@@ -7439,7 +7439,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAAYA",
-                        popularity = 84.6,
+                        popularity = 84.3,
                     },
                     {
                         rank = 2,
@@ -7461,7 +7461,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAAYA",
-                        popularity = 84.4,
+                        popularity = 84.0,
                     },
                     {
                         rank = 2,
@@ -7483,7 +7483,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAAYA",
-                        popularity = 81.8,
+                        popularity = 81.5,
                     },
                     {
                         rank = 2,
@@ -7505,7 +7505,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAAYA",
-                        popularity = 86.6,
+                        popularity = 86.3,
                     },
                     {
                         rank = 2,
@@ -7526,12 +7526,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYmYmBmhxGwMzMY2GzMmZZYZz22sNjZBAA2AAAAz2s0MzMLMsxAmZYaMAAgB",
-                        popularity = 91.2,
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYmYmBmhxGwMzMDzmtZGzsMssZbb2mxsAAAbAAAgZbWamZmFG2AYmhpxAAAG",
+                        popularity = 90.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYmYmBmhxGwMzMDzmtZGzsMssZbb2mxsAAAbAAAgZbWamZmFG2AYmhpxAAAG",
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYmYmBmhxGwMzMY2GzMmZZYZz22sNjZBAA2AAAAz2s0MzMLMsxAmZYaMAAgB",
                         popularity = 12.5,
                     },
                     {
@@ -7549,7 +7549,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZAAAAAAAYZBjYmBmhZ2MDmZmZY2GmxMLDLb22mtZMLAAwGAAAY2mlmZmZhhNAmZYaMAAgB",
-                        popularity = 85.6,
+                        popularity = 86.2,
                     },
                     {
                         rank = 2,
@@ -7571,7 +7571,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzw2M2YmZMAAAAAAALLYEzMwMM2YwMzMDzCzMmZZYZz22sNmZBAAWmlplZbmlBAAAwwCDzMgpxAAAG",
-                        popularity = 59.2,
+                        popularity = 59.7,
                     },
                     {
                         rank = 2,
@@ -7593,7 +7593,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzYGWmxGmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLb22GzYWAAgNAAAwsNLNzMziZYDgZGmGDAAYA",
-                        popularity = 87.3,
+                        popularity = 87.0,
                     },
                     {
                         rank = 2,
@@ -7615,7 +7615,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGzYWmxGzMjBAAAAAAYZBjwMwMMzmZwMzMDz2wMmZZYZz22YMzCAAsMLTLz2MLDAAAghFwMDYaMAAgB",
-                        popularity = 59.6,
+                        popularity = 58.2,
                     },
                     {
                         rank = 2,
@@ -7636,17 +7636,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGz2M2YmZMAAAAAAALLYEzMwMMzGjxMzMDzGzMmZ5BYZz22sNjZBAAWmtplZbmlBAAAYG2AzMgpxAAAG",
-                        popularity = 57.1,
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyM2YmZMAAAAAAALLYEzMwMMzGDmZmZY2GmxMLDLbz22sNMLAAwGAAAY2mlmZmZhhFAmZYaMAAgB",
+                        popularity = 60.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzwYWmxGzMjBAAAAAAYZBjYmBmhxGMmZmZY2sMzYmlhlNbbjxMLAAwGAAAY2mlmZmZzMsBwMDTjBAAMA",
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGz2M2YmZMAAAAAAALLYEzMwMMzGjxMzMDzGzMmZ5BYZz22sNjZBAAWmtplZbmlBAAAYG2AzMgpxAAAG",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGz2M2YmZMAAAAAAALLYEzMwMM2YMmZmZMzGzMmZ5BYZz22sNmZBAAWmtplZbmlBAAAYG2AzMgpxAAAG",
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGzwYWmxGzMjBAAAAAAYZBjYmBmhxGMmZmZY2sMzYmlhlNbbjxMLAAwGAAAY2mlmZmZzMsBwMDTjBAAMA",
                         popularity = 37.5,
                     },
                 },
@@ -7658,7 +7658,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMMzmBmZmZY2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 73.3,
+                        popularity = 71.2,
                     },
                     {
                         rank = 2,
@@ -7679,7 +7679,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMMzmBmZmZY2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 74.4,
+                        popularity = 72.4,
                     },
                     {
                         rank = 2,
@@ -7700,7 +7700,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMMzmBmZmZY2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 72.2,
+                        popularity = 70.0,
                     },
                     {
                         rank = 2,
@@ -7720,17 +7720,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYmYmBmhxmBmZmZY2GmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 72.4,
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMPwGzMjBAAAAAAYZBjYmBzMM2MMmZmZY2YmxYZYZbW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
+                        popularity = 70.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMMzmBmZmZY2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMPwGzMjBAAAAAAYZBmYmBmhZ2MwMzMDzGzMmZZYZbW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMM2MwMzMDz2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMPwGzMjBAAAAAAYZBjYmBmhZ2MwMzMDzGzMmZZYZbW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
                         popularity = 37.5,
                     },
                 },
@@ -7741,8 +7741,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMMzGDmZmZY2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 73.8,
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLwEzMwMMzGMmZmZY2sNGzsMssNbbz2wsAAAbAAAgZbWamZmNG2AYmhpxAAAG",
+                        popularity = 71.7,
                     },
                     {
                         rank = 2,
@@ -7763,7 +7763,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYmYmBmhxmBmZmZY2GmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 73.4,
+                        popularity = 71.5,
                     },
                     {
                         rank = 2,
@@ -7784,7 +7784,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYmwMwMM2MwMzMDz2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 73.9,
+                        popularity = 71.9,
                     },
                     {
                         rank = 2,
@@ -7805,7 +7805,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLYEzMwMMzmBmZmZY2YmxMLDLbz22sNMLAAwGAAAY2mlmZmZjhNAmZYaMAAgB",
-                        popularity = 73.2,
+                        popularity = 71.2,
                     },
                     {
                         rank = 2,
@@ -7826,7 +7826,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDGz2M2YmZMAAAAAAALLwEzMwMMzGMmZmZY2sNGzsMssNbbz2wsAAAbAAAgZbWamZmNG2AYmhpxAAAG",
-                        popularity = 72.7,
+                        popularity = 70.6,
                     },
                     {
                         rank = 2,
@@ -7854,7 +7854,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
-                        popularity = 95.7,
+                        popularity = 95.8,
                     },
                     {
                         rank = 2,
@@ -7964,7 +7964,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgxM2mB2sYGzMLDbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
-                        popularity = 89.8,
+                        popularity = 90.3,
                     },
                     {
                         rank = 2,
@@ -7986,7 +7986,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
-                        popularity = 93.6,
+                        popularity = 95.0,
                     },
                     {
                         rank = 2,
@@ -8008,7 +8008,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MwmFzYmZZGbYmZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAGgZAjhxiMmBA",
-                        popularity = 95.1,
+                        popularity = 95.3,
                     },
                     {
                         rank = 2,
@@ -8035,12 +8035,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2YZYzixMzsMjNMmhZW2WmZswMaGzAGMYMLzMzMMbDGsYCAAAAAAWsMzysNzAAADYAmBMGGLyYGA",
-                        popularity = 36.4,
+                        popularity = 32.9,
                     },
                     {
                         rank = 3,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM2GLDbWMmZmlZshxMMzy2yMjFmRzYGwgZDsMzMzwsMYwyMBAAAAAALWmZZ2mZAAgBMAzAGDjFZMDA",
-                        popularity = 40.0,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2YZYzixMzsMjNMmhZW2WmZswMaGzAGMYYZmZmhZbwgFTAAAAAAwilZWmtZGAAYADwMgxwYZyYGA",
+                        popularity = 40.5,
                     },
                 },
             },
@@ -8057,12 +8057,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MLDbWMjZmlZstsMjZYmltlZGLMjmxMgBDGzyMzMDz2gBLmAAAAAAgFLzsMbzMAAwAAMDYMMWkxMA",
-                        popularity = 23.2,
+                        popularity = 20.3,
                     },
                     {
                         rank = 3,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghx2MLDbWMjZmlZstsMjZYmltlZGLMjmxMgBDGWmZmZYWGMYxEAAAAAAsYZmlZbmBAAGAgZAjhxykxMA",
-                        popularity = 17.2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM2mZZYziZMzsMjtllZMDzsstMzYhx0MmBMYYGWmZmZYWGMMLmAAAAAAgFLzsMbzMAAwAAMDYMMWkxMA",
+                        popularity = 19.2,
                     },
                 },
             },
@@ -8072,17 +8072,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
-                        popularity = 96.1,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBwMzMDzGmhZZmAAAAAAgFbzsMbzMAAwgBgZAjBWkxMA",
+                        popularity = 96.3,
                     },
                     {
                         rank = 2,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZbwwsMTAAAAAAwitZWmtZGAAYAAmBMGYRGzA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
                         popularity = 37.5,
                     },
                 },
@@ -8093,8 +8093,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZbwwsMTAAAAAAwitZWmtZGAAYAAmBMGYRGzA",
-                        popularity = 96.2,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBYZmZmhZDzwsMTAAAAAAwitZWmtZGAAYAAmBMGYRGzA",
+                        popularity = 96.3,
                     },
                     {
                         rank = 2,
@@ -8114,17 +8114,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
-                        popularity = 96.0,
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBwMzMDzGmhZZmAAAAAAgFbzsMbzMAAwgBgZAjBWkxMA",
+                        popularity = 96.1,
                     },
                     {
                         rank = 2,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBMmZmZY2wMMLzEAAAAAAsYbmlZbmBAAgBgZAjBWkxMA",
                         popularity = 37.5,
                     },
                 },
@@ -8136,7 +8136,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
-                        popularity = 96.2,
+                        popularity = 96.4,
                     },
                     {
                         rank = 2,
@@ -8157,7 +8157,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZbwwsMTAAAAAAwitZWmtZGAAYAAmBMGYRGzA",
-                        popularity = 96.3,
+                        popularity = 96.4,
                     },
                     {
                         rank = 2,
@@ -8178,7 +8178,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
-                        popularity = 96.2,
+                        popularity = 96.3,
                     },
                     {
                         rank = 2,
@@ -8198,7 +8198,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFGTzYGwYMALzMzMMbwwsMTAAAAAAwitZWmtZGAAYAAmBMGYRGzA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwYMAmZmZY2wMMLzEAAAAAAsYbmlZbmBAAGAgZAjBWkxMA",
                         popularity = 96.2,
                     },
                     {
@@ -8241,7 +8241,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZstsMjZ2Mz2yyMjFmRzYGwgBYZmZmhZDGmlZCAAAAAAWsNzysNzAAADGAmBMGYRGzA",
-                        popularity = 96.0,
+                        popularity = 96.1,
                     },
                     {
                         rank = 2,
@@ -8296,7 +8296,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 59.6,
+                        popularity = 59.7,
                     },
                     {
                         rank = 3,
@@ -8318,7 +8318,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2MGsNzMbzAAAAAAAAAAAAsMMCzwwAmxwMzMDzywMMLzEAwmZ2GDzMzMAA2AgZZWamZmFAMwMDAjlxAGwA",
-                        popularity = 47.7,
+                        popularity = 47.2,
                     },
                     {
                         rank = 3,
@@ -8340,7 +8340,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 62.4,
+                        popularity = 61.8,
                     },
                     {
                         rank = 3,
@@ -8362,7 +8362,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMMjZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAGLDgBM",
-                        popularity = 78.3,
+                        popularity = 77.9,
                     },
                     {
                         rank = 3,
@@ -8384,7 +8384,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 73.8,
+                        popularity = 73.2,
                     },
                     {
                         rank = 3,
@@ -8406,11 +8406,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjZMzMzwshZwyMBAsYmtxwYmZAAsBAzys0MzMLAjZgZGAGLDgBM",
-                        popularity = 65.2,
+                        popularity = 64.4,
                     },
                     {
                         rank = 3,
-                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjwMgB2GmxMzMDz2wMMLzEAwiZ2GDjZmBAwGAMLzSzMzsAMMwMDAjlZAGwA",
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
                         popularity = 62.5,
                     },
                 },
@@ -8428,7 +8428,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 57.1,
+                        popularity = 57.3,
                     },
                     {
                         rank = 3,
@@ -8445,12 +8445,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2MGsNzMbzAAAAAAAAAAAAsMMCzYBDYGzYmZmhZZYGmlZCAYzMbjhZmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 96.3,
+                        popularity = 96.6,
                     },
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2MGsNzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbjhZmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 73.8,
+                        popularity = 75.2,
                     },
                     {
                         rank = 3,
@@ -8472,7 +8472,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2MGsNzMbzAAAAAAAAAAAAsMMCzYbYAzYYmZmhZZYGmlZCAYzMbjhZmZGAAbAwsMLNzMzCAGYmBAWGDYAD",
-                        popularity = 58.3,
+                        popularity = 53.8,
                     },
                     {
                         rank = 3,
@@ -8493,7 +8493,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 38.9,
+                        popularity = 39.5,
                     },
                     {
                         rank = 3,
@@ -8514,7 +8514,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 40.0,
+                        popularity = 40.8,
                     },
                     {
                         rank = 3,
@@ -8535,7 +8535,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 39.0,
+                        popularity = 39.7,
                     },
                     {
                         rank = 3,
@@ -8556,7 +8556,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 39.9,
+                        popularity = 40.6,
                     },
                     {
                         rank = 3,
@@ -8572,12 +8572,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDjmxMMMGMMMzMzwshZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAGLDgBM",
-                        popularity = 99.6,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 38.8,
+                        popularity = 39.0,
                     },
                     {
                         rank = 3,
@@ -8593,12 +8593,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMMjZmZGmNMDzyMBAsYmtxwYmZAAsBAzys0MzMLAjZgZGAGLDgBM",
-                        popularity = 99.6,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 38.9,
+                        popularity = 39.4,
                     },
                     {
                         rank = 3,
@@ -8619,7 +8619,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 37.2,
+                        popularity = 37.6,
                     },
                     {
                         rank = 3,
@@ -8640,7 +8640,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 39.1,
+                        popularity = 40.2,
                     },
                     {
                         rank = 3,
@@ -8661,7 +8661,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYMYMYbmZ2mxAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNGGzMDAgNAYWmlmZmZBYYgZGAYZMgBM",
-                        popularity = 38.0,
+                        popularity = 38.6,
                     },
                     {
                         rank = 3,
@@ -8781,7 +8781,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMNxwYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
                         popularity = 37.5,
                     },
                 },
@@ -8803,7 +8803,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAMLAgBAAsMmZGzYmZ2YMGzyYbmZxMNxwYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBYwmhxMMAAgZGmxYYA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
                         popularity = 37.5,
                     },
                 },
@@ -8816,7 +8816,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
-                        popularity = 99.7,
+                        popularity = 99.8,
                     },
                     {
                         rank = 2,
@@ -8860,7 +8860,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
-                        popularity = 98.6,
+                        popularity = 98.2,
                     },
                     {
                         rank = 2,
@@ -8869,7 +8869,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGzYmZYYWyAwAG2AbsNjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
                         popularity = 37.5,
                     },
                 },
@@ -8887,11 +8887,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMNxYGzMDDzWGAGwwGYjlZMzysNzMbNAAAALAwmHgxMmBAAMzwMGDD",
-                        popularity = 69.7,
+                        popularity = 72.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMAAglxMzYGzMzGjxYWGbzMLmpJGGzMDDzWGAGwwGYjlZMzysNzMbNAAAALAwmhxMmZAAgZGmxYYA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZGzYmZ2YMGzyYbmZxMJGzYmZYY2yAwAG2AbsMjZWmtZmZrBAAAYBA2MMmxMAAgZGmxYYA",
                         popularity = 37.5,
                     },
                 },
@@ -8903,7 +8903,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZmZGzMzCMGWGbzMLmpJGzYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.2,
+                        popularity = 83.9,
                     },
                     {
                         rank = 2,
@@ -8924,7 +8924,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 82.1,
+                        popularity = 82.7,
                     },
                     {
                         rank = 2,
@@ -8945,7 +8945,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZmZGzMzCMGWGbzMLmpJGzYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.3,
+                        popularity = 84.2,
                     },
                     {
                         rank = 2,
@@ -8966,7 +8966,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNmBbeAYGGAAwMDzYMMA",
-                        popularity = 83.7,
+                        popularity = 84.4,
                     },
                     {
                         rank = 2,
@@ -8987,7 +8987,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZmZGzMzCMGWGbzMLmpJGzYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.7,
+                        popularity = 84.4,
                     },
                     {
                         rank = 2,
@@ -9007,17 +9007,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.2,
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxsYMzMjhZLDAzAYDsx2MzMLz2Mzs1AAAAswGGsBMjBAAYmhZMGGA",
+                        popularity = 83.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxsYMzMMMbZAYAYDsx2MzMLz2Mzs1AAAAswGGs5BgZMDAAYmhZMGGA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
                         popularity = 37.5,
                     },
                 },
@@ -9029,7 +9029,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAAsMmZmZGzMzCMGWGbzMLmpJGzYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.4,
+                        popularity = 84.3,
                     },
                     {
                         rank = 2,
@@ -9050,7 +9050,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjtZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.2,
+                        popularity = 83.7,
                     },
                     {
                         rank = 2,
@@ -9071,7 +9071,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxwYmZYY2yAwAwGYjlZmZWmtZmZrBAAAYhNMYzAzYGAAwMDzYMMA",
-                        popularity = 83.2,
+                        popularity = 83.9,
                     },
                     {
                         rank = 2,
@@ -9080,7 +9080,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAMDAwglxMzMzYmZWgxwyYbmZxMNxsYMzMMMbZAYAYDsx2MzMLz2Mzs1AAAAswGGs5BgZMDAAYmhZMGGA",
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAAYBAYAAGsMmZmZGzMzCMGWGbzMLmpJmFjZmhhZLDAzAYDsx2MzMLz2Mzs1AAAAswGG22AmxMAAgZGmxYYA",
                         popularity = 37.5,
                     },
                 },
@@ -9099,7 +9099,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
-                        popularity = 89.3,
+                        popularity = 89.2,
                     },
                     {
                         rank = 2,
@@ -9121,7 +9121,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
-                        popularity = 88.1,
+                        popularity = 88.0,
                     },
                     {
                         rank = 2,
@@ -9143,7 +9143,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
-                        popularity = 95.5,
+                        popularity = 95.6,
                     },
                     {
                         rank = 2,
@@ -9165,7 +9165,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZmxYmt2AwAGwgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
-                        popularity = 94.9,
+                        popularity = 95.1,
                     },
                     {
                         rank = 2,
@@ -9174,7 +9174,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbDDAwAAAAAAg0MziZMzMGzs1GAGwAGsBAAmZabmZZGAgNwMAGjZYMAALzAMzAG",
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWGLzMjZGbLjxYmFbzYAAGAAAAAAkmZWMjZGGzs1GAGwAzgNAAwMTbzMLzAAsBmBAjZYMAALzAMzAG",
                         popularity = 37.5,
                     },
                 },
@@ -9187,16 +9187,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMDzyYZmZMzYbZMGzsYZYAAGAAAAAAkmZWMjZmxws1GAGAYGsBAAmZabmZZGAgNGmBwYMDjBAYZGgZGwA",
-                        popularity = 87.5,
+                        popularity = 86.8,
                     },
                     {
                         rank = 2,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMDzyYZmZMzYbZMGzsYZYAAGAAAAAAkmZWmZMzMGmt2AwAAzgNAAwMTbzMLzAAsxgBwYMDjBAYZGgZGwA",
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMDzyYZmZMzYbZMGzsYZGDAwAAAAAAg0MziZMzMGmt2AwAGwgNAAwMTbzMLzAAsxwMAYMDjBAYZGgZGwA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMDzyYZmZMzYbZMGzsYZGDAwAAAAAAg0MziZMzMGmt2AwAGwgNAAwMTbzMLzAAsxwMAYMDjBAYZGgZGwA",
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMDzyYZmZMzYbZMGzsYZYAAGAAAAAAkmZWmZMzMGmt2AwAAzgNAAwMTbzMLzAAsxgBwYMDjBAYZGgZGwA",
                         popularity = 37.5,
                     },
                 },
@@ -9209,7 +9209,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZbZMGzsMLDDAwAAAAAAg0YWmZMzMGmt2AwAAzgNAAwMTbzMLzAAsxwMAGjZYMAALzAMzAG",
-                        popularity = 93.0,
+                        popularity = 92.9,
                     },
                     {
                         rank = 2,
@@ -9218,7 +9218,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZbZMGzsMLDDAwAAAAAAg0MjZGzMjhZrNAMAwMYDAAMz02MzyMAAbMMDYMYGGDAwyMAzMgB",
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZbZMGzsMLDDAwAAAAAAg0MzyMjZmxws1GAGAYgNAAwMTbzMLzAAsxwMAGjZYMAALzAMzAG",
                         popularity = 37.5,
                     },
                 },
@@ -9231,7 +9231,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMYWGLzMjZmZbZMGzsMLDDAwAAAAAAg0MjZGzMjhZrNAMAwMYDAAMz02MzyMAAbMMDgxYGGDAwyMAzMgB",
-                        popularity = 86.2,
+                        popularity = 81.8,
                     },
                     {
                         rank = 2,
@@ -9275,7 +9275,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZm5BYWmZZmZMzwyYMmZhhBAYAAAAAAQamZxMmZGjZ2aDADYAD2AAAzMtNzsMDAwGYGAjxMMGAglZAmZAD",
-                        popularity = 93.3,
+                        popularity = 93.7,
                     },
                     {
                         rank = 2,
@@ -9296,18 +9296,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZMGzyYbmZMzMWGzMjZZMMAAAAAAAAQamZZmxMDjZ2aDADMDMwGAAYmptZmlZAA2AzAYMmhxAAsMDwMDYA",
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMGzyYZMjZGWGzMzMLMMAAAAAAAAQamZxMmZGjZ0GAGwAGsBAAmZaZmZZGAgNDmBWYmxMMGAglZAmZAD",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzMGzyYZMjZGWGzMzMLMMAAAAAAAAQamZxMmZGjZ0GAGwAGsBAAmZaZmZZGAgNDmBWYmxMMGAglZAmZAD",
-                        popularity = 33.3,
-                    },
-                    {
-                        rank = 3,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZmxYWGLzMjZGWGzMjZZMMAAAAAAAAQamZZmxMDjZ2aDADMDMwGAAYmptZmlZAA2AzAYMmhxAAsMDwMDYA",
-                        popularity = 100.0,
+                        popularity = 50.0,
                     },
                 },
             },
@@ -9318,7 +9313,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLDDAwAAAAAAgmmZWmZMDGmt2AwADYGsBAAAAzMLbLtMzYxMYAMGzwYAwMDAmZAD",
-                        popularity = 78.6,
+                        popularity = 78.5,
                     },
                     {
                         rank = 2,
@@ -9359,7 +9354,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZwws1GAGYAzgNAAAAYmZZbplZGLmBDgBzwYAwMDAmZAD",
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLDDAwAAAAAAgmmZWmZMDGmt2AwADYGsBAAAAzMLbLtMzYxMMDAGzwYAwMDAmZAD",
                         popularity = 77.8,
                     },
                     {
@@ -9402,7 +9397,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLDDAwAAAAAAgmmZWmZMDGmt2AwADYGsBAAAAzMLbLtMzYxMYAMGzwYAwMDAmZAD",
-                        popularity = 78.4,
+                        popularity = 78.5,
                     },
                     {
                         rank = 2,
@@ -9423,7 +9418,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGmt2AwADAsBAAAAzMLbLtMzYxMMDgBzshBAzMAYmBMA",
-                        popularity = 79.6,
+                        popularity = 79.5,
                     },
                     {
                         rank = 2,
@@ -9444,7 +9439,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGs1GAGYADsBAAAAzMLbLtMzYxMMDgBzsZMAYmBAzMgB",
-                        popularity = 78.1,
+                        popularity = 78.2,
                     },
                     {
                         rank = 2,
@@ -9465,7 +9460,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLDDAwAAAAAAg0MzyMjZmxws1GAGYADsBAAAAzMLbLtMzYxMMDgBzwYAwMDAmZAD",
-                        popularity = 79.3,
+                        popularity = 79.2,
                     },
                     {
                         rank = 2,
@@ -9486,7 +9481,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNjBzyYbMjZmZZZMzwsMLzYAAGAAAAAA00MzyMjZGGmt2AwADAsBAAAAzMLbLtMzYxMMDgBzshBAzMAYmBMA",
-                        popularity = 78.8,
+                        popularity = 78.5,
                     },
                     {
                         rank = 2,
@@ -9524,7 +9519,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMjthZbYmtZMGzMMjN2GAAAzMtNzsNDAYDwAgxMMDmxY2wyMYMjhBD",
-                        popularity = 22.4,
+                        popularity = 22.3,
                     },
                 },
             },
@@ -9541,12 +9536,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmBAAAAAwoMmhZGbDz2wMbzYMGDzYjNAAAmZabmZbGAwGgBwYMDzgZMzshlZwwYGDG",
-                        popularity = 40.0,
+                        popularity = 40.3,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmBAAAAAwoMmhZGbDz2wMbzYMGDzYjNMAAwMTbzMbzAA2AMAYMDzgZMzshlZwwYGDG",
-                        popularity = 24.6,
+                        popularity = 25.5,
                     },
                 },
             },
@@ -9563,7 +9558,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwMlxMMzYbY2GmZbGjxMDzYjtBAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
-                        popularity = 59.5,
+                        popularity = 59.8,
                     },
                     {
                         rank = 3,
@@ -9590,7 +9585,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZGAAAAAAGlxMMzYbY2GmZbGjxYYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
-                        popularity = 21.8,
+                        popularity = 21.6,
                     },
                 },
             },
@@ -9607,12 +9602,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMGzMDAAAAAwoMmhZGbDz2wMbzYmxYYGbsBAAwMTbzMbzAA2AMAYMDzgZmZshlZwwYGDG",
-                        popularity = 71.4,
+                        popularity = 71.2,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMGzMDAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDzgZmZshlZwwYGDG",
-                        popularity = 10.3,
+                        popularity = 10.5,
                     },
                 },
             },
@@ -9634,7 +9629,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MjlxYmBAAAAAwoMLzwMjthZbYmtZMzYmhZsxGAAAzMtNzsNDAYDwAgxMMDmZmZ2wyMYYMMYA",
-                        popularity = 8.5,
+                        popularity = 8.4,
                     },
                 },
             },
@@ -9651,12 +9646,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZYGbsNMAAwMTbzMbzAA2AMAYMDzgZMmNsMDGGzYwA",
-                        popularity = 70.2,
+                        popularity = 69.0,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMmhZGbDz2wMbzYMmZMzYjtBAAwMTbzMbzAA2AMAYMMzgZMmNsMDGzYYwA",
-                        popularity = 10.8,
+                        popularity = 10.4,
                     },
                 },
             },
@@ -9678,7 +9673,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZmZAAAAAAGlxMMzYbY2GmZbGjxYYGbshBAAmZabmZbGAwGgBAjZYGMzMshlZwwYGDG",
-                        popularity = 18.2,
+                        popularity = 18.0,
                     },
                 },
             },
@@ -9695,12 +9690,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZGAAAAAAGlZZGmZsNMbDzsNjxYMmZsx2wAAAzMtNzsNDAYDwAgxMMwMGzGWmBDjhBD",
-                        popularity = 77.7,
+                        popularity = 76.2,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMmZGAAAAAAGlZZGmZsNMbDzsNjxYMmZsx2AAAYmptZmtZAAbAGAMGMDmxY2wyMYYMjBD",
-                        popularity = 21.4,
+                        popularity = 20.3,
                     },
                 },
             },
@@ -9711,18 +9706,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMsNMbDzsNjxYmxMjN2GAAAzMtNzsNDAYDwAgxwMDmxY2wyMYMjhBD",
+                        talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMsNMbDzsNjxYmxMjN2GAAAzMtNzsNDAYDwAgxMmBmxY2wyMYMjhBD",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMsNMbDzsNjxYmxMjN2GAAAzMtNzsNDAYDwAgxMmBmxY2wyMYMjhBD",
-                        popularity = 86.4,
+                        talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMsNMbDzsNjxYmxMjN2GAAAzMtNzsNDAYDwAgxwMDmxY2wyMYMjhBD",
+                        popularity = 85.3,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQz22MzsMMzAAAAAAwoMLzwMsNMbDzsNjxYmxMjN2GAAAzMtNzsNDAYDwAgxMmBmxY2wyMYYMjBD",
-                        popularity = 10.5,
+                        popularity = 9.9,
                     },
                 },
             },
@@ -9738,7 +9733,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 24.3,
+                        popularity = 24.6,
                     },
                     {
                         rank = 3,
@@ -9754,12 +9749,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGADmZDYmZmZDLzghxwgB",
-                        popularity = 99.6,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 24.5,
+                        popularity = 24.7,
                     },
                     {
                         rank = 3,
@@ -9780,12 +9775,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
-                        popularity = 24.3,
+                        popularity = 24.7,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGADmZDYmZmZDLzghxwgB",
-                        popularity = 12.9,
+                        popularity = 12.5,
                     },
                 },
             },
@@ -9801,12 +9796,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 25.5,
+                        popularity = 25.9,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
-                        popularity = 12.3,
+                        popularity = 12.5,
                     },
                 },
             },
@@ -9822,12 +9817,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 23.8,
+                        popularity = 24.0,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
-                        popularity = 12.8,
+                        popularity = 12.9,
                     },
                 },
             },
@@ -9843,7 +9838,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 24.7,
+                        popularity = 25.1,
                     },
                     {
                         rank = 3,
@@ -9864,12 +9859,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 23.9,
+                        popularity = 24.2,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
-                        popularity = 12.9,
+                        popularity = 13.0,
                     },
                 },
             },
@@ -9880,17 +9875,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
-                        popularity = 99.6,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlxMMzYbY2GmZbGjxYYGbsBAAwMTbzMbzAA2AMAYMDDMzMzshlZwwYGDG",
-                        popularity = 23.5,
+                        popularity = 23.8,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGADmZDYmZmZDLzghxwgB",
-                        popularity = 12.3,
+                        popularity = 12.2,
                     },
                 },
             },
@@ -9906,12 +9901,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGAMmhBmZmZ2wyMYYMMYA",
-                        popularity = 24.7,
+                        popularity = 25.0,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAMa22mZmlxYmBAAAAAwMlZZGmZsNMbDzsNjxYMMjN2AAAYmptZmtZAAbAGADmZDYmZmZDLzghxwgB",
-                        popularity = 13.3,
+                        popularity = 13.2,
                     },
                 },
             },
@@ -9934,11 +9929,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTjBYmFMEGzyAMGsAAAjxMjhZGgZmZMDD",
-                        popularity = 20.7,
+                        popularity = 20.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTMAzsghwYWGgxgFAAYMzMjhZGgZmZMDD",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTzMAzsghwYWGgxgFAAYMmZMMzAMzMMDD",
                         popularity = 37.5,
                     },
                 },
@@ -9956,7 +9951,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTjBYmFMEGzyAMGsAAAjxMjhZGgZmZMDD",
-                        popularity = 22.1,
+                        popularity = 21.9,
                     },
                     {
                         rank = 3,
@@ -9978,7 +9973,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTjBYmFMEGzyAMGsAAAjxMjhZGgZmZMDD",
-                        popularity = 22.9,
+                        popularity = 22.8,
                     },
                     {
                         rank = 3,
@@ -10000,11 +9995,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTjBYmFMEGzyAMGsAAAjxMjhZGgZmZMDD",
-                        popularity = 20.8,
+                        popularity = 20.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTMAzsghwYWGgxgFAAYMzMjhZGgZmZMDD",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTzMAzsghwYWGgxgFAAYMmZMMzAMzMMDD",
                         popularity = 37.5,
                     },
                 },
@@ -10022,11 +10017,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTjBYmFMEGzyAMGsAAAjxMjhZGgZmZMDD",
-                        popularity = 16.7,
+                        popularity = 16.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYGmBmpZamBYmFMEGzyAMGsAAAjxMjBzAMzYMDD",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTzMAzsghwYWGgxgFAAYMmZMMzAMzMMDD",
                         popularity = 37.5,
                     },
                 },
@@ -10044,7 +10039,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYY2YMzYmZMmZbmZmBzAAAAAAAAAAYGWmBzMzwMMDMTz0YAmZBDhxsMAjBLAAwYMzYwMAzMzYGG",
-                        popularity = 13.2,
+                        popularity = 12.9,
                     },
                     {
                         rank = 3,
@@ -10066,7 +10061,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMGLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
-                        popularity = 17.3,
+                        popularity = 16.8,
                     },
                     {
                         rank = 3,
@@ -10088,7 +10083,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwwMwMNTjBYmFMEGzyAMGsAAAjxMjhZGgZmZMDD",
-                        popularity = 20.5,
+                        popularity = 20.4,
                     },
                     {
                         rank = 3,
@@ -10110,7 +10105,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYGmBmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmZMDD",
-                        popularity = 64.1,
+                        popularity = 61.4,
                     },
                     {
                         rank = 3,
@@ -10126,17 +10121,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBmpZamBYmNMEGzyAMGsAAAjxMjBzAMzYMDD",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBmpZamBYmNMEGzyAMGsAAAjxMjBzAMzYMDD",
-                        popularity = 49.6,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYmxMwMNTjBYmNMEGzyAMGsAAAjxMjBzAMzYMDD",
+                        popularity = 48.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZYmxMwMNTjBYmNMEGzyAMGsAAAjxMjBzAMzYMDD",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsAz2MzMYmhZbmtZmZmhZAAAAAAAAAAMDLzgZmZwMmBMNTzMAzshhwYWGgxgFAAYMmZMYGgZmZMDD",
                         popularity = 37.5,
                     },
                 },
@@ -10153,7 +10148,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 13.0,
+                        popularity = 13.4,
                     },
                     {
                         rank = 3,
@@ -10169,12 +10164,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYYWmBzMzwMmZATzEDwMLYIMmlBYMYBAAGzMzYwMAzMzAG",
-                        popularity = 97.7,
+                        popularity = 97.8,
                     },
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 12.6,
+                        popularity = 13.0,
                     },
                     {
                         rank = 3,
@@ -10195,11 +10190,11 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 13.0,
+                        popularity = 13.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYMWmBzMzYzYmBbmmJGgZWwQYMLDwYwCAAMmZmxgZAmZGgB",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYMWmBzMzwMmZATzEDwMLYIMmlBYMYBAAGzMzYwMAzMzAG",
                         popularity = 37.5,
                     },
                 },
@@ -10210,13 +10205,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYMzyMYmZGmhZMYamYAmZBDhxsMAjBLAAwYmxYwMAzMzAG",
-                        popularity = 98.5,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYMzyMYmZGmxMDYamYAmZBDhxsMAjBLAAwYmxYwMAzMzAG",
+                        popularity = 98.4,
                     },
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 13.4,
+                        popularity = 13.8,
                     },
                     {
                         rank = 3,
@@ -10236,12 +10231,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 12.9,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYYWmBzMzwMmZATzEDwMLYIMmlBYMYBAAGzMzYwMAzMzAG",
+                        popularity = 13.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYYWmBzMzwMmZATzEDwMLYIMmlBYMYBAAGzMzYwMAzMzAG",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
                         popularity = 37.5,
                     },
                 },
@@ -10258,7 +10253,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 13.4,
+                        popularity = 13.6,
                     },
                     {
                         rank = 3,
@@ -10279,7 +10274,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 13.0,
+                        popularity = 13.1,
                     },
                     {
                         rank = 3,
@@ -10300,7 +10295,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
-                        popularity = 12.8,
+                        popularity = 13.1,
                     },
                     {
                         rank = 3,
@@ -10315,17 +10310,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYYWmhZmZGmxMDYamYAmZBDhxsMAjBLAAwYmxYwMAzMzAG",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYYWmBzMzwMmZATzEDwMLYIMmlBYMYBAAGzMzYwMAzMzAG",
                         popularity = 98.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYYWmBzMzwMmZATzEDwMLYIMmlBYMYBAAGzMzYwMAzMzAG",
-                        popularity = 13.3,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
+                        popularity = 13.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYGWmBzMzMMmZwmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYA",
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsYwyMjZmZGMbzYmZmZMzAAAAAAAAAAYMWmBzMzYzYmBbmmJGgZWwQYMLDwYwCAAMmZmxgZAmZGgB",
                         popularity = 37.5,
                     },
                 },
@@ -10432,7 +10427,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
-                        popularity = 99.4,
+                        popularity = 99.3,
                     },
                     {
                         rank = 2,
@@ -10454,7 +10449,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
-                        popularity = 99.6,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
@@ -10476,16 +10471,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
-                        popularity = 99.0,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBG",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMzYGAzUDAMziZYWMAwYwmZmZBQzgxYYmZbZAmBG",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMzYGAzUDAMziZYWMAwYwmZmZBQzgxYYmZbZAmBG",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBG",
                         popularity = 37.5,
                     },
                 },
@@ -10519,17 +10514,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBG",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMYGzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBG",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMzYGAzUAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBG",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzAYmaAgZWMDziBAGD2MzMLAaGmxYYmZbZAmBG",
                         popularity = 37.5,
                     },
                 },
@@ -10541,7 +10536,7 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwwsMDzMzMMzYGAzUAgZWMDziBAGD2MzMbAaGjxYYmZbZAmBG",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMsMDzMzMMzYGAzUAgZWMDziBAGD2MzMLAaGjxYYmZbZAmBG",
                         popularity = 50.0,
                     },
                     {
@@ -10558,7 +10553,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmZMGmZ2WGgBMA",
-                        popularity = 83.5,
+                        popularity = 83.2,
                     },
                     {
                         rank = 2,
@@ -10579,7 +10574,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMzyMMPwMzgxMjxCmpAAzsZGmNDAMGsZMWA0Mm5BMGmZ2WGgBMA",
-                        popularity = 83.7,
+                        popularity = 83.4,
                     },
                     {
                         rank = 2,
@@ -10621,7 +10616,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmZMGmZ2WGgBMA",
-                        popularity = 82.6,
+                        popularity = 82.3,
                     },
                     {
                         rank = 2,
@@ -10642,7 +10637,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMzyMMPwMzgxMjxCmpAAzsZGmNDAMGsZMWA0Mm5BMGmZ2WGgBMA",
-                        popularity = 83.6,
+                        popularity = 83.3,
                     },
                     {
                         rank = 2,
@@ -10663,7 +10658,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmZMGmZ2WGgBMA",
-                        popularity = 83.8,
+                        popularity = 83.5,
                     },
                     {
                         rank = 2,
@@ -10683,17 +10678,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmZMGmZ2WGgBMA",
-                        popularity = 83.8,
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMzyMMPwMzgxMjxCmpAAzsZGmNDAMGsZMWA0Mm5BMGmZ2WGgBMA",
+                        popularity = 83.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmZMzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmhxwMz2yAMgB",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmZMGmZ2WGgBMA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmhZmZGbGzMAmpAAzsZGmNDAMGsZMWA0MmZMGMz2yAMDMA",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmZMzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmhxwMz2yAMgB",
                         popularity = 37.5,
                     },
                 },
@@ -10705,7 +10700,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMWmBzMzYzYmxAmpAAzsZGmNDAMGsZMWA0MmZMGmZ2WGgBMA",
-                        popularity = 83.7,
+                        popularity = 83.4,
                     },
                     {
                         rank = 2,
@@ -10726,7 +10721,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAgZzwYWGMmZmZMzMjlZmZAAAAYMzyMMPwMzgxMjxCmpAAzsZGmNDAMGsZMWA0Mm5BMGmZ2WGgBMA",
-                        popularity = 83.6,
+                        popularity = 83.3,
                     },
                     {
                         rank = 2,
@@ -10776,7 +10771,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
-                        popularity = 97.7,
+                        popularity = 97.6,
                     },
                     {
                         rank = 2,
@@ -10864,7 +10859,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZ2mZYG2mZGzMzYDZGLmpBYmZGAIAz2stAmNGAYwYmZGz2YGMzgZwA",
-                        popularity = 89.5,
+                        popularity = 89.6,
                     },
                     {
                         rank = 2,
@@ -10934,12 +10929,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzM2mxYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzY2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzY2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzM2mxYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
                         popularity = 37.5,
                     },
                 },
@@ -10952,7 +10947,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAgxYxMGLzMMz2MDzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNmZbZAmBD",
-                        popularity = 94.7,
+                        popularity = 95.6,
                     },
                     {
                         rank = 2,
@@ -10973,7 +10968,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzMbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNGbLDwMYA",
-                        popularity = 60.5,
+                        popularity = 59.7,
                     },
                     {
                         rank = 2,
@@ -10994,7 +10989,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYY2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
-                        popularity = 61.5,
+                        popularity = 60.8,
                     },
                     {
                         rank = 2,
@@ -11015,7 +11010,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
-                        popularity = 59.2,
+                        popularity = 58.4,
                     },
                     {
                         rank = 2,
@@ -11024,7 +11019,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYG2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYY2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
                         popularity = 37.5,
                     },
                 },
@@ -11036,7 +11031,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYG2mZGzMzMbIzYhpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
-                        popularity = 59.6,
+                        popularity = 58.7,
                     },
                     {
                         rank = 2,
@@ -11057,7 +11052,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzMbIDLbmGgZAmZzMMbGAyYsAgZAGzMzY2GzstMAzgB",
-                        popularity = 60.0,
+                        popularity = 59.3,
                     },
                     {
                         rank = 2,
@@ -11078,7 +11073,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzMQmhNTjBmBYmNzwsZAIjxCAmBYMzMjZbMz2yAMDGA",
-                        popularity = 61.9,
+                        popularity = 61.2,
                     },
                     {
                         rank = 2,
@@ -11099,7 +11094,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzMbIzYxMNAzAMzmZY2MAkxYBAzAMmZmxsNGbLDwMYA",
-                        popularity = 60.5,
+                        popularity = 59.4,
                     },
                     {
                         rank = 2,
@@ -11119,17 +11114,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYY2mZGzMzYDZYbbmGgZAmZzMMbGAyYsAgZAGzMzY2GzstMAzgB",
-                        popularity = 60.8,
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
+                        popularity = 60.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYmx2MGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYM2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYG2mZGzMzYDZGLmpBYGgZ2MDzmBgMGLAYGgxMzMmtxMbLDwMYA",
                         popularity = 37.5,
                     },
                 },
@@ -11141,7 +11136,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMjZGAAAAAAAAAAAghZxMGLzMmZWmZYY2mZGzMzYDZYbbmGgZAmZzMMbGAyYsAgZAGzMzY2GzstMAzgB",
-                        popularity = 60.3,
+                        popularity = 59.3,
                     },
                     {
                         rank = 2,
@@ -11168,12 +11163,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmxMjhZGjBwALwMGNmNAbDYzYDwMzgB",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMz4B8AzMmZMMzYmBwALwMGNmNAbDYzYDwMzgB",
                         popularity = 99.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMz4B8AzMmZMMzYmBwALwMGNmNAbDYzYDwMzgB",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmxMjhZGjBwALwMGNmNAbDYzYDwMzgB",
                         popularity = 12.5,
                     },
                     {
@@ -11195,13 +11190,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMzMwMzMzMmZmZMAGYBmxoxsAYZAbGAMzMYA",
-                        popularity = 16.3,
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAZbmZmZmZMmZmZ2mZZmZgZmZmZMzMzYAMwCMjRjZBwyA2MAYmZMGA",
+                        popularity = 16.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAZbmZmZmZMmZmZ2mZZmZgZmZmZMzMzYAMwCMjRjZBwyA2MAYmZMGA",
-                        popularity = 49.7,
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMzMwMzMzMmZmZMAGYBmxoxsAYZAbGAMzMYA",
+                        popularity = 50.6,
                     },
                 },
             },
@@ -11218,12 +11213,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZmZwYmZmxMjhBwALwMGNmFALDYzAgZmBD",
-                        popularity = 19.4,
+                        popularity = 19.6,
                     },
                     {
                         rank = 3,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsNDGAAAAAYWGsMDAAAAAIbzMzMzMjxMzMz2MLzMzgxMzMjZGDDgBWgZMaMLAWGwmBAzMjxA",
-                        popularity = 59.8,
+                        popularity = 59.7,
                     },
                 },
             },
@@ -11240,12 +11235,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMzMDmZmZmxMDjBwALwMGNmFALDYzAgZmBD",
-                        popularity = 13.3,
+                        popularity = 13.5,
                     },
                     {
                         rank = 3,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzyglZAAAAAAZbmZmZmZMmZmZ2mZZmZGMzMzMjZGGDgBWgZMaMLAWGwmBAzMjxA",
-                        popularity = 73.7,
+                        popularity = 74.1,
                     },
                 },
             },
@@ -11284,12 +11279,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAIbzMzMzMjxMzMz2MLzMeAPwMjZGDzMGDgBWgZMaMbA2GwmxGgZmxYA",
-                        popularity = 38.6,
+                        popularity = 38.8,
                     },
                     {
                         rank = 3,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAwygtZAAAAAAZbmZmZmZMmZmZ2mZZmxD4BmZMzYYmxMDgBWgZMaMbA2GwmxGgZmZYA",
-                        popularity = 18.7,
+                        popularity = 18.8,
                     },
                 },
             },
@@ -11306,12 +11301,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMzMDmZmZmxMjhBwALwMGNmFALDYzAgZmBD",
-                        popularity = 33.7,
+                        popularity = 33.0,
                     },
                     {
                         rank = 3,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAZbmZmZmZMmZmZ2mZZmZGMzMzMjZGDDgBWgZMaMLAWGwmBAzMzwA",
-                        popularity = 53.1,
+                        popularity = 50.0,
                     },
                 },
             },
@@ -11328,12 +11323,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAZbmZmZmZMmZmZ2mZZmZgZmZmZMzMzYAMwCMjRjZDw2A2MAYmZMGA",
-                        popularity = 15.9,
+                        popularity = 15.5,
                     },
                     {
                         rank = 3,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAz2gtZAAAAAAZbmZmZmZMmZmZ2mZZmZgZmZmZMzMzYAMwCMjRjZDw2A2MAYmZMGA",
-                        popularity = 38.6,
+                        popularity = 39.9,
                     },
                 },
             },
@@ -11350,12 +11345,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAttNzMzMzMGzMzMbzsMzMDzMzMzMMDjBwALwMGNmFALDYzAgZmBD",
-                        popularity = 33.3,
+                        popularity = 32.1,
                     },
                     {
                         rank = 3,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlxsZwAAAAAAzygtZAAAAAAZbmZmZmZMmZmZ2mZZmZGmZmZmZYGGDgBWgZMaMLAWGwmBAzMjxA",
-                        popularity = 50.0,
+                        popularity = 55.6,
                     },
                 },
             },
@@ -11377,12 +11372,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
                         popularity = 37.5,
                     },
                 },
@@ -11398,12 +11393,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
                         popularity = 37.5,
                     },
                 },
@@ -11419,12 +11414,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
                         popularity = 37.5,
                     },
                 },
@@ -11478,7 +11473,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbAgZmBjB",
-                        popularity = 98.8,
+                        popularity = 98.7,
                     },
                     {
                         rank = 2,
@@ -11487,7 +11482,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlxMzMzMGzMzMbzsMz4B8AzMzMjhZGjBwALwMGNmNAbDYzAgZmZYA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAottZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbGAMzMYA",
                         popularity = 37.5,
                     },
                 },
@@ -11520,7 +11515,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmNDGAAAAAYWGsNDAAAAAotlZmZmZmxYmZmZbmlZGPgHYmZmZMMzYMAGYBmxoxsBYbAbAgZmZYA",
-                        popularity = 98.6,
+                        popularity = 98.5,
                     },
                     {
                         rank = 2,
@@ -11569,7 +11564,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 97.0,
+                        popularity = 96.8,
                     },
                     {
                         rank = 2,
@@ -11613,7 +11608,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 97.8,
+                        popularity = 97.7,
                     },
                     {
                         rank = 2,
@@ -11635,7 +11630,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 96.6,
+                        popularity = 96.4,
                     },
                     {
                         rank = 2,
@@ -11657,7 +11652,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 97.6,
+                        popularity = 97.4,
                     },
                     {
                         rank = 2,
@@ -11666,7 +11661,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
                         popularity = 37.5,
                     },
                 },
@@ -11679,7 +11674,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 97.1,
+                        popularity = 96.7,
                     },
                     {
                         rank = 2,
@@ -11701,7 +11696,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzMjxsxDwMmWGsNDAAAAAw22MzMMzMzMmZmtBAAAwMGAMmFDDMwswCtwGDwMDGYA",
-                        popularity = 96.2,
+                        popularity = 96.6,
                     },
                     {
                         rank = 2,
@@ -11723,7 +11718,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZmxsBmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 96.5,
+                        popularity = 96.1,
                     },
                     {
                         rank = 2,
@@ -11749,12 +11744,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMzyAAAAwYAwYWMMwAzCL0CbMAzMYgB",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MGzMzMzsNzMzMjxsxDwMmWGsNDAAAAAw22MzMMzMzMmZmtBAAAgxAgxsYYgBmFWoF2YAmZwMYA",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmNeAmZbaZw2MAAAAAgZbbmZGmZmZGzMzyAAAAwYAwYWMMwAzCL0CbMAzMYgB",
                         popularity = 37.5,
                     },
                 },
@@ -11776,7 +11771,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmFeAmZbaZw2MAAAAAA2mZmhZmZmxMzsNAAAAmxAgxsYYgBmFWoF2YAmZwMYA",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZmZMmFeAmZbaZw2MAAAAAAbbzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
                         popularity = 37.5,
                     },
                 },
@@ -11788,7 +11783,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 95.3,
+                        popularity = 95.2,
                     },
                     {
                         rank = 2,
@@ -11808,12 +11803,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 94.9,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        popularity = 95.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
                         popularity = 12.5,
                     },
                     {
@@ -11824,48 +11819,6 @@ TalentSwapperRecommended.specs = {
                 },
             },
             ["Magisters' Terrace"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 95.8,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 12.5,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 37.5,
-                    },
-                },
-            },
-            ["Maisara Caverns"] = {
-                category = "Mythic+",
-                difficulty = "M+",
-                builds = {
-                    {
-                        rank = 1,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 95.5,
-                    },
-                    {
-                        rank = 2,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 12.5,
-                    },
-                    {
-                        rank = 3,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 37.5,
-                    },
-                },
-            },
-            ["Nexus-Point Xenas"] = {
                 category = "Mythic+",
                 difficulty = "M+",
                 builds = {
@@ -11886,6 +11839,48 @@ TalentSwapperRecommended.specs = {
                     },
                 },
             },
+            ["Maisara Caverns"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgZ2mBzMzMzsNzMjZmZmNwMbTLD2mBAAAAAYbZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
+                        popularity = 95.4,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        popularity = 37.5,
+                    },
+                },
+            },
+            ["Nexus-Point Xenas"] = {
+                category = "Mythic+",
+                difficulty = "M+",
+                builds = {
+                    {
+                        rank = 1,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        popularity = 95.5,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
+                        popularity = 37.5,
+                    },
+                },
+            },
             ["Pit of Saron"] = {
                 category = "Mythic+",
                 difficulty = "M+",
@@ -11893,7 +11888,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLjZGmZmZGzMz2AAAAYmZAwYWMMwAzCL0CbMAzMYgB",
-                        popularity = 95.3,
+                        popularity = 95.1,
                     },
                     {
                         rank = 2,
@@ -11914,7 +11909,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 95.0,
+                        popularity = 94.9,
                     },
                     {
                         rank = 2,
@@ -11955,17 +11950,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
-                        popularity = 95.1,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAmZAwYWMMwAzCL0CbMAzMYgB",
+                        popularity = 95.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAAbLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAgZbZmZGmZmZGzMz2AAAAwYAwYWMMwAzCL0CbMAzMYgB",
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MYmZmZmtZmZMzMzsBmZbaZw2MAAAAAALLzMzwMzMzYmZ2GAAAAGDAGzihBGYWYhWYjBYmBzgB",
                         popularity = 37.5,
                     },
                 },
@@ -12103,7 +12098,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYmx2YmZmZGDGzsNAAAAMYMgxsZYgBmFWoFbYGwMDmZGA",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12182,7 +12177,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZwDMzMzYMbjZGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
-                        popularity = 98.7,
+                        popularity = 98.8,
                     },
                     {
                         rank = 2,
@@ -12202,17 +12197,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
-                        popularity = 99.7,
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+                        popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12223,17 +12218,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 99.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12244,17 +12239,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgZ2mBAAAAAmlxYZiZbbMmZMjxDMzMzYMbDzYbZmZMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12307,17 +12302,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 99.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12328,17 +12323,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12349,17 +12344,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
-                        popularity = 99.7,
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+                        popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12370,17 +12365,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstMzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
-                        popularity = 99.7,
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
+                        popularity = 99.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZbAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbbzMzMzMjBjZWGAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTYbZMmZMjxDMzMzsNmthZstNzMzMzMGMmZZAAAAYwYAjZxwADMLsQL2wMgZGMjB",
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMjZMegZmZGjZbYGbLzMzMzMjBjZ2GAAAAGMGwY2MMwAzCL0iNMDYmBzYA",
                         popularity = 37.5,
                     },
                 },
@@ -12403,13 +12398,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZGjlZmZGDLzyMWMzwMLAADgZGYYYA",
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhFLzYxMDzsAAMAmZghhB",
                         popularity = 40.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhFLzYxMDzsAAMAmZghhB",
-                        popularity = 4.1,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZGjlZmZGDLzyMWMzwMLAADgZGYYYA",
+                        popularity = 4.0,
                     },
                 },
             },
@@ -12421,7 +12416,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
-                        popularity = 99.9,
+                        popularity = 99.8,
                     },
                     {
                         rank = 2,
@@ -12431,7 +12426,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZGjlZmZGDLzyMWMzwMLAADgZGYYYA",
-                        popularity = 4.6,
+                        popularity = 4.4,
                     },
                 },
             },
@@ -12447,13 +12442,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYahZYsMzMzYYZWmxiZGmZBAYGgZGYYYA",
-                        popularity = 39.9,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZGjlZmZGDLzyMWMzwMLAADgZGYYYA",
+                        popularity = 39.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZGjlZmZGDLzyMWMzwMLAADgZGYYYA",
-                        popularity = 4.4,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYahZYsMzMzYYZWmxiZGmZBAYGgZGYYYA",
+                        popularity = 4.2,
                     },
                 },
             },
@@ -12465,16 +12460,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
-                        popularity = 99.8,
+                        popularity = 99.9,
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYahZYsMzMzYYZWmxiZGmZBAYGgZGYYYA",
-                        popularity = 48.1,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYCzMLjlZmZGDLWmxiZGmZBAYYgZGYYYA",
+                        popularity = 48.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYCzMLjlZmZGDLWmxiZGmZBAYYgZGYYYA",
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYahZYsMzMzYYZWmxiZGmZBAYGgZGYYYA",
                         popularity = 2.8,
                     },
                 },
@@ -12487,16 +12482,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhFLzYxMDzsAAMAmZghhB",
-                        popularity = 99.0,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzMjtFTLMjtxyMzMjhFLDLmZYmFAwMAmZghhB",
-                        popularity = 58.5,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
+                        popularity = 58.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzMjtFTLMjtxyMzMjhFLDLmZYmFAwMAmZghhB",
                         popularity = 3.2,
                     },
                 },
@@ -12509,17 +12504,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZwMjBAAAAYxMbwAGwsxEYWAgZbmZGzstMTMzMGLzMzMGWsMs8AzMmZWGAwAAzMGGG",
-                        popularity = 98.8,
+                        popularity = 98.7,
                     },
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZwMjBAAAAYxMbwAGwsxEYWAgZbmZmZstYahZmtxyMzMjhNLDLPwMjZmlBAMAwMjhhB",
-                        popularity = 49.0,
+                        popularity = 48.4,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLLzMGjZZZZwMjBAAAAYxMbwAGwsxEYWAAbzMzMzstMTMzMLsMzYGDmlhlHYmxMzyAAzAAzMGGG",
-                        popularity = 16.7,
+                        popularity = 16.5,
                     },
                 },
             },
@@ -12536,12 +12531,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstMTLMDjlZmZGzglhFzMMzCAYGGYmBGGG",
-                        popularity = 53.9,
+                        popularity = 54.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzMjtFTLMjtxyMzMjhFLDLmZYmFAwMAmZghhB",
-                        popularity = 5.9,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzMjtFTLMjtZWmZmZMsYZYxMDzsAAMAmZghhB",
+                        popularity = 5.8,
                     },
                 },
             },
@@ -12558,12 +12553,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZGjlZmZGDLzyMWMzwMLAADgZGYYYA",
-                        popularity = 37.8,
+                        popularity = 38.0,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhFLzYxMDzsAAMAmZghhB",
-                        popularity = 5.3,
+                        popularity = 5.2,
                     },
                 },
             },
@@ -12580,12 +12575,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYCzMLjlZmZGDLzyMWMzwMLAADgZGYYYA",
-                        popularity = 25.7,
+                        popularity = 28.1,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhFLzYxMDzsAAMAmZghhB",
-                        popularity = 7.7,
+                        popularity = 7.6,
                     },
                 },
             },
@@ -12596,18 +12591,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYCzYZsMzMzYYZWmxiZGmZBAMDgZGYYYA",
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYCzMbjlZmZGDLzywiZGmZBAMDgZGYYYA",
                         popularity = 100.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYCzYbsMzMzYYxyMWMzwMLAgZYgZGYYYA",
-                        popularity = 55.0,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYCzYZsMzMzYYZWmxiZGmZBAMDgZGYYYA",
+                        popularity = 53.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMLzMzYstYahZmlxyMzMjhlZZYxMDzsAAMAmZghhB",
-                        popularity = 6.7,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbbzMzMzMLbbDMmZAAAAAgNzYYDWgZYoxGAMbzMzYstYCzMLjlZmZGDLWmxiZGmZBAYYgZGYYYA",
+                        popularity = 4.8,
                     },
                 },
             },
@@ -12623,12 +12618,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.7,
+                        popularity = 33.0,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 8.5,
+                        popularity = 8.7,
                     },
                 },
             },
@@ -12639,12 +12634,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLmYmx2YZGzMPwMWsMjFzMjZWAAGAzMwwwA",
-                        popularity = 98.2,
+                        popularity = 98.1,
                     },
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.7,
+                        popularity = 33.0,
                     },
                     {
                         rank = 3,
@@ -12660,17 +12655,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEzM2GLzYm5BGWsMjFzMjZWAAGAzMwwwA",
-                        popularity = 98.2,
+                        popularity = 98.1,
                     },
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 33.3,
+                        popularity = 33.6,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 9.1,
+                        popularity = 9.4,
                     },
                 },
             },
@@ -12681,12 +12676,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLmYmx2YZGzMPwMWsMjFzMjZWAAGAzMwwwA",
-                        popularity = 98.5,
+                        popularity = 98.6,
                     },
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.8,
+                        popularity = 33.0,
                     },
                     {
                         rank = 3,
@@ -12702,17 +12697,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEzM2GLzYm5BGWsMjFzMjZWAAGAzMwwwA",
-                        popularity = 98.4,
+                        popularity = 98.3,
                     },
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.3,
+                        popularity = 32.6,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 8.4,
+                        popularity = 8.6,
                     },
                 },
             },
@@ -12728,12 +12723,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 33.3,
+                        popularity = 33.5,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 8.4,
+                        popularity = 8.7,
                     },
                 },
             },
@@ -12749,12 +12744,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.0,
+                        popularity = 32.4,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 8.5,
+                        popularity = 8.7,
                     },
                 },
             },
@@ -12764,18 +12759,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZmxwysMjFzMjZWAAmBYmBGGG",
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
                         popularity = 98.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.8,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
+                        popularity = 33.1,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 8.3,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZmxMWsMjFzMjZWAAGGYmBGGG",
+                        popularity = 8.5,
                     },
                 },
             },
@@ -12791,12 +12786,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxYbxEmx2YZmZm5BmxilZsYmZMzCAwAYmBGGG",
-                        popularity = 32.3,
+                        popularity = 32.6,
                     },
                     {
                         rank = 3,
                         talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMzYML2mhZMzAAAAAAbmxwGsAzwQjNAY2mZmxMbLzEmBWmZmZMDzyMWMzMmZBAYGgZGYYYA",
-                        popularity = 7.8,
+                        popularity = 8.2,
                     },
                 },
             },
@@ -12814,7 +12809,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxYZZGLMzsxyMzMDDjZAAMAjZmYmBAGD",
-                        popularity = 91.1,
+                        popularity = 90.2,
                     },
                     {
                         rank = 2,
@@ -12836,7 +12831,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
-                        popularity = 91.1,
+                        popularity = 90.4,
                     },
                     {
                         rank = 2,
@@ -12858,7 +12853,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
-                        popularity = 92.4,
+                        popularity = 91.3,
                     },
                     {
                         rank = 2,
@@ -12880,7 +12875,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
-                        popularity = 89.0,
+                        popularity = 87.8,
                     },
                     {
                         rank = 2,
@@ -12902,7 +12897,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLzYhZmNWmZmZYYMDAgBGjZmYmBAGD",
-                        popularity = 94.5,
+                        popularity = 94.2,
                     },
                     {
                         rank = 2,
@@ -12923,12 +12918,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxYZZGLMzsxyMzMDDjZAAMAjZmYmBAGD",
-                        popularity = 93.3,
+                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
+                        popularity = 90.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmZGLLzAzMbsMzMzwwYGAADwYmJmZAgxA",
+                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxYZZGLMzsxyMzMDDjZAAMAjZmYmBAGD",
                         popularity = 12.5,
                     },
                     {
@@ -12946,7 +12941,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxYbZGLMzsxyMzMDDjZAAMAjZmYmBAGD",
-                        popularity = 92.5,
+                        popularity = 91.6,
                     },
                     {
                         rank = 2,
@@ -12968,7 +12963,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZmZGAAAAAAAAAYB2gZsox2AYGwGAzyMmxYZZGLMzsxyMzMDDjZAAMAjZmYmBAGD",
-                        popularity = 89.1,
+                        popularity = 88.3,
                     },
                     {
                         rank = 2,
@@ -12989,12 +12984,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLzYhZmNWmZmZYYMDAwMAjZmYmBAGD",
-                        popularity = 66.6,
+                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMzYZZGYmZjlZmZGGGzAAMDwYmJmZAgxA",
+                        popularity = 70.0,
                     },
                     {
                         rank = 2,
-                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMzYZZGYmZjlZmZGGGzAAMDwYmJmZAgxA",
+                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLzYhZmNWmZmZYYMDAwMAjZmYmBAGD",
                         popularity = 12.5,
                     },
                     {
@@ -13028,7 +13023,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AY2mxMGLLGYmZbmlZmZGYZMDAAwYMzEzMADGD",
-                        popularity = 67.2,
+                        popularity = 64.3,
                     },
                     {
                         rank = 2,
@@ -13049,7 +13044,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLGYmZbsMzMzMYZMDAAwYMjYmBYwYA",
-                        popularity = 68.7,
+                        popularity = 65.5,
                     },
                     {
                         rank = 2,
@@ -13070,7 +13065,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLGLMzsNWmxMzglxMAAAjxMTMzAMYMA",
-                        popularity = 68.0,
+                        popularity = 65.1,
                     },
                     {
                         rank = 2,
@@ -13091,7 +13086,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLGYmZbsMzMzMYZMDAAwYMjYmBYwYA",
-                        popularity = 66.9,
+                        popularity = 63.5,
                     },
                     {
                         rank = 2,
@@ -13112,7 +13107,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLGLMzsNWmxMzglxMAAAjxMTMzAMYMA",
-                        popularity = 66.3,
+                        popularity = 63.7,
                     },
                     {
                         rank = 2,
@@ -13133,7 +13128,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AY2mxMGLLGYmZbmlZmZGYZMDAAwYMzEzMADGD",
-                        popularity = 67.2,
+                        popularity = 64.0,
                     },
                     {
                         rank = 2,
@@ -13154,7 +13149,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AY2mxMmZZZGYmZjlZMzMGLjZAAAGjZEzMADGD",
-                        popularity = 66.9,
+                        popularity = 64.2,
                     },
                     {
                         rank = 2,
@@ -13175,7 +13170,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLGYmZbsMzMzMYZMDAAwYMjYmBYwYA",
-                        popularity = 66.7,
+                        popularity = 64.1,
                     },
                     {
                         rank = 2,
@@ -13196,7 +13191,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMjZmZmZmZmZmZGzAAAAAAAAAALwGMjFN2GAzA2AYWmxMGLLGLMzsNWmxMzglxMAAAjxMTMzAMYMA",
-                        popularity = 66.9,
+                        popularity = 63.9,
                     },
                     {
                         rank = 2,
@@ -13224,7 +13219,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGjZa2WmZWMjZhFzMzYwsMAAAwMzgZGAYwA",
-                        popularity = 99.4,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
@@ -13334,7 +13329,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMwyYmZa2WmZYGzCLzMzMGMLDAAAMzMYmBAGM",
-                        popularity = 99.8,
+                        popularity = 99.9,
                     },
                     {
                         rank = 2,
@@ -13400,7 +13395,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMwyYmZa2WmZYGzCLzMzMGMLDAAAMzMYmBAGM",
-                        popularity = 97.9,
+                        popularity = 98.2,
                     },
                     {
                         rank = 2,
@@ -13426,12 +13421,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMYw2YmZa2WmZYGzCLzMzMGMLDAAAMzMYmBAGM",
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMYwyYmZaWWmZWMjZhFzMzYwsMAAAwMzgZGAYwA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMYwyYmZaWWmZWMjZhFzMzYwsMAAAwMzgZGAYwA",
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzMLLbDzMGzMzMDzYBWgZsox2AYGYzMMYWGzMTz2yMziZMLsMjZGDmlBAAAmZGMzAADG",
                         popularity = 37.5,
                     },
                 },
@@ -13443,7 +13438,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyyMDzY2YxYmxwysMDAADgZGMzAADG",
-                        popularity = 86.5,
+                        popularity = 87.1,
                     },
                     {
                         rank = 2,
@@ -13463,8 +13458,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRz2yMDzY2YxYmxwysMDAADgZGMzAADG",
-                        popularity = 86.0,
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyiZYGzGLGzMmxysMDAADgZGMzAADG",
+                        popularity = 86.6,
                     },
                     {
                         rank = 2,
@@ -13473,7 +13468,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGDDLwCMjFN2GAzAbMzMY2mZMaWWmZYGzGLmHYmxwysMDAADgZGMzAADG",
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRz2yMDzY2YxYmxwysMDAADgZGMzAADG",
                         popularity = 37.5,
                     },
                 },
@@ -13485,7 +13480,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyyMDzY2YxYmxwysMDAADgZGMzAADG",
-                        popularity = 87.0,
+                        popularity = 87.6,
                     },
                     {
                         rank = 2,
@@ -13506,7 +13501,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyyMDzY2YxYmxwysMDAADgZGMzAADG",
-                        popularity = 87.2,
+                        popularity = 87.7,
                     },
                     {
                         rank = 2,
@@ -13527,7 +13522,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjZaWWmZYGzGLGzMGWmlBAADgZGMzAADG",
-                        popularity = 86.4,
+                        popularity = 87.1,
                     },
                     {
                         rank = 2,
@@ -13548,7 +13543,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyyMDzY2YxYmxwysMDAADgZGMzAADG",
-                        popularity = 86.7,
+                        popularity = 87.2,
                     },
                     {
                         rank = 2,
@@ -13569,7 +13564,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjZaWWmZYGzGLGzMGWmlBAADgZGMzAADG",
-                        popularity = 87.2,
+                        popularity = 87.7,
                     },
                     {
                         rank = 2,
@@ -13590,7 +13585,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyyMDzY2YxYmxwysMDAADgZGMzAADG",
-                        popularity = 85.8,
+                        popularity = 86.4,
                     },
                     {
                         rank = 2,
@@ -13611,7 +13606,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAjZmZbbZMzMzYmZGzYYBWgZsox2AYGYjZmBz2MjRzyyMzmZMbsYMzYwsMDAADgZGMzAADG",
-                        popularity = 85.9,
+                        popularity = 86.5,
                     },
                     {
                         rank = 2,
@@ -13644,12 +13639,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMmlBAAYmZxyMzsMzAAjllBGwAmhtADbDAAAzAAAYmhZmZmNMMzMzMmBzMzMAgZgB",
-                        popularity = 14.6,
+                        popularity = 14.7,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAYmZxyMzsMzAAjllBGwAmhtADbDAAAzAAAYmhZmxADzMzMjZwMzMDAYGYA",
-                        popularity = 54.1,
+                        popularity = 52.2,
                     },
                 },
             },
@@ -13661,17 +13656,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZbmZWGDAM22GYADYG2CMsNAAAMDAAgZmxMmZ2YMjxMzYMMzMzAAmBG",
-                        popularity = 99.2,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAgZmZZ2mZmlxAAjttBGwAmhtADbDAAAzAAAYmZMjZGMmxYmZMGmZmZAAzAD",
-                        popularity = 10.9,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAgZmZZ2mZmlxAAjttBGwAmhtADbDAAAzAAAYmZmZMzgxMGzMjxwMzMAAzAD",
+                        popularity = 11.2,
                     },
                     {
                         rank = 3,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMegZGNbmx2MzYWGAAwMzsMbzMzyYAgx22ADYAzwWghtBAAgZAAAMzMmxMzGjZMmZGjhZmZAAmBG",
-                        popularity = 46.8,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAgZmZZ2mZmlxAAjttBGwAmhtADbDAAAzAAAYmZMjZGMmxYmZMGmZmZAAzAD",
+                        popularity = 42.9,
                     },
                 },
             },
@@ -13688,12 +13683,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMmlBAAYmZxyMzsMzAAjllBGwAmhtADbDAAAzAAAYmhZmZmNMMzMzMmBzMzMAgZgB",
-                        popularity = 36.1,
+                        popularity = 35.9,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZjx2MzMzyAAAMzsYZmZWmZAgxyyADYAzwWghtBAAgZAAAMzYmxYghZmZmxMYmZmBAMDMA",
-                        popularity = 57.5,
+                        popularity = 55.2,
                     },
                 },
             },
@@ -13705,17 +13700,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsNAAAzMLziZmlZGAYstNwAGwMsFYYbAAAYGAAAzMmZMzYYYGzMzYwMzMDAYGYA",
-                        popularity = 98.9,
+                        popularity = 98.8,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsNAAAzMLziZmlZGAYstNwAGwMsFYYbAAAYGAAAzMjZMzYYYGzMzYwMzMDAYGYA",
-                        popularity = 11.6,
+                        popularity = 11.0,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAAzMLziZmlZGAYstNwAGwMsFYYbAAAYGAAAzMmZMzYYYGzMzYwMzMDAYGYA",
-                        popularity = 62.3,
+                        popularity = 63.6,
                     },
                 },
             },
@@ -13727,17 +13722,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMegZGNbmx2MzMzyAAAmZmlZxMz2YAgx2yADYAzwWghtBAAgZAAAMzMzMGjZGzgZmZGDzMzAAMgB",
-                        popularity = 99.6,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjZMzMmlBAAMzMLziZmtxAAjtlBGwAmhtADbDAAAzAAAYmxMjxYmxMYmZmxwMzMDAYAD",
-                        popularity = 25.2,
+                        popularity = 26.6,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMLmZ2GDAM2WGYADYG2CMsNAAAMDAAgZmxMmZMzYGMzMzYYmZmBAMgB",
-                        popularity = 31.2,
+                        popularity = 30.5,
                     },
                 },
             },
@@ -13749,17 +13744,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZbMMzMmlBAAMzMLziZmlxAAjtlBGwAmhtADbDAAAzAAAYmZmZMGzMmBzMzMGmZmBAYAD",
-                        popularity = 97.3,
+                        popularity = 97.7,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzM2mZGzyAAAmZmlZxMzyYAgx2yADYAzwWghtBAAgZAAAMzMzMmZ2mZMDmZmZMMzMDAwAG",
-                        popularity = 29.6,
+                        popularity = 30.3,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzDMzoZjhZmZmlBAAMzMLziZmlxAAjtlBGwAmhtADbDAAAzAAAYmZmZMGzMmBzMzMGmZmZAADYA",
-                        popularity = 29.4,
+                        popularity = 30.0,
                     },
                 },
             },
@@ -13771,17 +13766,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZjhZmxsMAAAzML2mZmlZGAYstMwAGwMsFYYbAAAYGAAAzMzMjZGYYmZmZGDmZmBAYGYA",
-                        popularity = 96.9,
+                        popularity = 97.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAYmZx2MzsMzAAjtlBGwAmhtADbDAAAzAAAYmxMzMGYYmZmZGDmZmBAYGYA",
-                        popularity = 33.3,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZjhZmxsMAAAzML2mZmlZGAYstMwAGwMsFYYbAAAYGAAAzMjZMzshhZmZmZMYmZGAgZgB",
+                        popularity = 34.2,
                     },
                     {
                         rank = 3,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzMNbMMzMmlBAAYmZx2MzsMzAAjtlBGwAmhtADbDAAAzAAAYmxMjxADzMzMzYwMzMDAYGYA",
-                        popularity = 54.5,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAYmZx2MzsMzAAjtlBGwAmhtADbDAAAzAAAYmxMzMGYYmZmZGDmZmBAYGYA",
+                        popularity = 46.2,
                     },
                 },
             },
@@ -13793,17 +13788,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMAAgZmZZ2MzsMGAYstMwAGwMsFYYbAAAYGAAAzMzMjZGjxMYmZmxwMzMAAzAD",
-                        popularity = 99.2,
+                        popularity = 99.3,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZmZWGAAwMzsMbmZWGDAM2WGYADYG2CMsNAAAMDAAgZmxMMz2YMDmZmZMMzMDAwMwA",
-                        popularity = 13.3,
+                        popularity = 13.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAmZmlZzMzyYAgx2yADYAzwWghtBAAgZAAAMzMmxMz2YMDmZmZMMzMDAwMwA",
-                        popularity = 29.3,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMAAgZmZZ2MzsMGAYstMwAGwMsFYYbAAAYGAAAzMjZMzsNGzgZmZGDzMzAAMDMA",
+                        popularity = 27.4,
                     },
                 },
             },
@@ -13848,17 +13843,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 94.0,
+                        popularity = 93.9,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 13.7,
+                        popularity = 13.4,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxMjZGzgZmZGDzMzMAgZgB",
-                        popularity = 58.1,
+                        popularity = 56.8,
                     },
                 },
             },
@@ -13869,17 +13864,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 94.2,
+                        popularity = 94.1,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 13.3,
+                        popularity = 12.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmZmxMz2MjZwMzMjhZmZAAmBG",
-                        popularity = 58.7,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxM2mZMDmZmZMMzMzAAmBG",
+                        popularity = 57.3,
                     },
                 },
             },
@@ -13890,17 +13885,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 93.1,
+                        popularity = 93.2,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 14.4,
+                        popularity = 13.9,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxMjZGzgZmZGDzMzMAgZgB",
-                        popularity = 57.6,
+                        popularity = 56.1,
                     },
                 },
             },
@@ -13911,17 +13906,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 93.7,
+                        popularity = 93.4,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 13.7,
+                        popularity = 13.5,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmZmxMz2MjZwMzMjhZmZAAmBG",
-                        popularity = 56.9,
+                        popularity = 55.5,
                     },
                 },
             },
@@ -13937,12 +13932,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 12.9,
+                        popularity = 12.5,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmZmxMz2MjZwMzMjhZmZAAmBG",
-                        popularity = 58.4,
+                        popularity = 57.4,
                     },
                 },
             },
@@ -13953,17 +13948,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 93.6,
+                        popularity = 93.4,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 13.7,
+                        popularity = 13.2,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxMjZGzgZmZGDzMzMAgZgB",
-                        popularity = 57.4,
+                        popularity = 55.8,
                     },
                 },
             },
@@ -13974,17 +13969,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxMWmZMDmZmZMMzMzAAmBG",
-                        popularity = 93.8,
+                        popularity = 93.7,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 13.9,
+                        popularity = 13.6,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 56.5,
+                        popularity = 55.5,
                     },
                 },
             },
@@ -13995,17 +13990,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 94.6,
+                        popularity = 94.7,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 13.9,
+                        popularity = 14.0,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxMjZGzgZmZGDzMzMAgZgB",
-                        popularity = 58.9,
+                        popularity = 57.0,
                     },
                 },
             },
@@ -14016,17 +14011,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZ2mZMDmZmZMMzMzAAmBG",
-                        popularity = 94.3,
+                        popularity = 94.1,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMmZWmZMDmZmZMMzMzAAmBG",
-                        popularity = 13.9,
+                        popularity = 13.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmxmZGzyAAAmZmlZzMzyYAgx22ADYAzwWghtBAAADAAgZmxMzMjZGzgZmZGDzMzMAgZgB",
-                        popularity = 59.5,
+                        talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMbmZWGDAM22GYADYG2CMsNAAAYAAAMzMmxMz2MjZwMzMjhZmZAAmBG",
+                        popularity = 58.7,
                     },
                 },
             },
@@ -14044,12 +14039,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGDYA",
-                        popularity = 86.8,
+                        popularity = 86.9,
                     },
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAghZmpZzMz2MzYWGAAAAAAAwYGDLwAbDL0wiBzsMbzMzYGAYGmZmZmBYmZMjNAAwMzMzYYMLzYAD",
-                        popularity = 47.7,
+                        popularity = 47.4,
                     },
                     {
                         rank = 3,
@@ -14071,12 +14066,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMjNAAwMzMzYYMLzYAD",
-                        popularity = 55.3,
+                        popularity = 55.2,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZbMMzMzsMAAAAAAAgxMGWgB2GWohFDmZZ2mZmxMAwMMzMzMDgZGjBAAYmZmZMMmlZMgB",
-                        popularity = 4.8,
+                        popularity = 4.9,
                     },
                 },
             },
@@ -14093,12 +14088,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAsZmZmZ0sxwMzYWGAAAAAAgx2yADYAzwWgxmxYsMLzMzYGAwMzMzMAzMMjZGAAgxMzMzYwyMAGA",
-                        popularity = 32.8,
+                        popularity = 32.9,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlBAAAAAAYstMwAGwMsFYsZMGLzyMzMmBAMzMzMDwMjZGjBAAYMzMzMGsMDgB",
-                        popularity = 18.1,
+                        popularity = 18.2,
                     },
                 },
             },
@@ -14115,12 +14110,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmtBAAAAAAAMmxwCMw2wCNsYwMLz2MzMmBAmhZmZmZAmZGzMbAAgZmZmxwYWmxAGA",
-                        popularity = 60.8,
+                        popularity = 60.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGDYA",
-                        popularity = 9.3,
+                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbjhZmZmlBAAAAAAAMmxwCMw2wCNsYwMLz2MzMmBAmhZmZmZAmZGjBAAYmZmZMMmlZMgB",
+                        popularity = 9.4,
                     },
                 },
             },
@@ -14137,12 +14132,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGzyAAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAjZMzsBAAmZmZGDjZZGDYA",
-                        popularity = 64.3,
+                        popularity = 64.2,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbjhZmZmlBAAAAAAAMmxwCMw2wCNsYwMLz2MzMmBAmhZmZmZAmZGjBAAYmZmZMMmlZMgB",
-                        popularity = 4.2,
+                        popularity = 4.3,
                     },
                 },
             },
@@ -14159,12 +14154,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMAAAAAAAgxMGWgB2GWohFDmZZ2mZmxMAwMMzMzMDwMzYmBAAYmZmZMMmlZMgB",
-                        popularity = 62.7,
+                        popularity = 62.2,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmtBAAAAAAAMmxwCMw2wCNsYwMLz2MzMmBAmhZmZmZAmZGzMbAAgZmZmxwYWmxAGA",
-                        popularity = 6.9,
+                        popularity = 6.4,
                     },
                 },
             },
@@ -14176,17 +14171,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGz2AAAAAAAAGzYYBGYbYhGWMYmlZbmZGzAAzwMzMzMAzMjZGAAgZmZmxwYWmxAGA",
-                        popularity = 99.5,
+                        popularity = 99.6,
                     },
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmtBAAAAAAAMmxwCMw2wCNsYwMLz2MzMmBAmhZmZmZAmZGMbAAgZmZmxwYWmxAGA",
-                        popularity = 23.6,
+                        popularity = 23.8,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAgxMzoZjZ2mZmZ2GAAAAAAAwYGDLwAbDL0wiBzsMbzMzYGAYGmZmZmBYmZMDAAgZmZmxwYWmxAGA",
-                        popularity = 19.5,
+                        popularity = 19.8,
                     },
                 },
             },
@@ -14203,12 +14198,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAghZmpZzMz2MzYWGAAAAAAAwYGDLwAbDL0wiBzsMbzMzYGAYGmZmZmBYmZMjNAAwMzMzYYMLzYAD",
-                        popularity = 53.8,
+                        popularity = 53.4,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAYmhZGNbmx2MzYWGAAAAAAAwYGDLwAbDL0wiBzsMbzMzYGAYGmZmZmBYMjZmNAAwMzMzYYMLzYAD",
-                        popularity = 9.6,
+                        popularity = 9.5,
                     },
                 },
             },
@@ -14225,12 +14220,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMAAAAAAAgxMGWgB2GWohFDmZZWmZmxMAwMMzMzMDwMzYmBAAYmZmZMMmlZMgB",
-                        popularity = 21.1,
+                        popularity = 21.3,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmlBAAAAAAAMmxwCMw2wCNsYwMLzyMzMmBAmhZmZmZAmZGzMbAAgZmZmxwYWmxAGA",
-                        popularity = 8.0,
+                        popularity = 7.6,
                     },
                 },
             },
@@ -14246,13 +14241,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAAAAAAMmxwCMw2wCNsYMGLzyMzMmBAmZMzMzMDgZGjBAAYMzMzMMsMjBMA",
-                        popularity = 68.5,
+                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAAAAAAMmxwCMw2wCNsYMGLzyMzMmBAmZMzMzMDAzYmBAAYMzMzMMsMjBMA",
+                        popularity = 67.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAAAAAAMmxwCMw2wCNsYMGLzyMzMmBAmZMzMzMDAzYmBAAYMzMzMMsMjBMA",
-                        popularity = 19.7,
+                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZhhZmZmlBAAAAAAAMmxwCMw2wCNsYMGLzyMzMmBAmZMzMzMDgZGjBAAYMzMzMMsMjBMA",
+                        popularity = 15.2,
                     },
                 },
             },
@@ -14268,12 +14263,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 31.9,
+                        popularity = 33.3,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAD",
-                        popularity = 20.1,
+                        popularity = 20.5,
                     },
                 },
             },
@@ -14284,17 +14279,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 99.1,
+                        popularity = 99.2,
                     },
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 32.8,
+                        popularity = 34.4,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAD",
-                        popularity = 19.5,
+                        popularity = 19.8,
                     },
                 },
             },
@@ -14305,17 +14300,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGz2AAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 99.0,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 32.2,
+                        popularity = 33.7,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 19.4,
+                        popularity = 19.7,
                     },
                 },
             },
@@ -14331,12 +14326,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 31.6,
+                        popularity = 33.1,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAD",
-                        popularity = 20.8,
+                        popularity = 21.3,
                     },
                 },
             },
@@ -14352,12 +14347,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 32.1,
+                        popularity = 33.6,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 19.9,
+                        popularity = 20.1,
                     },
                 },
             },
@@ -14373,12 +14368,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 31.1,
+                        popularity = 32.7,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 20.1,
+                        popularity = 20.4,
                     },
                 },
             },
@@ -14389,17 +14384,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 99.0,
+                        popularity = 99.1,
                     },
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 31.8,
+                        popularity = 33.2,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAD",
-                        popularity = 20.7,
+                        popularity = 21.0,
                     },
                 },
             },
@@ -14415,12 +14410,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 32.7,
+                        popularity = 34.0,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzMzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMDjNAAwYmZGDDLzYAD",
-                        popularity = 20.0,
+                        popularity = 20.6,
                     },
                 },
             },
@@ -14436,12 +14431,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 31.4,
+                        popularity = 32.7,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmZ2mZGzyAAAAAAAAGzYYBGYbYhGWMmZsMbzMzYGAYmxYmZmBYMjZsBAAGzMzYYYZGDYA",
-                        popularity = 20.6,
+                        popularity = 20.9,
                     },
                 },
             },
@@ -14459,17 +14454,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBmZMGAAAmZmZAAYGG",
-                        popularity = 77.8,
+                        popularity = 77.2,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMzsMLjZmZxY2WMDAAmxYmZWsADMLGNmBwshNGAAYMAbAAzMYmZMGAAAmZmZAAYGG",
-                        popularity = 7.5,
+                        popularity = 7.3,
                     },
                     {
                         rank = 3,
-                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmlZZMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMjZmNAAAzMzAAgZYA",
-                        popularity = 46.3,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjx2MzMz2sMmZmFjZbxMAAYGjZmZxCMwsY0YGAzG2YAAgxAsBAMzAzMGDAAAzMzAAgZYA",
+                        popularity = 46.4,
                     },
                 },
             },
@@ -14481,17 +14476,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmlZZMzMLmZ2WYAAwMGzMzCYMjhFYgthFaswAAAjBDbAYmBYmZMzsBAAYmZGAAMDD",
-                        popularity = 54.3,
+                        popularity = 52.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMLjZmZxMz2CDAAmxYmZWAjZMsADsNsQjFGAAYMYYDAzMAzMjZGAAAmZmBAAzwA",
-                        popularity = 16.0,
+                        popularity = 16.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzysMmZmFzMbLMAAYGjZmZBMmxwCMw2wCNWYAAgxghNAMzAMmxM2AAAMzMDAAmhB",
-                        popularity = 49.4,
+                        popularity = 48.5,
                     },
                 },
             },
@@ -14503,17 +14498,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmlZZMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBmZMGAAAmZmZAAYGG",
-                        popularity = 95.5,
+                        popularity = 95.6,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbMMzMzsMLjZmZxY2WMDAAmxYmZWsADMLGNmBwshNGAAYMAbAAzMYmZMGAAAmZmZAAYGG",
-                        popularity = 25.3,
+                        popularity = 25.0,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmlZZMzMLGz2iZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMjZmNAAAzMzAAgZYA",
-                        popularity = 46.2,
+                        popularity = 46.5,
                     },
                 },
             },
@@ -14529,13 +14524,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMLzMzMLmZ2W8ADAAmxYmZWsBDMLGNmBwshNGAAYMAbAAzMYmZYmNAAAzMzAAwYYA",
-                        popularity = 21.3,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjxyMzMzysMzMzsYmZbxDMAAYGjZmZxGMwsY0YGAzG2YAAgxAsBAMzAzMGDAAAzMzAAwYYA",
+                        popularity = 21.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjxyMzMzysMzMzsYmZbxDMAAYGjZmZxGMwsY0YGAzG2YAAgxAsBAMzAzMGDAAAzMzAAwYYA",
-                        popularity = 70.4,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMLzMzMLmZ2W8ADAAmxYmZWsBDMLGNmBwshNGAAYMAbAAzMYmZYmNAAAzMzAAwYYA",
+                        popularity = 70.3,
                     },
                 },
             },
@@ -14547,17 +14542,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjZmZxMzyCDAAmxYmZWAjZMsADsNsQjFGAAYMYYDAzMAzMjZGAAAmZmBAAzwA",
-                        popularity = 63.4,
+                        popularity = 65.1,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNbM2mZGzysMmZmFzMLLMAAYGjZmZBMmxwCMw2wCNWYAAgxghNAMzAMzMmZAAAYmZGAAMDD",
-                        popularity = 37.7,
+                        popularity = 38.4,
                     },
                     {
                         rank = 3,
-                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZbMMzMzsMLjZmZxMzyCDAAmxYmZWAjZMsADsNsQjFGAAYMYYDAzMAmZMGAAAmZmBAAzwA",
-                        popularity = 20.3,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZGz2sMmZmFzMLLMAAYGjZmZBMmxwCMw2wCNWYAAgxghNAMzAMmxMzGAAgZmZAAwMM",
+                        popularity = 19.1,
                     },
                 },
             },
@@ -14569,17 +14564,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmZmZGNbMMzMmlZZMzMLGzyiZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBjHYmxAAAwMzMDAAzwA",
-                        popularity = 96.7,
+                        popularity = 96.0,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbjhZmZmtZZMzMLGzyiZAAwMGzMziFYgZxoxMAmNsxAAAjBYDAYmBzMjxAAAwMzMAAYGG",
-                        popularity = 39.0,
+                        popularity = 38.8,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLjZmZxYWWMDAAmxYmZWsADMLGNmBwshNGAAYMAbAAzMYmZMGAAAmZmZAAYGG",
-                        popularity = 15.8,
+                        popularity = 14.5,
                     },
                 },
             },
@@ -14595,13 +14590,13 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsMLzMzMLGz2iHYAAwMzYmZWsADMLGNmBwshNGAAYMAbAAzMwMjZmNAAAzMzAAwYYA",
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbMz2MzY2mlZmZmFjZbxDMAAYmZMzMLWgBmFjGzAY2wGDAAMGgNAgZGMzMmBAAAzMzMAAGDD",
                         popularity = 30.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMzsNLzMzMLGz2iHYAAwMzYmZWsADMLGNmBwshNGAAYMAbAAzMwMjZmNAAAzMzAAwYYA",
-                        popularity = 43.9,
+                        popularity = 44.3,
                     },
                 },
             },
@@ -14613,17 +14608,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMMzMmlZZMzMLmZ2WYAAwMGzMzCYMjhFYgthFaswAAAjBDbAYmBYmZMzsBAAYmZGAAMDD",
-                        popularity = 58.3,
+                        popularity = 58.1,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZbMMzMzsMLjZmZxMz2CDAAmxYmZWAjZMsADsNsQjFGAAYMYYDAzMAmZMGAAAmZmBAAzwA",
-                        popularity = 34.8,
+                        popularity = 34.9,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzMzysMmZmFzMbLMAAYGjZmZBMmxwCMw2wCNWYAAgxghNAMzAMmxM2AAAMzMDAAmhB",
-                        popularity = 39.7,
+                        popularity = 40.1,
                     },
                 },
             },
@@ -14640,12 +14635,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmZmtZZmZmZxYWWMDAAmxYmZWAjZMsADsNsRjFGAAYMAbAYmBwMjxAAAwMzMDAgxwA",
-                        popularity = 66.7,
+                        popularity = 62.5,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmZmZGNbMMzMmlZZmZmZxYWWMDAAmxYmZWAjZMsADsNsRjFGAAYMAbAYmBgZMzsBAAYmZGAAGDD",
-                        popularity = 50.0,
+                        popularity = 60.0,
                     },
                 },
             },
@@ -14663,17 +14658,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 52.5,
+                        popularity = 53.3,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 10.9,
+                        popularity = 10.8,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZmxAAAwMzMDAAzwA",
-                        popularity = 40.0,
+                        popularity = 40.4,
                     },
                 },
             },
@@ -14684,17 +14679,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 53.3,
+                        popularity = 53.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 10.4,
+                        popularity = 10.3,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZMzsBAAYmZmBAgZYA",
-                        popularity = 47.2,
+                        popularity = 49.5,
                     },
                 },
             },
@@ -14705,17 +14700,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 52.1,
+                        popularity = 52.6,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 11.9,
+                        popularity = 12.0,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZmxAAAwMzMDAAzwA",
-                        popularity = 40.9,
+                        popularity = 41.6,
                     },
                 },
             },
@@ -14726,17 +14721,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZjxGzMzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBzMjZGAAAmZmBAAzwA",
-                        popularity = 52.8,
+                        popularity = 53.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 10.2,
+                        popularity = 10.0,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 37.6,
+                        popularity = 38.8,
                     },
                 },
             },
@@ -14747,7 +14742,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 50.8,
+                        popularity = 51.7,
                     },
                     {
                         rank = 2,
@@ -14757,7 +14752,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZmxAAAwMzMDAAzwA",
-                        popularity = 39.9,
+                        popularity = 38.2,
                     },
                 },
             },
@@ -14768,17 +14763,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMmZmpZjxGzMzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBzMjZGAAAmZmBAAzwA",
-                        popularity = 52.3,
+                        popularity = 53.3,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 9.9,
+                        popularity = 9.8,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 41.0,
+                        popularity = 41.1,
                     },
                 },
             },
@@ -14789,12 +14784,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 52.6,
+                        popularity = 53.4,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 11.1,
+                        popularity = 10.7,
                     },
                     {
                         rank = 3,
@@ -14810,17 +14805,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 55.4,
+                        popularity = 55.1,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 10.9,
+                        popularity = 10.5,
                     },
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAgZmZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZmxAAAwMzMDAAzwA",
-                        popularity = 39.3,
+                        popularity = 37.2,
                     },
                 },
             },
@@ -14831,12 +14826,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxmZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 51.7,
+                        popularity = 52.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMjZGNLmxiZGzysNzMjFzYZZmBAAzgZmZxCMwsY0YGAzG2YAAgxMMAAYmBjZGzsBAAYmZmBAgZYA",
-                        popularity = 11.6,
+                        popularity = 11.5,
                     },
                     {
                         rank = 3,
@@ -14859,17 +14854,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmxyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMBmBbAzgZbMYmtBYmBgZMMA",
-                        popularity = 72.8,
+                        popularity = 73.4,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmZZZmZmZwYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
-                        popularity = 29.9,
+                        popularity = 30.2,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzMLLzMzMDzYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
-                        popularity = 13.4,
+                        popularity = 13.5,
                     },
                 },
             },
@@ -14881,17 +14876,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmxyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMBmBbAzgZbMYmtBYmBgZMMA",
-                        popularity = 63.7,
+                        popularity = 65.2,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmZZZmZmZwYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
-                        popularity = 29.7,
+                        popularity = 30.6,
                     },
                     {
                         rank = 3,
-                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzMLLzMzMDzYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
-                        popularity = 10.8,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmZbZmZmZwYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
+                        popularity = 11.0,
                     },
                 },
             },
@@ -14908,12 +14903,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphZGzMWmZmZGMmZAAAAAMzyMDIjxyyALgBMDTgZwGwMY2GDmxAMzAwMGGA",
-                        popularity = 66.4,
+                        popularity = 66.3,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYmxyMzMzgxMDAAAAgZWmZAZMWWGYBMgZYCMD2AmxmZbMYGDwMDAzYYA",
-                        popularity = 20.5,
+                        popularity = 20.2,
                     },
                 },
             },
@@ -14930,12 +14925,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmZbZmZmZwYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
-                        popularity = 73.8,
+                        popularity = 73.1,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmZZZmZmZwYmBAAAAwMLzMwWGjllBWADYGmAzgNgZwYMYmtBYmBgZMMA",
-                        popularity = 22.8,
+                        popularity = 23.3,
                     },
                 },
             },
@@ -14947,17 +14942,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmxyMzMzgxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGbjtBzmZbwMDAwMDD",
-                        popularity = 95.5,
+                        popularity = 95.2,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmZbZmZmZwYmBAAAAwYzMwWMgNzYYBGYG2oxgFgZwsNY2MbDmZAAzMDD",
-                        popularity = 84.3,
+                        popularity = 83.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 19.9,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
+                        popularity = 19.0,
                     },
                 },
             },
@@ -14969,17 +14964,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmxyMzMzgxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGbjtBzmZbwMDAwMDD",
-                        popularity = 99.6,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 86.9,
+                        popularity = 86.8,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZYmZbZmZmZwYmBAAAAwYzMwWMgNzYYBGYG2oxgFgZsZMY2MbDmZAAzMDD",
-                        popularity = 11.2,
+                        popularity = 10.4,
                     },
                 },
             },
@@ -14991,17 +14986,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphZGzMWmZmZGMmZAAAAAMzyMDIjxyyALgBMDTgZwGwMY2GDmxAMzAwMGGA",
-                        popularity = 98.2,
+                        popularity = 98.3,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphxYGbLzMzMDGzMAAAAAmZZmBkxYZZgFwAmhJwMYDMzYzYMYGDwMDAzYYA",
-                        popularity = 75.0,
+                        popularity = 75.5,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphZGzMbLzMzMDGzMAAAAAmZZmBkxYZZgFwAmhJwMYDYGbGjBzYAmZAYYYA",
-                        popularity = 22.1,
+                        popularity = 22.9,
                     },
                 },
             },
@@ -15023,7 +15018,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmxyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMBmBbAzgZbMYmtBYmBgZMMA",
-                        popularity = 16.5,
+                        popularity = 16.3,
                     },
                 },
             },
@@ -15035,17 +15030,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYmxyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMBmBbAzgZbMYmtBYmBgZMMA",
-                        popularity = 97.7,
+                        popularity = 98.0,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMzYGWmZmZGMmZAAAAAMzyMDslxYZZgFwAmhJwMYDMzgZbMYmtBYmBgZMMA",
-                        popularity = 68.9,
+                        popularity = 72.1,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzYmZAAAAMMNMGzwyMzMzgxMDAAAAgZWmZgtMGLLDsAGwMMBmBbgZGbmtxgZ2GgZGAmxwA",
-                        popularity = 33.9,
+                        popularity = 30.7,
                     },
                 },
             },
@@ -15062,12 +15057,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphZYGWmZmZGMmZAAAAAMzyMDIjxyyALgBMDTgZwGYmxmZbMYGDwMDAzYYA",
-                        popularity = 80.8,
+                        popularity = 85.7,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMzMDAAAghphZYmZbZmZmZwYmBAAAAwMLzMgMGLLDsAGwMMBmBbAzgZbMYGDwMDAzYYA",
-                        popularity = 47.6,
+                        popularity = 45.8,
                     },
                 },
             },
@@ -15078,17 +15073,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 77.1,
+                        popularity = 74.7,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 56.9,
+                        popularity = 55.3,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 19.6,
+                        popularity = 19.4,
                     },
                 },
             },
@@ -15099,17 +15094,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 73.2,
+                        popularity = 70.2,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 51.1,
+                        popularity = 49.4,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
-                        popularity = 21.0,
+                        popularity = 20.6,
                     },
                 },
             },
@@ -15120,17 +15115,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 76.9,
+                        popularity = 74.2,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 56.6,
+                        popularity = 54.9,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 19.1,
+                        popularity = 18.9,
                     },
                 },
             },
@@ -15141,17 +15136,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 80.2,
+                        popularity = 77.6,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 60.5,
+                        popularity = 58.6,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 17.9,
+                        popularity = 18.0,
                     },
                 },
             },
@@ -15162,17 +15157,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 75.7,
+                        popularity = 73.0,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 56.3,
+                        popularity = 54.6,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 19.9,
+                        popularity = 19.8,
                     },
                 },
             },
@@ -15183,17 +15178,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 79.8,
+                        popularity = 78.1,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 59.3,
+                        popularity = 58.1,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 19.4,
+                        popularity = 19.1,
                     },
                 },
             },
@@ -15204,17 +15199,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 79.4,
+                        popularity = 77.3,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 59.6,
+                        popularity = 58.1,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 20.0,
+                        popularity = 19.7,
                     },
                 },
             },
@@ -15225,17 +15220,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmZbZmZmZYGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 72.3,
+                        popularity = 69.7,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 52.7,
+                        popularity = 51.1,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 19.8,
+                        popularity = 19.9,
                     },
                 },
             },
@@ -15245,18 +15240,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
-                        popularity = 77.3,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGmxyMzMzwMmZAAAAAM2MDsFDYzMGWgBmhNaMYBMzwYZwsZ2GMzAAMzwA",
+                        popularity = 74.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
-                        popularity = 57.4,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAMDGDmNz2gZGAwMzwA",
+                        popularity = 55.7,
                     },
                     {
                         rank = 3,
-                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphZGzMbmZmZGmxMDAAAAgxmZgtYAbmxwCMwMsRjBLgZGGGMbmtBzMAAzMMA",
-                        popularity = 20.1,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmxsMzMzYGAAAghphxwMbLzMzMjZGzMAAAAAGbmB2iBsZGDLwAzwGNGsAmZYYwsZ2GMzAAMzwA",
+                        popularity = 19.6,
                     },
                 },
             },
@@ -15274,7 +15269,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 71.6,
+                        popularity = 69.5,
                     },
                     {
                         rank = 2,
@@ -15283,7 +15278,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsgZsAYGMbDAmZAMMzMDGM",
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
                         popularity = 37.5,
                     },
                 },
@@ -15296,7 +15291,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 65.0,
+                        popularity = 62.5,
                     },
                     {
                         rank = 2,
@@ -15318,7 +15313,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 53.6,
+                        popularity = 50.8,
                     },
                     {
                         rank = 2,
@@ -15340,7 +15335,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 79.9,
+                        popularity = 78.2,
                     },
                     {
                         rank = 2,
@@ -15362,16 +15357,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 95.8,
+                        popularity = 95.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMzyyMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMz2yMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMz2yMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMzyyMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
                         popularity = 37.5,
                     },
                 },
@@ -15384,7 +15379,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 95.6,
+                        popularity = 95.4,
                     },
                     {
                         rank = 2,
@@ -15405,17 +15400,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 62.3,
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmhlZmZmZYMzMzYGzsMzMGzMbjZmBAAixyyALgBMDTgZYDYmBz2AAgZGDjZmhBD",
+                        popularity = 57.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzYmZsMzMzMDjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsAjFAzgZbAwMDghZmZGGM",
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmx2yMzMzMMmZmZMjZWmZGjZmtxMzAAAxYZZgFwAmhJwMsBMzgxAAgZGDjZmhBD",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMz2yMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZ2WmZmZmhxMzMjZMzyMzYMzsNmZGAAIGLLDsAGwMMBmhNAzgxAAgZGDjZmhBD",
                         popularity = 37.5,
                     },
                 },
@@ -15428,7 +15423,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMzyyMzMzMMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
-                        popularity = 80.1,
+                        popularity = 78.3,
                     },
                     {
                         rank = 2,
@@ -15450,7 +15445,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMjlZmZmZYMzYGzYmlZmxYmZZMzMAAQYgNYZxoxMAmFMjFAzgZbAwMDghZmZGGM",
-                        popularity = 73.0,
+                        popularity = 67.7,
                     },
                     {
                         rank = 2,
@@ -15477,12 +15472,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjxM2WmZmZmhxMzMjZMzyMzYMzsNmZGAAIGLLDsAGwMMBmhNgZGMbDAAmZMMmZGGM",
-                        popularity = 88.9,
+                        popularity = 90.9,
                     },
                     {
                         rank = 3,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmxmZmZmZYMzMzYGzsMzMGzMbjZmBAAixyyALgBMDTgZYDYmBz2AAgZGDjZmhBD",
-                        popularity = 62.5,
+                        popularity = 70.0,
                     },
                 },
             },
@@ -15492,8 +15487,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDjZ2WmZmZmxMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
-                        popularity = 84.8,
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMzMmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
+                        popularity = 83.0,
                     },
                     {
                         rank = 2,
@@ -15514,7 +15509,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDjZ2WmZmZmxMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
-                        popularity = 84.9,
+                        popularity = 83.3,
                     },
                     {
                         rank = 2,
@@ -15534,8 +15529,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMzMmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
-                        popularity = 85.1,
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDzMz2yMzMzMmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
+                        popularity = 83.2,
                     },
                     {
                         rank = 2,
@@ -15555,8 +15550,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDjZ2WmZmZmxMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
-                        popularity = 85.1,
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMzMmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
+                        popularity = 82.7,
                     },
                     {
                         rank = 2,
@@ -15577,7 +15572,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
-                        popularity = 85.1,
+                        popularity = 83.1,
                     },
                     {
                         rank = 2,
@@ -15598,7 +15593,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
-                        popularity = 84.8,
+                        popularity = 83.0,
                     },
                     {
                         rank = 2,
@@ -15618,8 +15613,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjxMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCwMDDDAmZAMMzMGGM",
-                        popularity = 85.3,
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDjZ2WmZmZmxMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
+                        popularity = 83.6,
                     },
                     {
                         rank = 2,
@@ -15640,7 +15635,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMjZmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
-                        popularity = 84.1,
+                        popularity = 82.5,
                     },
                     {
                         rank = 2,
@@ -15649,7 +15644,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMjlZmZGzMjZGzYGzsMzMGzMLjZmBAACDsBLLGNmBwsgZsAYGMLDAmZAMMzMDGM",
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDjZMz2yMzMzMmxMjZMjZWmZGjZmlxMzAAAhB2glFjGzAYWwMWAMDGDAmZAMMzMDGM",
                         popularity = 37.5,
                     },
                 },
@@ -15661,7 +15656,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDDjZ2WmZmZmxMmZMjZMzyMzYMzsMmZGAAIMwGssY0YGAzCmxCgZwYAwMDghZmZGGM",
-                        popularity = 84.2,
+                        popularity = 82.3,
                     },
                     {
                         rank = 2,
@@ -15689,7 +15684,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMjZmZmZGzmxsMjxY0wMDLzMzMDGzMAAAAYZAYGDwAbwyiRjZAMbYmNYGzMY2GAMzAAwMgB",
-                        popularity = 97.8,
+                        popularity = 97.9,
                     },
                     {
                         rank = 2,
@@ -15733,7 +15728,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMjZmZmZGzmxsMjxY0wMDLzMzMDGzMAAAAYZAYGDwAbwyiRjZAMbYmNYGzMY2GAMzAAwMgB",
-                        popularity = 97.3,
+                        popularity = 97.5,
                     },
                     {
                         rank = 2,
@@ -15777,7 +15772,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMjZmZmZGzmxsMjxY0wMDLzMzMDGzMAAAAYZAYGDwAbwyiRjZAMbYmNYGzMY2GAMzAAwMgB",
-                        popularity = 99.6,
+                        popularity = 99.7,
                     },
                     {
                         rank = 2,
@@ -15799,7 +15794,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzMzMzMzMmNzMLDjxohZGWmZmZGMmZAAAAwyYAmxAMwGssY0YGAzGmZDmxMDmtBAzMAAMDYA",
-                        popularity = 99.4,
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
@@ -15843,7 +15838,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAzMjZmZmZGzmxsMjxY0wMDLzMzMDGzMAAAAYZAYGDwAbwyiRjZAMbYmNYGzMY2GAMzAAwMgB",
-                        popularity = 97.1,
+                        popularity = 97.4,
                     },
                     {
                         rank = 2,
@@ -15954,12 +15949,12 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 2,
-                        talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZwsNAYmBAgZAPA",
+                        talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMzwixMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZYsNAYmBAgZAPA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMzwixMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZYsNAYmBAgZAPA",
+                        talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZwsNAYmBAgZAPA",
                         popularity = 37.5,
                     },
                 },
@@ -16034,7 +16029,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoZmxYbxYmZMDzMAAAAYZmBYGDwAbwyiRjZAMLYmNMzMzMMMAYmBAgZAPA",
-                        popularity = 96.8,
+                        popularity = 96.9,
                     },
                     {
                         rank = 2,
@@ -16043,7 +16038,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZwsNAYmBAgZAPA",
+                        talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMzwixMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZYsNAYmBAgZAPA",
                         popularity = 37.5,
                     },
                 },
@@ -16055,7 +16050,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMzwixMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZYsNAYmBAgZAPA",
-                        popularity = 96.6,
+                        popularity = 96.5,
                     },
                     {
                         rank = 2,
@@ -16076,7 +16071,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAAkBAAGzYmZmZmxsZmZZGjxoxMGWMzMzYGmZAAAAwyMDwMGgB2glFjGzAYWwMbYmZmZYsNAYmBAgZAPA",
-                        popularity = 96.6,
+                        popularity = 96.7,
                     },
                     {
                         rank = 2,
