@@ -4,7 +4,7 @@
 -- ============================================================
 
 TalentSwapperRecommended = TalentSwapperRecommended or {}
-TalentSwapperRecommended.generatedAt = "2026-07-03 09:34:47"
+TalentSwapperRecommended.generatedAt = "2026-07-04 09:00:52"
 
 TalentSwapperRecommended.specs = {
     ["death-knight:blood"] = {
