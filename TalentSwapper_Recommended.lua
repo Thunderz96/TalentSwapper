@@ -4,7 +4,7 @@
 -- ============================================================
 
 TalentSwapperRecommended = TalentSwapperRecommended or {}
-TalentSwapperRecommended.generatedAt = "2026-08-21 07:07:55"
+TalentSwapperRecommended.generatedAt = "2026-08-22 06:59:22"
 
 TalentSwapperRecommended.specs = {
     ["death-knight:blood"] = {
@@ -16,6 +16,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWGzMmxMjhZbmZmmZxMjxMGAAAAYmxMzMzMDzYMAYmZmZGAAADMwMW0YZDw2A2AMDDAAYmBzwA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZbmZmmZxMjxMGAAAAYmxMzMzMDzYMAYmZmZGAAADMwMW0YZDw2A2AMDDAAYmBwA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwYWmZmxMmZmhZbmZmmZxYMmxAAAAAmZmZmZmZYGjZAYMzMzAAAYgBmxiGLLA2GwGgZYAAAzMwwA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -87,17 +102,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmZmhZZMz0MLmZmZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwA",
-                        popularity = 75.3,
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLjZmmZxYmZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwA",
+                        popularity = 76.2,
                     },
                     {
                         rank = 2,
-                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMzMMLjZmmZxYmZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwA",
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMmhZbmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzMmxMmhZbmZmmZxMjZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwA",
+                        talentString = "CoPAAAAAAAAAAAAAAAAAAAAAAwMzyMzwMmxMMbzMz0MLmZmZmxAAAAAGMzMzMjZmZMAYmZmZGAAADMwMW0YZDw2A2AMjBAAYmBwA",
                         popularity = 37.5,
                     },
                 },
@@ -232,18 +247,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAzyMzMzMLmZkZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 90.8,
+                        talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZMGDz2YmZmZZmZ0MDGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgxgB",
+                        popularity = 91.8,
                     },
                     {
                         rank = 2,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMMjZAz2MzMzMLzMjMjxYYmxgZmZmZmZmZAAAAAAAAAYMbDMgFwywEYsgZGzMDMAMMzAMzgB",
-                        popularity = 48.3,
+                        popularity = 50.0,
                     },
                     {
                         rank = 3,
                         talentString = "CsPAAAAAAAAAAAAAAAAAAAAAAMAzMjZmZAz2MzMzMLmZkZMGDzMGMzMzMzMzMDAAAAAAAAAjZbgBsAWGmAjFMzYmZgBghZGgZgB",
-                        popularity = 29.8,
+                        popularity = 31.0,
                     },
                 },
             },
@@ -306,6 +321,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMjZY2mZmZaWmZGDjBAAAAAAAg5BGGDAWmBzmZGzMjBGYGLassBYbwGGwMAmZmZGzgZGMmxA",
+                        popularity = 66.6,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMzYY2mZmZaWMzYMjBAAAAAAAg5BGGDAWmBzmZGzMjBGYGLassBYbwGGwMAmZmZGzgZGMjxA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAwMjZMDDz2MzMTz2MzYMjBAAAAAAAgZGmZAw2MmZ2mZGjZAbmFDDMwsxQjFAMDAjZmxMAzMjZMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -377,8 +407,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZGDz2MzMTDzMmZGDAAAAAAAAzMGGAsMjZmNzMmZGwmZzwADMbM0YBDYGAGzMjZAmZGGD",
-                        popularity = 79.6,
+                        talentString = "CwPAAAAAAAAAAAAAAAAAAAAAAAYmZMjZMY2GzMTjZmxMzYAAAAAAAAYmxwAglZMzsZmxMzA2MbGGYgZjhGLYAzAwYmZMDwMzYGD",
+                        popularity = 77.1,
                     },
                     {
                         rank = 2,
@@ -451,6 +481,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzyMmZmZmZmMmZAAAAAAAzmxsNDjBzMWmZMDzMGzyALziZMMbMNmZGDbAAAAAAAAMzgBAAAgB",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -522,18 +557,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxYmmxMDAAAAAAYWMmtBzMwMWmZmZYmBzyALzmZMMLMNmZGzYDAAAYAAAAMzgBAAAgB",
-                        popularity = 94.7,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxYmMmZAAAAAAAzixsNDzMwMWmZmZYmBzyALzmZMMLMNmZGzYDAAAYAAAAMzgBAAAgB",
+                        popularity = 95.4,
                     },
                     {
                         rank = 2,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxYmMmZAAAAAAAzixsNDzMwMWmZmZYmBzyALzmZMMLMNmZGzYDAAAYAAAAMzgBAAAgB",
-                        popularity = 51.6,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzyMmZmxYmMmZAAAAAAAzixsNDzMwMWmZmZYmBzyALzmZMMLMNmZGzYDAAAYAAAAMzgBAAAgB",
+                        popularity = 50.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMzyMmZmxYmMmZAAAAAAAzixsNDzMwMWmZmZYmBzyALzmZMMLMNmZGzYDAAAYAAAAMzgBAAAgB",
-                        popularity = 83.0,
+                        talentString = "CEkAAAAAAAAAAAAAAAAAAAAAAYmZGzMz2MmZmxMzkxMDAAAAAAYWMmtZYmBmxyMzMDzMYWGYZ2MjhZhpxMzYYDAAAYAAAAMzgBAAAgB",
+                        popularity = 80.4,
                     },
                 },
             },
@@ -673,7 +708,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMjhZkZmBWMjZwMjZGz8AzMzYYmZmx2MzYMmBAAAAAAAgZmxGAAAAGYmZmZWabmZGAYAAAAMA",
-                        popularity = 37.0,
+                        popularity = 36.1,
                     },
                     {
                         rank = 3,
@@ -741,6 +776,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsYmZmBDDjZWmZxMzYhlZWGjZGLYYAGbbzMYMbDgJAAAALmZmZGsZMjxMAAmZgBA",
+                        popularity = 83.3,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFmZmBDzYMzyYbGzYjlZWGzMzYBDDwAssN2w0MzyAAAAgNzMzMD2MGGzAYmBAGA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMDwsMzMzMYYGjZWmhxMWYZmlZGjZ2wAgx2yMDGz2AYCAAAwiZmZmBbGGjZAAMzglBA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -812,17 +862,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgxsMzMzMLMgxMLzsYmZswyMLjxMjNMAYstNzgxsNAmAAAAswMzMD2MmxYAAYmBLDA",
-                        popularity = 98.6,
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNjxMD8AmFmZmZhhZMmZZmFzMjFWmZZMmZshBAjttZGMmtBwEAAAgFmZmZwmxMGDAAzMYZA",
+                        popularity = 98.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgxsYmZmZhBjxMLzsYmZswyMLjxMjNMAYstNzgxsNAmAAAAswMzMD2MmxYAAYmBLDA",
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgxsMzMzMLMgxMLzsYmZswyMLjxMjNMAYstNzgxsNAmAAAAswMzMD2MmxYAAYmBLDA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgxsMzMzMLMYMmZZmFzMjFWmZZMmZshBAjttZGMmtBwEAAAgFmZmZwmhxYAAYmBLDA",
+                        talentString = "CYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWoMbNMmZgxsYmZmZhBjxMLzsYmZswyMLjxMjNMAYstNzgxsNAmAAAAswMzMD2MmxYAAYmBLDA",
                         popularity = 37.5,
                     },
                 },
@@ -958,7 +1008,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcGAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZ2MzMzMGzmx2YbGzMmZAAAAYJY2M8AmZUzYWMzMzsMmhBAAAAAwADAAAgmZZWmZmBAsAzMDwCDGAAAzshB",
-                        popularity = 83.7,
+                        popularity = 84.7,
                     },
                     {
                         rank = 2,
@@ -1031,6 +1081,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmxsYGjZWMLGMLLDYzMGNRzMzyMzMzYMjZAAAAAAzYZGwy2MDGz2AYCAAAYDzYALmBDYxy2AMzAYA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1102,17 +1157,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMPAAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
-                        popularity = 95.6,
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbmxoJyMzyYmZmlxMAAAAAAYsZGYZbmBjZZAMBAAAsZMzAsYMMwsYBgZGAA",
+                        popularity = 96.2,
                     },
                     {
                         rank = 2,
                         talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMMAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
-                        popularity = 15.6,
+                        popularity = 16.0,
                     },
                     {
                         rank = 3,
-                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWMzMzsMmhBAAAAAYsZGYZbmBjZZAMBAAAsZMzAsYMMwsYBgZGAA",
+                        talentString = "CgGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZmZmFzMjZWmZxMPwMLLDMbGGNRmZWmZmZmlxMPAAAAAAAjNzALbzMYMLDgJAAAgNMzAsYMMwsYBgZGAA",
                         popularity = 12.5,
                     },
                 },
@@ -1176,6 +1231,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLzMjZmxsNMYmNjNmBAAAAAAAAAAbDa2YMNzY4BMLzMzMDDzAAAAAAAAAAAAAwsNzSz2Mb2YMzMMzAjmBAYmBgB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAYMmZbmZMzMmthHgZmNjtxMAAAAAAAAAAYZQz2MjpZGDMLzMzMDDzAAAAAwAAAAAAAAmlZWa2mZzGjZeAYGY0MAAzMAMA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMjxMLzMjZmxsN8AMzsYsxMAAAAAAAAAAYbQzGjpZGDMLzMzMjZYGAAAAAAAAAAAAAmtZWa2mZzGjZmhZGY0MAAzMAMA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1247,17 +1317,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsMzMzMLzwDYAAAAAAAwAAAAAgZbmtmtZWsxYmBmZB0MAAzMAMA",
-                        popularity = 91.4,
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZGegZAAAAAAAwAAAAAgZbmtmtZWsxYmBmZB0MAAzMAMA",
+                        popularity = 90.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZGegZAAAAAAAwAAAAAgZbmtmtZWsxYmBmZB0MAAzMAMA",
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZGGDAAAAAAAGAAAAAMbzs1sNziNGzMwMbgmBAYmBgB",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsMoZzw0MjZwsYmZmZZGGDAAAAAAAGAAAAAMbzs1sNziNGzMwMbgmBAYmBgB",
+                        talentString = "CkGAAAAAAAAAAAAAAAAAAAAAAMMmZZMjZmxsNMMzsMsZbGAAAAAAAAAAsNoZzw0MjZwsYmZmZZGegZAAAAAAAwAAAAAgZbmtmtZWsxYmBmZB0MAAzMAMA",
                         popularity = 37.5,
                     },
                 },
@@ -1321,6 +1391,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbzMzgZYmZZGzMjZ2AAAAAAAAwMMmBjpmZmZGAAAAMjZMmZWGzMwMMwYGLsADMDDNwCGjZGAYA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1392,18 +1467,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhxYGjpGzMzAAAAgZmZMmZMmZgZ2MGsALjhx2AYGEbYMDmZAM",
-                        popularity = 69.1,
+                        talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAgxMwYGjpGzMzAAAAgZmZMmZWGzMwMbGDWglxwYbAMDiNMmBzMAG",
+                        popularity = 68.7,
                     },
                     {
                         rank = 2,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhZGYM1YmZGAAAAMzMjxMzyYmBmZzYwCsMGGbDgZQshxMYmBwA",
-                        popularity = 29.7,
+                        popularity = 29.5,
                     },
                     {
                         rank = 3,
                         talentString = "CEcBAAAAAAAAAAAAAAAAAAAAAMMzMbjZGMDzMLzYmZMzGAAAAAAAAmhZGYM1YmZGAAAAMzMjxMz2YmBmZzYwCsMGGbDgZQshxMYmBwA",
-                        popularity = 59.3,
+                        popularity = 59.2,
                     },
                 },
             },
@@ -1466,6 +1541,16 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZgZYGmBMYMTzMzMNjx2MmZmZmZmZGwMmZGzMLzMDMwYwGsMGN2GAzAwGGYmBDD",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgZMDMDzYmBMY8ATjZmpZM2mxMzMzMzMzAmZmxYmZZmZgBGD2glxox2AYGA2wAzMYYA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1543,12 +1628,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAPgZGmBGGjZaMzMNjx2MmZmZmZmZGwMzMGzMbzMDMwYwGsMGN2GAzAwGmBzMYYA",
-                        popularity = 20.5,
+                        popularity = 21.4,
                     },
                     {
                         rank = 3,
                         talentString = "CsbBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjZAPgZGmBGzYMTjZmpZM2mxMzMzMzMzAmZmxYmxMzADMGsBLjRjtBwMAshZwMDGG",
-                        popularity = 63.8,
+                        popularity = 60.4,
                     },
                 },
             },
@@ -1611,6 +1696,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDmZMYGzmhZmZbAAAMjZMYGzIzMDAAAwMzMZmZmxsMzMAYGzALgFwMMB2MsZYAMzMGA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDmZMYGzmhZmZbYAAgZMjZwwMZmZGAAAwMzIzYmxsMzMAYGzALgFwMMB2MsZYAMzMGA",
+                        popularity = 66.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAMzMDmZMYGzmZMmZbYAAwMjZMDGmJzMzAAAAmZmJzYmxsMzAAzYGYBsAmhJwmhNDDgZmxA",
+                        popularity = 50.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1682,18 +1782,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYGzMjhZixMAAAgZmZaGzMzDMLjZAgxMwCYDMDTgNGbGmBYmhB",
-                        popularity = 91.5,
+                        talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYGzghZyMzMAAAgZmZyYmZmxYGAYMDsA2AzwEYjxmhZAmZYA",
+                        popularity = 91.9,
                     },
                     {
                         rank = 2,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYmZmZMMTMmBAAAMzMTGzMzMGzAAjZgFwGYGmAbM2MMDwMDD",
-                        popularity = 49.5,
+                        popularity = 48.1,
                     },
                     {
                         rank = 3,
                         talentString = "CwbBAAAAAAAAAAAAAAAAAAAAAAAAAAAmZmZ2WmZGDjxsZGw2wAAAzYGzMjhZixMAAAgZmZaGzMzMGzAAjZgFwGYGmAbM2MMDwMDD",
-                        popularity = 50.7,
+                        popularity = 47.7,
                     },
                 },
             },
@@ -1756,6 +1856,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYGzwMzYGzghmBAAAAMDAAAzMzMAzsBMMLgtBgB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYGzssNzMmxM4BMNDAAAAYGAAAGzMDwMbADzCYbAYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGGzsMzwMmZMDzMGzMMzYmZGmZGzYGM0MAAAAgZAAAYmZGAzsBMMLgtBgB",
+                        popularity = 25.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1827,18 +1942,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZoZAAAAAAAAgZMGwMbAYWAbDAD",
-                        popularity = 97.6,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzwMzYGzwyQzAAAAAAAAAzYMgZ2AGmFw2AwA",
+                        popularity = 97.5,
                     },
                     {
                         rank = 2,
                         talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZMNDAAAAAAAA8AjxAmZDAzCYbAYA",
-                        popularity = 45.8,
+                        popularity = 45.7,
                     },
                     {
                         rank = 3,
-                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzwMzYGzwyQzAAAAAAAAAzYMgZ2AGmFw2AwA",
-                        popularity = 50.3,
+                        talentString = "C0PAAAAAAAAAAAAAAAAAAAAAAAMmxwCsAzwQDbAAYGzMzsYGzMzMjZGMzYmhZGzMzYbmZMjZYZoZAAAAAAAAgZMGwMbAYWAbDAD",
+                        popularity = 48.2,
                     },
                 },
             },
@@ -1901,6 +2016,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwCMwMGNWGAzgNAAAAAAAAwMmZmhZMzMmBjpZMY22MzMzMzMzMYmlhZGAAgHYmhBwM2YMDwGzsNjB",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -1978,12 +2098,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwGMwMGNWGAzgNAAAAAAAAwMmZmxmxMzYGWGTzYwsstMzMzMzMzMLMzywMAAAmxYAYGbgBYjZ2mxA",
-                        popularity = 51.6,
+                        popularity = 48.7,
                     },
                     {
                         rank = 3,
                         talentString = "C4PAAAAAAAAAAAAAAAAAAAAAAwGMwMGNWGAzgNAAAAAAAAwMmZmBjZmxMsMmmxgZZbZmZmZmZmZWYmlhZAAAMjxAwM2YYAWYmtZMA",
-                        popularity = 77.1,
+                        popularity = 76.8,
                     },
                 },
             },
@@ -2118,17 +2238,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZYZMNDAAAwAAjllZGLYmZ8AjxAwM2AjxMzmBA",
-                        popularity = 70.9,
+                        popularity = 72.1,
                     },
                     {
                         rank = 2,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZYZMNDAAAwAAjllZGLYmZYMGAmxGMjxMzmBA",
-                        popularity = 19.5,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZwYaGAAAgBAGLLzMWwMzMGzMAMjNwYMzsZAA",
+                        popularity = 20.2,
                     },
                     {
                         rank = 3,
-                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZwYaGAAAgBAGLLzMWwMzMGzMAMjNwYMzsZAA",
-                        popularity = 75.6,
+                        talentString = "C8PAAAAAAAAAAAAAAAAAAAAAAMWgBmxoxyAYGw2MzMzMjZbeAAAAAAAzYmZGbzYMjZYZMNDAAAwAAjllZGLYmZYMGAmxGMjxMzmBA",
+                        popularity = 75.3,
                     },
                 },
             },
@@ -2191,6 +2311,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAGAwMz0sssMDAgNAA2gZmhNLzYmlZMmZmZGWYmZmZGAgBAAYAmZAGAMMzM",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMDamZGAAAGAwMz0sssMDAgNAAAzMDbWmxMLzYMzMzMswMzMzMAADAAwAMzAMAYYmZA",
+                        popularity = 50.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAYGLjtZmZWwMDNzYAAAYAAzMTzyyyMAA2AAYBmZG2sMjZWmxYmZmZYhZmZmZAAGAAgBYmBYAwwMzA",
+                        popularity = 33.3,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -2263,17 +2398,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAGAwMz0sssMDAgNAA2gZmhNLzYmlZMmZmZGWYmZmZGAgBAAYAmZAGAMMzM",
-                        popularity = 98.3,
+                        popularity = 98.6,
                     },
                     {
                         rank = 2,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMzAAAwAAmZmmlllZAAsBAwGMzMsZZGzsMjxMzMzwGzYGzAAMAAADwMDMzAghZmB",
-                        popularity = 72.5,
+                        popularity = 68.8,
                     },
                     {
                         rank = 3,
                         talentString = "C4DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzQzMGAAAGAwMz0sssMDAgNAA2gZmhNLzYmlZMmZmZG2YmZmZGAgBAAYAmZAGAMMzM",
-                        popularity = 62.3,
+                        popularity = 61.2,
                     },
                 },
             },
@@ -2407,18 +2542,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzYZsMzMzCmZkZmZAAAAAYmZaWWWmBAYzMzYbMzMjFAAAAAsYmxMDAAGzYGzMzMzGAmZwwYMYGGA",
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwMLzMzswDMzIzMzAAAwAAmZmmlllZAA2MzM2GzMzYDAAAAALmZMDAAMmxMmZmZmNAMzAMGDmhxA",
                         popularity = 98.1,
                     },
                     {
                         rank = 2,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAYxMzMzDAAgxMmxMzMzsBgZGYMGDmhxA",
-                        popularity = 7.6,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzIzMzAAAwAAmZmmlllZAA2MzM2GzMzYBAAAAALmZMDAAMmxMmZmZmNAMzAjxYwMMGA",
+                        popularity = 7.8,
                     },
                     {
                         rank = 3,
-                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAYGGLzMzswMzIzMzAAAwAAmZmmlllZAA2MzM2GzMzYBAAAAALmZMDAAMmxMmZmZmNAMzAjxYwMMGA",
-                        popularity = 18.3,
+                        talentString = "C8DAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzIzMGAAAGAwMz0sssMDAwmZmx2YmZGbAAAAAYxMzMzDAAgxMmxMzMzsBgZGYMGDmhxA",
+                        popularity = 10.3,
                     },
                 },
             },
@@ -2552,18 +2687,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAALAstNmZmBz2wYmxGAAAzsBMDjBMDGA",
-                        popularity = 89.4,
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmlhZmYmxMzMzMziZmhZMDAAAMzMzyyMTbAAwGAAAYBgttxMzMY2GGzM2AAAYmNgZgBMDGGA",
+                        popularity = 89.3,
                     },
                     {
                         rank = 2,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAALAstNmZmBz2wYmxGAAAzsBMDjBMDGA",
-                        popularity = 26.8,
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAAWAAAALAstNmZmBz2wYmxGAAAzsBMDjBMDGA",
+                        popularity = 25.9,
                     },
                     {
                         rank = 3,
-                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFMzEzMmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAALAstMmZmBz2wYmxGAAAzsBMDjBMDGGA",
-                        popularity = 15.0,
+                        talentString = "CAEAAAAAAAAAAAAAAAAAAAAAAMzwYZmZmFmZmYGmZmZmZWMzMMjZAAAgZmZWWmZaDAA2AAAALAstNmZmBz2wYmxGAAAzsBMDjBMDGA",
+                        popularity = 14.5,
                     },
                 },
             },
@@ -2626,6 +2761,16 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGDPwYWmxGzMDAAAAAAALLYEzMwMM2YMmZmZYWGzMmZZYZz22sNmZBAA2AAAAz2s0MzMLMsBwMDTjBAAMA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAwMbbGz4BGWmxGmZMAAAAAAALLYmYmBmhxGwMzMjZ2GmxMLDLb22GzMzCAAsBAAAmtZpZmZ2MDbAMzw0YAAAD",
+                        popularity = 50.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -2698,7 +2843,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CwQAAAAAAAAAAAAAAAAAAAAAAAAAAgZbzYGGzyMzGzMjBAAAAAAYZBzEzMwMM2MwMzMDz2YmxYZYZ7BW2mNMLAAwysMtMbzsMAAAAG2AzMgpxAAAG",
-                        popularity = 61.7,
+                        popularity = 64.0,
                     },
                     {
                         rank = 2,
@@ -2843,16 +2988,16 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhhmxMgBDYWmZmZY2wMMLzEAAAAAAsYbmtZbmBAAGAgZAjBWkxMA",
-                        popularity = 96.1,
+                        popularity = 96.0,
                     },
                     {
                         rank = 2,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjNLzYmtHYmtllZGLM0MmBMYwYWmZmZY2wMMLzEAAAAAAsYbmtZbmBAAGAgZAjBWkxMA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhx0MmBMYAMzMzwshZYWmJAAAAAAYx2Mbz2MDAAMYAYGwYgFZMDA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAghxyMLjZx2MmZsZsZZGzs9AzstsMzYhx0MmBMYAMzMzwshZYWmJAAAAAAYx2Mbz2MDAAMYAYGwYgFZMDA",
+                        talentString = "C4QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMWmZZML2mxMjNjNLzYmtHYmtllZGLM0MmBMYwYWmZmZY2wMMLzEAAAAAAsYbmtZbmBAAGAgZAjBWkxMA",
                         popularity = 37.5,
                     },
                 },
@@ -2916,6 +3061,16 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYw2wgtZGbzAAAAAAAAAAAAsMMaGzAGwMGmZmZY2GmhZZmAAWMz2MzYmZmBAwGAMLzSzMzsAgBmZAYsMAGwA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYM2GmhlZGbzAAAAAAAAAAAAsMMaGzAGwMGmZmZY2GmhZZmAAWMz2MjZmZmBAwGAMLzSzMzsAgBmZAYsMAGwFA",
+                        popularity = 66.7,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -2987,17 +3142,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwA",
-                        popularity = 86.7,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDz0MmhhxghhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBADMzAALDgBM",
+                        popularity = 86.6,
                     },
                     {
                         rank = 2,
-                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgBM",
-                        popularity = 45.4,
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmxywAmxwMzMDz2wMMLzEAwiZ2mZGzMzMAA2AgZZWamZmFAMwMDAswAGwA",
+                        popularity = 45.6,
                     },
                     {
                         rank = 3,
-                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmthZYWmJAgFzsNzMmZmZAAsBAzys0MzMLAYgZGAYZMgBM",
+                        talentString = "C0QAAAAAAAAAAAAAAAAAAAAAAMzYAMGbzMz2MAAAAAAAAAAAALDzEmhhBMjhZmZGmNMDzyMBAsYmtZmxMzMDAgNAYWmlmZmZBgZgZGAYZMgBM",
                         popularity = 62.5,
                     },
                 },
@@ -3061,6 +3216,16 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAw2MzMjZMzYxYmZYZwMLmpJGGzMDjZLDADYYDsxyMmZZ2mZmtGAAAgFAYzwYGzwMAAmZYGjhB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2mZmZMjZGYMzYWGMziZSMMmZwY2yAwAwGYzsNzMzysNzMbNAAAALgB2GMmhZMAAMzwMGDDA",
+                        popularity = 66.7,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -3133,7 +3298,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEEAAAAAAAAAAAAAAAAAAAAAAAAAALAwMAAD2GzMzMjZmZBmZYZsZmFjmYYMzMMmtMAMAsB2YZmZmlZbmZ2aAAAAWAGsZgZMDzAAYmhZMGGA",
-                        popularity = 87.7,
+                        popularity = 84.9,
                     },
                     {
                         rank = 2,
@@ -3206,6 +3371,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsNzYWmZYGzM2WGDLzithBAYAAAAAAQamZxMmZGjZrNAMgBMYbAAgZm2mZWmBAYzyGzAgxMMGAgtZAmZAjN",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -3278,7 +3448,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CIEAAAAAAAAAAAAAAAAAAAAAAsZeAzyYGzYmZWWGjZZWmlZMAADAAAAAAaamhZMzwY2aDADMgZw2AAAzMtNzsMDAwmlFMAgZYMAALzAmZGwYB",
-                        popularity = 70.9,
+                        popularity = 73.3,
                     },
                     {
                         rank = 2,
@@ -3351,6 +3521,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzYAAAAAAYUGzwMjtxsNMz2MGjxwM2YbAAAMz02Mz2MAgNADgxYGmBzYMbYZGMmxwgB",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -3423,17 +3598,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmyYGmZsNmthZ2mxYMGmxGbAAAMz02Mz2MAgNADAGzwAzYmZDLzghxMGMA",
-                        popularity = 83.5,
+                        popularity = 77.5,
                     },
                     {
                         rank = 2,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmysMDzM2Gz2wMbzYMGDzYjNAAAmZabmZbGAwGgBAjZYgZMzshlZwwYYwA",
-                        popularity = 41.2,
+                        popularity = 38.4,
                     },
                     {
                         rank = 3,
                         talentString = "CYEAAAAAAAAAAAAAAAAAAAAAAAAAAAwoZbbmZWGzMzAAAAAAYmysMDzM2Gz2wMbzYMGDDbsBAAwMTbzMbzAA2AMAYMDDMjZmNsMDGzYYwA",
-                        popularity = 57.9,
+                        popularity = 57.7,
                     },
                 },
             },
@@ -3496,6 +3671,16 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMmxyYmBzgZbmtZmZmZmBAAAAAAAAAgZYZGMzMDzwMwMNTzMYmBAAY2mtFwYzAAwYMzYwMYmBjgB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMmxyYmxYGMmZbmZmZmZAAAAAAAAAAYGWmBzMzwMMDMTzEDmZAAAmtZbDM2MAAMmZmxwMDmZwIYA",
+                        popularity = 50.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -3567,13 +3752,13 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgxYZGMzMDzwMGmpZiBYmFMEGzyAMGsAAAjZmZMYGgZmBYG",
-                        popularity = 85.9,
+                        talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAghZZGMzMDzYmBMNTMAzsghwYWGgxgFAAYMzMjBzAMzMDYG",
+                        popularity = 87.0,
                     },
                     {
                         rank = 2,
                         talentString = "CAQAAAAAAAAAAAAAAAAAAAAAAADsMDWmZMmBmZbmtZmZmxMDAAAAAAAAAgZYZGMzMzwYmBbmmJGgZWwQYMLDwYwCAAMmZmxgZAmZGgZA",
-                        popularity = 29.9,
+                        popularity = 29.5,
                     },
                     {
                         rank = 3,
@@ -3641,6 +3826,16 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmlxYMzMDzMzYZGmBAAAwMmlZwMzMMDzYAzUAgZWMDzmBAGD2MzMLAaGzMGDzMbLDwAGA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAgZmtxMjZmZYmZYZGmBAAAwMmlZwMzMYGzAYmaAgZWMDziBAGD2MzMbAaGmxYYmZbZAmBGA",
+                        popularity = 12.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -3713,7 +3908,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzMmZMMDsMzMzAAAAYMzyMMzMzYbGzMAmpAYmFMEGz2AMGYxMzAgZMzDYMYGgZmBMA",
-                        popularity = 81.4,
+                        popularity = 82.7,
                     },
                     {
                         rank = 2,
@@ -3722,7 +3917,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzMmZMMDsMzMzAAAAYMzyMMzMzYbGzMAmpAYmFMEGz2AMGYxMzAgZMDjBzAMzMDMA",
+                        talentString = "CEQAAAAAAAAAAAAAAAAAAAAAAwYAAAAAAAbGzYWGzMmZMMDsMzMzAAAAYMzyMMzMzwMmZAMTBwMLYIMmtBYMwiZmBAzYmHwYwMAzMzAD",
                         popularity = 37.5,
                     },
                 },
@@ -3786,6 +3981,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMz2MGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBDA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -3857,12 +4057,12 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGD2mZGzMzYDZGLbz0AMDwMbmhZzAQGjFAMzAGzMzY2YmtlBYGMA",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBDA",
                         popularity = 62.7,
                     },
                     {
                         rank = 2,
-                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGzw2MzYmZGbIzYxMNAzAMzmZY2MAkxYBAzMgxMzMmNmZbZAmBDA",
+                        talentString = "CIQAAAAAAAAAAAAAAAAAAAAAAMMDDAAAAAAAAAAAAmZxMmZbmxMzyMGD2mZGzMzYDZGLbz0AMDwMbmhZzAQGjFAMzAGzMzY2YmtlBYGMA",
                         popularity = 12.5,
                     },
                     {
@@ -4002,17 +4202,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwYMA",
-                        popularity = 88.2,
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDAAAAAAzygtZAAAAAAttMmZmZmxYZmZmtZWmZmHwMmZMGmZMGgNzyADYBsMMBGWMYmBYmxA",
+                        popularity = 90.1,
                     },
                     {
                         rank = 2,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAILzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwYMA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwYMA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAY2GsNDAAAAAIbzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwYMA",
+                        talentString = "CMQAAAAAAAAAAAAAAAAAAAAAAYmlZmFDGAAAAAYWGsNDAAAAAILzMzMzMjxyMzMbzsMzMPgZMzYMMzYMAbmlBGwCYZYCMsYwMDwYMA",
                         popularity = 37.5,
                     },
                 },
@@ -4076,6 +4276,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMmZmtZmZmZMmF4BmZbaZw2MAAAAAgZbbmZGmZmZWMzMbDAAAAjBAjZxwADMLsQLsxAMzgBG",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -4147,8 +4352,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAALLzMzwMzMziZmZbAAAAYMAYMLGGYgZhFahNGgZGMDG",
-                        popularity = 99.4,
+                        talentString = "CQQAAAAAAAAAAAAAAAAAAAAAAAgx2MMzMjZmtZmZMzMzsAmZbaZw2MAAAAAgZbZmZGmZmZWMzMbDAAAAjBAjZxwADMLsQLsxAMzgBG",
+                        popularity = 99.5,
                     },
                     {
                         rank = 2,
@@ -4221,6 +4426,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDDzMzMzw8AbzYGbbzMzMzMjBjZ2GAAAAGMmNzyADYBsMMBmFMDzMAzYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDDzMzMzw8AbzYGbLzMzMzMjBjZ2GAAAAGMmNzyADYBsMMBmFMDzMAzYA",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDDzMzMzw8AbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAzYA",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -4293,7 +4513,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CUQAAAAAAAAAAAAAAAAAAAAAAAgx2MAAAAAwsMGLTMbbjxMDjZmZmZGGbzYGbbzMzMzMjBjZ2GAAAAGMmFzyADYBsMMBmFMDzMAzYA",
-                        popularity = 81.8,
+                        popularity = 81.7,
                     },
                     {
                         rank = 2,
@@ -4366,6 +4586,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbZMMjBAAAAsYmNYADY2YCMLAwsMzMjx2ipFmZMWmZmZMsMLzYxMDzsMAgBAmZMMMA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMmZmZZbZMMjBAAAAsYmNYADY2YCMLAwsNzMjx2iJMzYsMzMzYGLWmxiZGmZZAADDgZGDDD",
+                        popularity = 66.7,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMLbzMmZmZZbZgZMDAAAAsYmNYADY2YCMLAwsNzMjx2iJMzsNWmxMjhlZZGLmZYmlBAmhBwMjhhB",
+                        popularity = 50.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -4437,18 +4672,18 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsNzMjxyipNmZ2GLzYm5BGWmlZsMzMmZWAAGAYmxwwA",
-                        popularity = 98.1,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhB",
+                        popularity = 98.4,
                     },
                     {
                         rank = 2,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhB",
-                        popularity = 27.6,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsNzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhB",
+                        popularity = 25.8,
                     },
                     {
                         rank = 3,
-                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsNzMjx2ipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhB",
-                        popularity = 59.2,
+                        talentString = "CYQAAAAAAAAAAAAAAAAAAAAAAAAAAAzMbLzMGjZZZZMmhBAAAAsYmNYADY2YCMLAwsMzMjxyipNmZMWmZmZMsMLGLzMjZmFAgZAwMjhhB",
+                        popularity = 56.2,
                     },
                 },
             },
@@ -4582,8 +4817,8 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZbGzYssMjNmZ2GLzMzMMWGzAAMDjZGGBmZwgxA",
-                        popularity = 97.2,
+                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZZGzYssYsxMz2YZmZmhxyYGAgZYMzYGBmZwgxA",
+                        popularity = 97.6,
                     },
                     {
                         rank = 2,
@@ -4592,7 +4827,7 @@ TalentSwapperRecommended.specs = {
                     },
                     {
                         rank = 3,
-                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZbGzYssYsxMz2YZmZmZwCzAAMDjZGmJwMDGMGA",
+                        talentString = "CcQAAAAAAAAAAAAAAAAAAAAAAMzMzgZmZmZmhZmZAAAAAAAAA2AsZGDbwCMDDNYBgZbGzYssMjNmZ2GLzMzMMWGzAAMDjZGGBmZwgxA",
                         popularity = 37.5,
                     },
                 },
@@ -4656,6 +4891,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNjZGjZGzMYsAbwMW0YbAMDsZGmBLjZmpZbZmhZMbsMzDMzYGmlBAAAmZGMzAADmB",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNjZGjZGzMYsBbwMW0YbAMDsZGmBbjZmpZbZmhZMbsMzMzYwsMAAAwMzgZGAYwM",
+                        popularity = 12.5,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsssNzMzYMzYmBsAbwMW0YbAMDsZGmBLjZmpZbZmhZmZhlZGzYwsMAAAwMzgZGAYwM",
+                        popularity = 37.5,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -4727,17 +4977,17 @@ TalentSwapperRecommended.specs = {
                 builds = {
                     {
                         rank = 1,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNbLzMbmxswixMjhlZZAAAgZmBzMAwgZA",
-                        popularity = 96.3,
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjBsAbwMW0YbAMDsxMzgZbmZGNLLzMbmxsxyMmZMYWGAAAYmZwMDAMYG",
+                        popularity = 96.6,
                     },
                     {
                         rank = 2,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNbLzMbmxsxixMjhlZZAAAgZmBzMAwgZA",
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNbLzMbmxswixMjhlZZAAAgZmBzMAwgZA",
                         popularity = 12.5,
                     },
                     {
                         rank = 3,
-                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNLLzMbmxswixMjhlZZAAAgZmBzMAwgZA",
+                        talentString = "CgQAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAAAzMzsstMzMzMjZGjZgFYDmxiGbDgZgNmZGMbzMGNbLzMbmxsxixMjhlZZAAAgZmBzMAwgZA",
                         popularity = 37.5,
                     },
                 },
@@ -4873,17 +5123,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMjZGNbmx2MzYWGAAwMzsMLmZ2GDAM2WGYADYG2CMsNAAAMDAAgZmxMmZ2GjZMmZmZMMzMDAwAG",
-                        popularity = 97.3,
+                        popularity = 97.1,
                     },
                     {
                         rank = 2,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZGNLM2MzMzyAAAmZmlZxMz2YAgx2yADYAzwWghtBAAgZAAAMzMmxMz2YMjxMzMjhZmZAAGwA",
-                        popularity = 33.8,
+                        popularity = 34.8,
                     },
                     {
                         rank = 3,
                         talentString = "CkQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMzmZmZWGAAwMzsMLmZ2GDAM2WGYADYG2CMsNAAAMDAAgZmxMmx2YMjxMzMjhZmZAAGwA",
-                        popularity = 64.1,
+                        popularity = 60.0,
                     },
                 },
             },
@@ -4946,6 +5196,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbM2mZmZWGAAAAAAAwYGDLwAbDL0wixMjlZZmZGzAAzMGzMzMAzMjxAAAMmZmxwwyMGwA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -5023,12 +5278,12 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 2,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzYWGAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 62.6,
+                        popularity = 62.8,
                     },
                     {
                         rank = 3,
                         talentString = "CoQAAAAAAAAAAAAAAAAAAAAAAwMmZGNbMz2MzY2GAAAAAAAwYGDLwAbDL0wixMjlZbmZGzAAzMGzMzMAjZMjNAAwYmZGDDLzYAD",
-                        popularity = 14.1,
+                        popularity = 13.6,
                     },
                 },
             },
@@ -5091,6 +5346,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzoZjx2MzYWmlZmZmFjZbxDMAAYmZMzMLWgBmFjGzAY2wGDAAMGgNAgZGMzMGDAAAzMzAAwYYA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMzMzoZjhZmxsMLzMzMLGz2iHYAAwMzYmZWsADMLGNmBwshNGAAYMAbAAzMYmZMzAAAwMzMAAMGG",
+                        popularity = 50.0,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAYmxMzMNbMMzMzsMLzMzMLGz2iHYAAwMzYmZWsADMLGNmBwshNGAAYMAbAAzMwMjxAAAwMzMAAMGG",
+                        popularity = 33.3,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -5163,7 +5433,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMMzoZzMz2MzYWmNzMzsYmZZZMAAYGjZmZBMmxwCMw2wCNWYAAgxgBAYmBYMjZmNAAAzMzAAgZYA",
-                        popularity = 84.9,
+                        popularity = 85.7,
                     },
                     {
                         rank = 2,
@@ -5173,7 +5443,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 3,
                         talentString = "CsQAAAAAAAAAAAAAAAAAAAAAAwMMzoZxMz2MzMzysZmZmFzMLLjBAAzYMzMLgxMGWgB2GWoxCDAAMGMAAzMAzMDjNAAAzMzAAgZYA",
-                        popularity = 40.2,
+                        popularity = 41.0,
                     },
                 },
             },
@@ -5236,6 +5506,21 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAAzMzsMzMmZGAAAghphxYmxyMzMzgxMDAAAAgZWmZAhxyyALgBMDTgZwGYmx2YbglZWGgZGAMDDA",
+                        popularity = 100.0,
+                    },
+                    {
+                        rank = 2,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxYmxyMzMzgxMDAAAAgxyMDMhxy2ALgBMDTgZwGYmx2YbwsMz2AMzAgZYA",
+                        popularity = 42.9,
+                    },
+                    {
+                        rank = 3,
+                        talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxYmxyMzMzwMmZAAAAAMWmZgJMW2GYBMgZYCMD2AzMM2GMLzsNAzMAYGGA",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -5308,17 +5593,17 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphZGzMbmZmZGmxMDAAAAgxyMDMhxy2AbgBMDTgZwGYmhhBzyMbDwMDAmhBA",
-                        popularity = 99.3,
+                        popularity = 99.4,
                     },
                     {
                         rank = 2,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxYmZzMzMzYmxMDAAAAgxyMDMhxy2AbgBMDTgZwGYmhhBzyMbDwMDAmhBA",
-                        popularity = 44.2,
+                        popularity = 41.9,
                     },
                     {
                         rank = 3,
                         talentString = "CcEAAAAAAAAAAAAAAAAAAAAAAgZmZmFzYmZGAAAghphxYmZxMzMzYmxMDAAAAgxyMDMhxy2AbgBMDTgZwGYmhhBzyMbDwMDAmhBA",
-                        popularity = 77.4,
+                        popularity = 74.7,
                     },
                 },
             },
@@ -5381,6 +5666,11 @@ TalentSwapperRecommended.specs = {
                 raid = "All Raids",
                 difficulty = "Mythic",
                 builds = {
+                    {
+                        rank = 1,
+                        talentString = "CgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgGDzMmZsMzMzMDjZmZGzYmlZmxMzMbmZmBAAixy2ALgBMDTgZYDYmhxGAAMzwYMMGMG",
+                        popularity = 100.0,
+                    },
                 },
             },
             ["Imperator Averzian"] = {
@@ -5598,7 +5888,7 @@ TalentSwapperRecommended.specs = {
                     {
                         rank = 1,
                         talentString = "CkEAAAAAAAAAAAAAAAAAAAAAA0yAAAjZGzMzYGzmZmlZMGjGzYGLzMzMDzYmBAAAALDAzYAGYD2WMaMDgZBzsBzMmBzCAMzAAwAGD",
-                        popularity = 95.6,
+                        popularity = 95.9,
                     },
                     {
                         rank = 2,
